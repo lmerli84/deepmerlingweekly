@@ -1,0 +1,43 @@
+#News
+DevOps Conferences 2018,http://www.gotodevops.org/
+#Machine Learning
+Una lista di reti neurali pre-addestrate,https://www.muffintech.org/blog/id/7/
+Perchè fermarsi ad una sola rete neurale?,https://blog.acolyer.org/2018/01/12/one-model-to-learn-them-all/
+Frasario SQL/pandas (evitiamo l'estizione),http://devarea.com/pandas-for-sql-users/
+Repository del corso MIT sulla guida autonoma(DL),https://selfdrivingcars.mit.edu/
+Il risultato di Prisma(app) con tensorflow,https://medium.com/@rambossa/diy-prisma-fast-style-transfer-app-with-coreml-and-tensorflow-817c3b90dacd
+Un documento sullo stato dell'intelligenza artificiale(novembre 2017),http://cdn.aiindex.org/2017-report.pdf
+Design Patterns for Deep Learning Architectures,http://www.deeplearningpatterns.com/doku.php?id=overview
+ML cloud service(interessante per la raccolta di dataset pubblici),https://www.floydhub.com/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BSeacjAs3SHmljksJHSTdZQ%3D%3D
+Flocking simulations,https://sausheong.github.io/posts/flocking-with-go/
+#Data Engineering/Architecture
+Microsoft MakeCode(merita),https://makecode.com/
+Risorse per la certificazione Kubernetes,https://blog.heptio.com/how-heptio-engineers-ace-the-certified-kubernetes-administrator-exam-93d20af32557
+Production Grade Kubernetes,https://5pi.de/2017/12/15/production-grade-kubernetes/
+Apache Trafodion: ACID su Hadoop,http://trafodion.apache.org/index.html 
+Una piccola rete cinese di sensori,https://spectrum.ieee.org/tech-talk/telecom/internet/a-massive-iot-sensor-network-keeps-watch-over-a-1400kilometer-canal
+Python Sys monitoring tool,https://nicolargo.github.io/glances/
+Un elenco di message broker,https://taskqueues.com/
+Meltdown: una analisi sulla riduzione delle risorse in AWS,https://blog.appoptics.com/visualizing-meltdown-aws/
+Meltdown: l'analisi di Databricks,https://databricks.com/blog/2018/01/13/meltdown-and-spectre-performance-impact-on-big-data-workloads-in-the-cloud.html
+Kafka use case con Spark Streaming - parte1,https://mapr.com/blog/fast-data-processing-pipeline-predicting-flight-delays-using-apache-apis-pt-1/
+Kafka use case con Spark Streaming - parte2,https://mapr.com/blog/fast-data-processing-pipeline-predicting-flight-delays-using-apache-apis-pt-2/
+#Mixed Tech
+Google OpenSource project list,https://opensource.google.com/projects/explore/featured
+Google va su Debian,https://www.theinquirer.net/inquirer/news/3024623/google-ditches-ubuntu-for-debian-from-internal-engineering-environment
+Una serie di progetti e strumenti vari dedicati alla security,https://secapps.com/
+Un buon progetto per un hackathon IOT/Ai,https://medium.freecodecamp.org/how-we-recreated-amazon-go-in-36-hours-e32a4101d5f0
+Webpage tracking only using CSS,https://github.com/jbtronics/CrookedStyleSheets
+Tableau Dashboard sui pianeti di Star Wars,https://public.tableau.com/views/StarWarsPlanets_1/StarWarsPlanets?:embed=y&:display_count=yes&publish=yes&:showVizHome=no
+#No-tech
+La tuta aptica!,https://teslasuit.io/
+#Winners of the week
+Il prossimo libro di Harry Potter,https://www.theverge.com/2017/12/12/16768582/harry-potter-ai-fanfiction
+Come dovrebbero davvero essere i colloqui di lavoro,https://www.lego.com/en-us/seriousplay
+Linee guida di Google per lo sviluppo di progetti di Machine Learning,http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
+Nord Korea Space Program(guardatelo!),https://spacekim.io/
+Nintendo Switch Emulator,https://github.com/yuzu-emu/yuzu
+L'attacco dei droini(russi),https://www.sciencealert.com/swarm-home-made-drones-strike-military-base-first-attack-kind-russia-uavs
+Per le anziane signore inglesi del domani,https://medium.com/@AaronKalair/teabot-an-internet-connected-teapot-ab4db3b2b623
+In quale dipinto siete stati ritratti?,https://sploid.gizmodo.com/google-can-now-tell-you-which-works-of-art-you-look-lik-1822074643
+Robot scarsi,https://www.youtube.com/channel/UC3KEoMzNz8eYnwBC34RaKCQ

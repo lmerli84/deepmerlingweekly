@@ -1,0 +1,42 @@
+#News
+#Machine Learning
+Composes piano music in real time,https://deepj.ai/
+Accelerating Deep Learning with Memcomputing,https://arxiv.org/pdf/1801.00512.pdf
+MLeap is a common serialization format and execution engine for machine learning pipelines,http://mleap-docs.combust.ml/
+Building a Scalable Data Pipeline,https://medium.com/engineers-optimizely/building-a-scalable-data-pipeline-bfe3f531eb38
+An awesome Data Science repository to learn and apply for real world problems,https://github.com/bulutyazilim/awesome-datascience
+Turning brain signals into useful information,https://www.economist.com/news/technology-quarterly/21733192-once-data-have-been-extracted-brain-how-can-they-be-employed-best?linkId=46740565
+Audio Adversarial Examples,http://nicholas.carlini.com/code/audio_adversarial_examples/
+Workflow for collaborative data science aimed at production,https://github.com/Satalia/production-data-science
+Grakn - THE DATABASE FOR AI,https://grakn.ai/
+Neural Style Transfer for Musical Melodies,https://ashispati.github.io//style-transfer/
+A dataset for behavioral context recognition in-the-wild from mobile sensors,http://extrasensory.ucsd.edu/
+Ray: A Distributed System for AI,http://bair.berkeley.edu/blog/2018/01/09/ray/
+How to Run Large-Scale Educational Workshops in Deep Learning & Data Science,https://blogs.technet.microsoft.com/machinelearning/2018/01/10/running-large-scale-educational-workshops-in-deep-learning-data-science/
+Web based tools for computer vision data preparation and deep learning based object detection built on top of tensorflow object detection,https://github.com/swirlingsand/theres_an_ai_for_that
+Modular Active Learning framework for Python3,https://cosmic-cortex.github.io/modAL/
+#Data Engineering/Architecture
+Moby project - An open framework to assemble specialized container systems without reinventing the wheel,http://mobyproject.org/
+Eliot is a open source system for managing containerized applications on top of the IoT device,https://github.com/ernoaapa/eliot
+Get control of your servers. Simple. Effective. Awesome!,https://github.com/firehol/netdata
+How to implement business transactions using Microservices,https://blog.couchbase.com/saga-pattern-implement-business-transactions-using-microservices-part/
+Cryptojacking Honeypots in Kubernetes,https://sysdig.com/blog/detecting-cryptojacking/
+Benchmarking Apache Kafka on OpenStack VM's,https://db-blog.web.cern.ch/blog/prasanth-kothuri/2016-10-benchmarking-apache-kafka-openstack-vms
+#Mixed Tech
+HDR Photography in Microsoft Excel,https://www.youtube.com/watch?v=bkQJdaGGVM8
+The Rigetti QPU,http://pyquil.readthedocs.io/en/latest/qpu_overview.html#acorn-qpu-properties
+Manually curated collection of resources for frontend web developers,https://github.com/dypsilon/frontend-dev-bookmarks
+frontend directory,https://frontend.directory/p
+Twitter Security Engineer: ‘We Have Full Access To Every Single Person’s Account,https://www.inquisitr.com/4730254/twitter-security-engineer-we-have-full-access-to-every-single-persons-account/
+Using Google Cloud Platform to store and query 1.4 billion usernames and passwords,https://blog.appsecco.com/using-google-cloud-platform-to-store-and-query-1-4-billion-usernames-and-passwords-6cac572f5a29
+From Capistrano to Kubernetes: Lessons from PhraseApp's transition,https://techbeacon.com/capistrano-kubernetes-lessons-phraseapps-transition
+#No-tech
+Astronomers Find a Spectacular Source For Those Mysterious Repeating Space Signals,https://sciencealert.com/frb-121102-fast-radio-burst-massive-black-hole-nebula-icrar
+Scegli il tuo...Hadoop,http://www.uliwestphal.de/elephas-anthropogenus/
+Why dolphins are deep thinkers,https://www.theguardian.com/science/2003/jul/03/research.science
+Canon Italy Posts Landscape Composite Without Credit, Stolen Elements, and Taken on a Fujifilm,https://fstoppers.com/news/canon-italy-posts-landscape-composite-without-credit-stolen-elements-and-taken-211794
+#Winners of the week
+Faster than GPUs? Systolic Arrays explained,https://www.youtube.com/watch?v=OdkECBWbmhU&feature=youtu.be
+Attack of the Week: Group Messaging in WhatsApp and Signal,https://blog.cryptographyengineering.com/2018/01/10/attack-of-the-week-group-messaging-in-whatsapp-and-signal/
+Il vero vantaggio dell'AI,https://www.theverge.com/2018/1/10/16865506/laundroid-laundry-folding-machine-foldimate-ces-2018
+Turning Design Mockups Into Code With Deep Learning,https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/
