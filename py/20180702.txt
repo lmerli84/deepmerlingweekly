@@ -1,5 +1,0 @@
-#Winners of the week
-#Machine Learning
-#Data Engineering/Architecture
-#Mixed Tech
-#No-tech
