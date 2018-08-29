@@ -5,7 +5,7 @@
 
 
 #Inserire la data della weekly in YYYYMMGG
-file_name="20180818"
+file_name="20180829"
 print("""
 <div class="row center"><a href="http://www.deepmerlingweekly.com/issues/"""+file_name+""".html" id="download-button" 
 class="btn-large waves-effect waves-light yellow darken-2">"""+file_name[6:8]+"-"+file_name[4:6]+"-"+file_name[0:4]+"""</a></div>
