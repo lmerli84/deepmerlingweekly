@@ -1,8 +1,3 @@
-
-# coding: utf-8
-
-# In[1]:
-
 file_name="20180923"
 with open(file_name+".txt", "r") as f:
     data = f.readlines()
