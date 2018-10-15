@@ -1,4 +1,4 @@
-file_name="20181004"
+file_name="20181015"
 with open(file_name+".txt", "r") as f:
     data = f.readlines()
  
