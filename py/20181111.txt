@@ -5,6 +5,7 @@ Immersive Analytics Toolkit|https://github.com/MaximeCordeil/IATK
 Come risultare intelligenti e partecipi in riunione (rivelazioni)|https://www.sadanduseless.com/work-meeting-lifehacks/
 Perchè kubeflow?(o perchè no? :( )|https://medium.com/kubeflow/why-kubeflow-in-your-infrastructure-56b8fabf1f3e
 Data Pipeline Alerting with Pulse (nuove cose vecchie in Cloudera)|http://blog.cloudera.com/blog/2018/11/proactive-data-pipeline-alerting-with-pulse/
+Come convincere il proprio capo a mandarti a Barcellona all'evento di kubernetes senza avere una weekly in gestione|https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2019/attend/#convince-your-boss
 #Machine Learning
 Librerie di ML: sapete cosa state usando?|https://kite.com/blog/python/python-machine-learning-libraries
 Tensorflow 2.0 - overview|https://pgaleone.eu/tensorflow/gan/2018/11/04/tensorflow-2-models-migration-and-new-design/
