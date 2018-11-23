@@ -1,0 +1,34 @@
+#Winners of the week
+Contro l'agilita'|https://michaelochurch.wordpress.com/2015/06/06/why-agile-and-especially-scrum-are-terrible/
+Hackaton a Milano|https://www.codeflows.io/?utm_campaign=103
+Ansible web gui|https://github.com/vstconsulting/polemarch
+Naughty Strings list|https://github.com/minimaxir/big-list-of-naughty-strings
+Considerazioni sulle librerie di data visualization|https://www.anaconda.com/blog/developer-blog/python-data-visualization-2018-why-so-many-libraries/
+#Machine Learning
+Handyspark|https://towardsdatascience.com/handyspark-bringing-pandas-like-capabilities-to-spark-dataframes-5f1bcea9039e
+Distributed TensorFlow, Keras and BigDL on Apache Spark|https://github.com/intel-analytics/analytics-zoo
+Nvidia noise suppression|https://devblogs.nvidia.com/nvidia-real-time-noise-suppression-deep-learning/
+Il link sopra, applicato|https://krisp.ai/index.html
+Neural network in 3d|https://tensorspace.org/
+Messa in produzione di modelli: un po di accademia|https://arxiv.org/ftp/arxiv/papers/1811/1811.04871.pdf
+#Data Engineering/Architecture
+Google AI LAB & Kubeflow pipelines|https://cloud.google.com/blog/products/ai-machine-learning/introducing-ai-hub-and-kubeflow-pipelines-making-ai-simpler-faster-and-more-useful-for-businesses
+Pachyderm prende fondi|http://www.pachyderm.io/2018/11/15/Series-A.html
+Amazon a Milano|https://www.businesswire.com/news/home/20181113005476/en/Amazon-Web-Services-Open-Data-Centers-Italy?mkt_tok=eyJpIjoiTVdJek5XTmtZbU5tT0dVdyIsInQiOiJFXC9zU3FBYmdTY3VHZmZUZnJnQ29lV1o1RndQMXNoXC9ubDZzYnBoMjh0aTVtV0dENFVJT3liSWJUMk5LN1lOMURNRGtLdEpYSmxUdzdLY09wRENQbTZod0JIYVIyWXpzcyticWhNM3RIVjdIa1wvVUV4YnZuWHVyUVE3YXFlaDhGVmU4cjhOVUNTWWdyTlByRjBCcFVtNWc9PSJ9
+La JDK di Amazon|https://aws.amazon.com/it/blogs/opensource/amazon-corretto-no-cost-distribution-openjdk-long-term-support/
+Alluxio,HDFS e Spark|https://github.com/BBVA/docker-hdfs-alluxio-spark
+Red Hat Enterprise Linux 8 Beta|https://www.redhat.com/en/blog/powering-its-future-while-preserving-present-introducing-red-hat-enterprise-linux-8-beta
+Kubernetes cost monitoring|https://medium.com/kubecost/effectively-managing-kubernetes-with-cost-monitoring-96b54464e419
+MongoDB Mobile|https://www.mongodb.com/products/mobile?utm_campaign=Int_EM_MDBE18_Release_announcement_11_18_EMEA&utm_medium=email&utm_source=Eloqua
+#Mixed Tech
+Quantum storage|https://www.tomshardware.com/news/quantum-computing-news-data-drive,38038.html
+Pixel 3 night sight|https://ai.googleblog.com/2018/11/night-sight-seeing-in-dark-on-pixel.html
+Storia da hacker|https://threader.app/thread/1063423110513418240
+Quantum programming library|https://github.com/mapmeld/quantum-quail
+#No-techS
+Il Topolino prima di Topolino|https://www.intrattenimento.eu/news/walt-disney-predecessore-topolino/
+Il punto più alto della terra|https://oceanservice.noaa.gov/facts/highestpoint.html
+Citta' procedurali|https://marian42.itch.io/wfc
+Comprare libri e non leggerli|https://www.linkiesta.it/it/article/2018/11/13/comprate-libri-e-non-li-leggete-e-la-cosa-migliore-che-possiate-fare/40068/?fbclid=IwAR00IYc9ST9f2Vew3CnmrpWhfXw3mAHlKHuxmNIvCSW3JXLjxdeKxQbwkQc
+Sposare ologrammi|https://www.ilmessaggero.it/mondo/giappone_35enne_sposa_ologramma_ne_sempre_stato_innamorato-4104783.html
+The frequency of love|https://www.youtube.com/watch?v=Ag7XHvzI6cw
