@@ -1,0 +1,40 @@
+#News
+Conference search engine,http://confir.io/
+#Special Guest
+Must star&watch,https://github.com/allxone/datalab
+#Machine Learning
+Snorkel - Machine Learning Labeling(Anche su Spark),https://hazyresearch.github.io/snorkel/
+Raccolta di tutorial su OpenCV(con riferimenti al DL),https://github.com/jrobchin/Computer-Vision-Basics-with-Python-Keras-and-OpenCV
+Facebook detectron,https://github.com/facebookresearch/Detectron
+Predizione di emissione di energia elettrica,https://www.dataquest.io/blog/learning-curves-machine-learning/
+Pirati artificiali e framework per addestrarli,https://github.com/HugoCMU/pirateAI
+Alternativa Opensource a Tensorboard,http://visualdl.paddlepaddle.org/
+Proposta di memory optimization per modelli TF(da rileggere un paio di volte),https://medium.com/@yaroslavvb/fitting-larger-networks-into-memory-583e3c758ff9
+Super mini deep learning framework,https://github.com/microic/niy
+Librerie SCALA in ambito data science,https://activewizards.com/blog/top-15-scala-libraries-for-data-science/?utm_source=reddit&utm_medium=learnmachinelearning&utm_campaign=top_scala_libraries
+Global overview of Imitation Learning,https://arxiv.org/abs/1801.06503
+#Data Engineering/Architecture
+Tecniche indirizzamento eventi in Kafka Topics,https://www.confluent.io/blog/put-several-event-types-kafka-topic/
+IOT Winners,http://iotbreakthrough.com/winners/
+GPS Data Tranking su GCP,https://medium.com/google-cloud/gps-cellular-asset-tracking-using-google-cloud-iot-core-firestore-and-mongooseos-4dd74921f582?__s=wxmqfiaog5u9c3sru5f7
+Serverless Framework per Kubernetes,http://fission.io/
+Serverless Framework opensource,https://nuclio.io/
+AMD GPU computation(e non solo) initiative,https://gpuopen.com/
+#Mixed Tech
+D3js Plugin Collection,https://blog.webkid.io/d3-discovery/
+boilerplate for PySpark and Flask,https://github.com/mjhea0/flask-spark-docker
+Mappazzone riassuntivo sulla Blockchain(si lo non la descrizione non invoglia ma riassume i contenuti),http://cs.brown.edu/courses/csci2952-a/papers/perspective.pdf
+Il miglior assistente vocale?No però ascolta lo stesso,https://theintercept.com/2018/01/19/voice-recognition-technology-nsa/
+Metrics&Stats collector by Google,http://opencensus.io/
+Aggiustare robot in formaggeria,https://blogs.scientificamerican.com/observations/i-am-a-roboticist-in-a-cheese-factory/
+Instagram Bot(like al posto vostro),https://github.com/gulzar1996/auto-like-my-gf-insta-pic
+#No-tech
+Design Creator,https://crello.com/it/home/
+Hackaton Marini,https://hackforthesea.tech/
+#Winners of the week
+Distribuited Tensorflow on Kubernetes,https://banzaicloud.com/blog/tensorflow-on-k8s/
+Usi alternativi di chiavette usb,https://medium.com/@_MG_/mr-self-destruct-7986998f32a8
+Poesia dell'indentazione,https://hackernoon.com/an-ode-to-code-formatting-tools-a0e936f8b945
+Bananacoin(credo non serva aggiungere altro),https://bananacoin.io/
+Anonimi pacchetti UPD in Hotel,https://gkbrk.com/2016/05/hotel-music/
+Umani attaccano auto(apparentemente senza motivo),https://sf.curbed.com/2018/1/18/16905686/self-driving-car-attacked-gm-cruise

@@ -1,0 +1,40 @@
+#Machine Learning
+Ipotesi di framework per Deep Learning distribuito,http://tvmlang.org/2017/08/17/tvm-release-announcement.html
+TF LSTM e Bike sharing,https://medium.com/google-cloud/predicting-san-francisco-bikeshare-availability-with-tensorflow-and-lstms-a3ced14d13dc?__s=wxmqfiaog5u9c3sru5f7
+Tensorflow on Spark,https://github.com/lifeomic/sparkflow
+Separazione di voci sovrapposte,https://research.googleblog.com/2018/04/looking-to-listen-audio-visual-speech.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+blogspot%2FgJZg+%28Official+Google+Research+Blog%29
+Pytorch recommendation,http://blog.fastforwardlabs.com/2018/04/10/pytorch-for-recommenders-101.html
+Un po' di reti trainate,https://github.com/cameronfabbri/Compute-Features
+Drone Object detection,https://www.youtube.com/watch?v=ZM57A_Y5Cks&feature=youtu.be
+Obama e fake news,https://www.youtube.com/watch?time_continue=72&v=cQ54GDm1eL0
+High performance Tensorflow,https://ai.intel.com/high-performance-tensorflow-on-intel-xeon-using-ngraph/
+#Data Engineering/Architecture
+Graph Database (su Hbase e Parquet),https://github.com/gchq/Gaffer
+Autodevops ny Gitlab,https://docs.gitlab.com/ee/topics/autodevops/
+AWS - Intesessante raccolta di suggerimenti(i gotchas!) per il Cloud di Amazon,https://github.com/open-guides/og-aws
+Kube-router,https://github.com/cloudnativelabs/kube-router
+Kafka GDPR POC,http://danlebrero.com/2018/04/11/kafka-gdpr-event-sourcing-implentation/
+Cloudron - app installer (anche on-premise),https://cloudron.io/index.html
+Impala hotspotting - small files on Hadoop=ko,https://medium.com/@adirmashiach/hotspotting-in-hadoop-impala-case-study-6a8a613f14a1
+K8s - building di immagini ma senza root,https://cloudplatform.googleblog.com/2018/04/introducing-kaniko-Build-container-images-in-Kubernetes-and-Google-Container-Builder-even-without-root-access.html?m=1
+#Mixed Tech
+Fossil - distributed software configuration management system,https://fossil-scm.org/index.html/doc/trunk/www/index.wiki
+Ole' 20 qbits,https://phys.org/news/2018-04-quantum-physicists-entanglement.html
+Comparativa fra chatbot,https://activewizards.com/blog/a-comparative-analysis-of-chatbots-apis/?utm_source=reddit&utm_medium=bigdata&utm_campaign=chatbots
+#No-tech
+Vipassana for hackers,https://github.com/deobald/vipassana-for-hackers/blob/master/vipassana-for-hackers.pdf
+Canzoni e codice morse,https://hackaday.com/2018/04/13/another-reason-to-learn-morse-code-kidnapping/
+Il linguaggio segreto delle navi,https://www.hakaimagazine.com/videos-visuals/the-secret-language-of-ships/
+Produrre pelle dai funghi,https://boltthreads.com/technology/mylo/
+Catena di produzione delle lenti Nikon,https://www.imaging-resource.com/news/2018/04/17/glass-for-geeks-an-in-depth-tour-of-nikons-hikari-glass-factory
+La sindrome dell'impostore,https://vadosware.io/post/the-cure-for-impostor-syndrome-is-knowing-things/
+#Winners of the week
+La discesa di gradiente,https://fosterelli.co/executing-gradient-descent-on-the-earth
+ML as a service,https://runwayml.com/
+CD/CI in K8s - un esempio,https://dzone.com/articles/continuous-delivery-to-kubernetes-for-machine-lear
+Parlare ai(!) libri,https://books.google.com/talktobooks/
+Gundam,https://www.reuters.com/article/us-japan-giantrobot/japanese-engineer-builds-giant-robot-to-realize-gundam-dream-idUSKBN1HK0HX
+Compressione ed abilita in 64k(bytes),http://www.ctrl-alt-test.fr/2018/a-dive-into-the-making-of-immersion/
+Corso di machine learning per ingegneri civili,http://www.polymtl.ca/cgm/jagoulet/Site/Goulet_web_page_TEACHING.html
+Una distribuzione Kubernetes,https://pharos.sh/
+K8s YAML Validator,https://cloud66.com/copper#copper

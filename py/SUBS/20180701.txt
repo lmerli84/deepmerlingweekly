@@ -1,0 +1,31 @@
+#Winners of the week
+La guida illustrata per bambini a Kubernetes|https://deis.com/blog/2016/kubernetes-illustrated-guide/
+Metacars|https://www.metacar-project.com/
+Stuntman robot|https://www.geek.com/tech/disneys-autonomous-robot-stunt-doubles-are-the-future-1744674/
+#Machine Learning
+Libreria Java per la ricerca di anomalie in serie temporali|https://github.com/yahoo/egads
+Tensorflow as a Service|https://github.com/vkuznet/TFaaS
+Deep learning nativo su Win|https://github.com/philferriere/dlwin
+Una rete neurale passo passo|https://google-developers.appspot.com/machine-learning/crash-course/backprop-scroll/?utm_source=newsletter&utm_medium=email&utm_campaign=Learn%20By%20Doing
+Apache OpenNlP|https://opennlp.apache.org/
+Neural Network compression by Intel|https://github.com/NervanaSystems/distiller
+ML Benchmarks|https://mlperf.org/
+#Data Engineering/Architecture
+Integration test in K8s|https://itnext.io/running-integration-tests-with-kubernetes-ae0fb71e207b
+Kubernetes on Nvidia GPU|https://developer.nvidia.com/kubernetes-gpu
+Come gestire dati di 11000 treni|https://ennate.io/blogs/industrial-iot-applications-solutions
+ARM container in x86|https://ownyourbits.com/2018/06/27/running-and-building-arm-docker-containers-in-x86/
+Monitoraggio di container con Beats|https://www.elastic.co/blog/docker-and-kubernetes-hints-based-autodiscover-with-beats
+News varie su Nvidia Docker|https://thenewstack.io/nvidia-opens-gpus-for-ai-work-with-containers-kubernetes/
+Regole di buon senso per il processamento dei dati|https://lemire.me/blog/2018/06/26/data-processing-on-modern-hardware/
+#Mixed Tech
+nbdime - diff e merge per Jupyter Notebook|https://nbdime.readthedocs.io/en/stable/
+Twelve Factor App|https://12factor.net/
+Salvare un film in DNA|https://www.nature.com/news/lights-camera-crispr-biologists-use-gene-editing-to-store-movies-in-dna-1.22288
+Complessita' delle strutture dati|https://g1thubhub.github.io/data-structure-zoo.html
+#No-tech
+Le ultime parole famose|https://www.cbinsights.com/research/big-compay-ceos-execs-disruption-quotes/
+Pare che ci sia uno strappo temporale a Las Vegas|https://losangeles.cbslocal.com/2018/06/28/time-warp-las-vegas-paranormal-investigator/
+Ritrovamenti metropolitani|https://belowthesurface.amsterdam/en
+900 avventure di D&D|https://www.reddit.com/r/DnD/comments/8utn43/over_900_adventures_for_download/
+Un cane palla|https://www.sadanduseless.com/cute-dog-haircuts/

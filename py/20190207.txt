@@ -1,0 +1,42 @@
+#Winners of the week
+Bugie dell'architetto|https://www.slideshare.net/gwenshap/lies-enterprise-architects-tell-data-day-texas-2018-keynote?from_action=save
+K8s multitenancy plan|https://docs.google.com/presentation/d/1dsAsVm8kCA9Dx9_gMEYeJL7pduAbnfnxT9lhbyCvHDg/edit#slide=id.p1
+Un caso interessante in Spark|https://blog.godatadriven.com/spark-beware
+Bassa latenza|https://mux.com/blog/the-low-latency-live-streaming-landscape-in-2019/
+#Machine Learning
+Il machine learning spiegato a una giraffa in italiano|https://write.as/chobeat/il-machine-learning-spiegato-ad-una-giraffa
+Intel NAUTA per il machine learning|https://www.intel.ai/nauta/
+Tensorflow serving - esempio completo|https://towardsdatascience.com/deploy-your-machine-learning-models-with-tensorflow-serving-and-kubernetes-9d9e78e569db?__s=wxmqfiaog5u9c3sru5f7
+Jupyter+Tensorflow+kafka+ksql|https://www.slideshare.net/KaiWaehner/iot-sensor-analytics-with-python-jupyter-tensorflow-keras-apache-kafka-ksql-and-mqtt/KaiWaehner/iot-sensor-analytics-with-python-jupyter-tensorflow-keras-apache-kafka-ksql-and-mqtt
+Statistica|https://www.statisticsdonewrong.com/
+State of the art in AI|https://paperswithcode.com/sota
+[Repost] Tensorflow on Yarn, ma adesso che lo dice Google cliccate!|https://cloud.google.com/blog/products/ai-machine-learning/ai-in-depth-cloud-dataproc-meets-tensorflow-on-yarn-let-tony-help-you-train-right-in-your-cluster?__s=wxmqfiaog5u9c3sru5f7&utm_source=drip&utm_medium=email&utm_campaign=GCP%2BNewsletter%2B%23123
+#Kubernetes
+Ancora un passettino in avanti sulla multitenancy|https://github.com/kubernetes/kubernetes/pull/73517
+Kubeflow ARENA - command-line interface for the data scientists|https://github.com/kubeflow/arena
+Kube2iam|https://github.com/jtblin/kube2iam
+Disamina sui CPU limits|https://mcrthr.com/kubernetes-cpu-limits
+I limiti di K8s su Azure|https://medium.com/devopslinks/current-limitations-running-azure-aks-in-production-55b830e89f3c
+#Data Engineering/Architecture
+Mappa dei servizi AWS/GCP|https://medium.com/@sunguy/mapping-aws-services-to-google-cloud-platform-4c448e609702?__s=wxmqfiaog5u9c3sru5f7
+Hadoop submarine project|https://www.slideshare.net/ydn/hadoop-submarine-project-running-deep-learning-workloads-on-yarn-wangda-tan-hortonworks
+Hadoop 3.2.0|https://blogs.apache.org/foundation/entry/the-apache-software-foundation-announces45
+Kafka+Openshift per lo smart metering|https://developers.redhat.com/blog/2018/07/16/smart-meter-streams-kafka-openshift/
+Moongoose-os|https://mongoose-os.com/
+Apache beam sql - esempio|https://medium.com/weareservian/exploring-beam-sql-on-google-cloud-platform-b6c77f9b4af4?__s=wxmqfiaog5u9c3sru5f7
+Uno stack di riferimento|https://towardsdatascience.com/seamlessly-integrated-deep-learning-environment-with-terraform-google-cloud-gitlab-and-docker-faee4b351e94?__s=wxmqfiaog5u9c3sru5f7
+Alpakka|https://doc.akka.io/docs/alpakka/current/index.html
+CD/CD con GCP e Gitlab|https://medium.com/@nicklonginow/continuous-delivery-pipelines-to-google-kubernetes-engine-with-gitlab-d65e04be6c0b?__s=wxmqfiaog5u9c3sru5f7
+#Mixed Tech
+Dietpi - la distro RPI leggera|https://dietpi.com/
+Python su una sola riga|https://github.com/csvoss/onelinerizer
+Arduino IOT Cloud|https://blog.arduino.cc/2019/02/06/announcing-the-arduino-iot-cloud-public-beta/
+#No-tech
+Uovo, Gallina o semplicemente folle?|https://www.leggo.it/AMP/esteri/figlio_causa_genitori-4279215.html
+Tagliare il pesce alla Giapponese|https://guide.michelin.com/sg/dining-out/what-is-ike-jime/news
+Il gioco del cursore|https://yeahpython.github.io/game/game.html
+Saltare la colazione|https://www.xaprb.com/blog/skipping-breakfast/
+MNIST in Minecraft|https://i.imgur.com/oUG4zpY.gifv
+Reflex sotto tortura|https://www.youtube.com/watch?v=JmrjI0-9KJs
+La caccia al cinghiale|https://www.agi.it/cronaca/lombardia_caccia_cinghiali_arco-4954264/news/2019-02-05/
+Cosplay venuti male (in attesa di lucca 2019, vero Yennefer?)|https://www.sadanduseless.com/worst-costumes/#more-67972

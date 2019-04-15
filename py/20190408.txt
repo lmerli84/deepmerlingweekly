@@ -1,0 +1,41 @@
+#Winners of the week
+Data lineage @ Netflix|https://medium.com/netflix-techblog/building-and-scaling-data-lineage-at-netflix-to-improve-data-infrastructure-reliability-and-1a52526a7977
+Amazon internal deployment model|https://jatins.gitlab.io/me/amazon-internal-tools/?utm_campaign=The%20Scaleup%20Architect&utm_medium=email&utm_source=Revue%20newsletter
+Eventi IT in Italia|https://github.com/ildoc/awesome-italy-events
+La VPN|https://schub.io/blog/2019/04/08/very-precarious-narrative.html
+#Machine Learning
+Joblib - semplice pipeline framework in Python|https://joblib.readthedocs.io/en/latest/
+Ampligraph|https://github.com/Accenture/AmpliGraph/
+Pytorch serving|https://github.com/hyoungseok/brusta
+Prevedere il genere da dati mobili|https://journalofbigdata.springeropen.com/articles/10.1186/s40537-019-0180-9
+Jupyter collabora con Anaconda|https://blog.jetbrains.com/pycharm/2019/04/collaboration-with-anaconda-inc/
+Visual inspection & deep Learning|https://blog.nanonets.com/ai-visual-inspection/?utm_source=reddit&utm_medium=social&utm_campaign=inspection&utm_content=artificial
+GCP notebook executor|https://blog.kovalevskyi.com/gcp-notebook-executor-v0-1-2-8e37abd6fae1?__s=wxmqfiaog5u9c3sru5f7
+#Kubernetes
+Brigate - Event scripting in k8s by Microsoft|https://brigade.sh/
+Tekton [repost!]|https://github.com/tektoncd/pipeline
+Jenkins Modular Pipelines|https://jenkins.io/blog/2019/01/08/mpl-modular-pipeline-library/
+#Data Engineering/Architecture
+Google dedicated interconnect|https://cloud.google.com/interconnect/docs/concepts/dedicated-overview
+Pipeline Kubernetes Engine|https://github.com/banzaicloud/pke
+Kafka paging in browser|https://www.confluent.io/blog/consuming-messages-out-of-apache-kafka-in-a-browser
+Spark adaptive execution|https://github.com/Intel-bigdata/spark-adaptive
+MAPR a container|https://containerjournal.com/2019/04/02/mapr-embraces-kubernetes-for-big-data/
+#Mixed Tech
+Agile fagile (Aprilo Poty)|https://github.com/davebs/AgileLite
+GPS che si rompono|https://blog.fosketts.net/2019/04/06/gps-time-rollover-failures-keep-happening-but-theyre-almost-done/
+Linux bench scripts|https://github.com/haydenjames/bench-scripts
+VSCode in docker - alternativa al link della scorsa edizione|https://binal.pub/2019/04/running-vscode-in-docker/
+#No-tech
+Strane sincronie naturali|https://www.quantamagazine.org/physicists-discover-exotic-patterns-of-synchronization-20190404/
+Drone armato|https://www.tomsguide.com/us/russia-flying-rifle-drone,news-29765.html
+Villaggio fantasma in vendita|https://www.bloomberg.com/news/articles/2019-03-29/ghost-villages-for-sale-as-spain-fights-rural-desertification
+Megapiscina polacca|https://edition.cnn.com/travel/article/worlds-deepest-pool-scli-intl/index.html
+Principe Harry ruba account|https://www.bbc.com/news/newsbeat-47813521
+Open source games clones|https://osgameclones.com/
+Lo stato del clima mondiale 2018|https://library.wmo.int/doc_num.php?explnum_id=5789
+Lancio dell'incudine|https://en.wikipedia.org/wiki/Anvil_firing
+Vita nei bunker cinesi|https://www.nationalgeographic.com/photography/proof/2017/02/atomic-rooms-beijing-china-housing/
+Fior di ciliegio e soldini|https://www.bloomberg.com/graphics/2019-cherry-blossoms/
+Airbnb e lo streaming|https://edition.cnn.com/2019/04/05/europe/ireland-airbnb-hidden-camera-scli-intl/index.html
+Contenuto della pattumiera di Zuckenberg|https://www.businessinsider.com/mark-zuckerberg-contents-of-his-trash-revealed-by-new-york-times-2019-4?IR=T

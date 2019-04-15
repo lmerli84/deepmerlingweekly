@@ -1,0 +1,32 @@
+#Winners of the week
+Un viaggio nella privacy online|https://privacytools-it.github.io/
+Moral Machine - morale della guida autonoma, con test!|http://moralmachine.mit.edu/
+Immersive Analytics Toolkit|https://github.com/MaximeCordeil/IATK
+Come risultare intelligenti e partecipi in riunione (rivelazioni)|https://www.sadanduseless.com/work-meeting-lifehacks/
+Perchè kubeflow?(o perchè no? :( )|https://medium.com/kubeflow/why-kubeflow-in-your-infrastructure-56b8fabf1f3e
+Data Pipeline Alerting with Pulse (nuove cose vecchie in Cloudera)|http://blog.cloudera.com/blog/2018/11/proactive-data-pipeline-alerting-with-pulse/
+Come convincere il proprio capo a mandarti a Barcellona all'evento di kubernetes senza avere una weekly in gestione|https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2019/attend/#convince-your-boss
+#Machine Learning
+Librerie di ML: sapete cosa state usando?|https://kite.com/blog/python/python-machine-learning-libraries
+Tensorflow 2.0 - overview|https://pgaleone.eu/tensorflow/gan/2018/11/04/tensorflow-2-models-migration-and-new-design/
+Distributed Asynchronous Hyperparameter Optimization in Python|https://github.com/hyperopt/hyperopt
+Rapids.ai|https://rapids.ai/
+Come ottimizzare modelli per il serving|https://medium.com/google-cloud/optimizing-tensorflow-models-for-serving-959080e9ddbf?__s=wxmqfiaog5u9c3sru5f7
+spiNNakeR computing machine|http://apt.cs.manchester.ac.uk/projects/SpiNNaker/
+Una spiegazione di BERT - nuovo modello di Google|https://www.lyrn.ai/2018/11/07/explained-bert-state-of-the-art-language-model-for-nlp/
+#Data Engineering/Architecture
+Devspace - CLI di integrazione|https://devspace-cloud.com/
+dockly - Docker Interface | https://github.com/lirantal/dockly
+Uber Michelangelo (Old)|https://eng.uber.com/scaling-michelangelo/
+Spark su K8s - Novità|https://databricks.com/blog/2018/09/26/whats-new-for-apache-spark-on-kubernetes-in-the-upcoming-apache-spark-2-4-release.html
+Kontena (repost) for K8s|https://blog.kontena.io/kubernetes-that-just-works-kontena-pharos-2-0-released/
+K8s cert manager|https://github.com/jetstack/cert-manager
+Cloud spanner per Spark|https://github.com/GoogleCloudPlatform/cloud-spanner-spark-connector?__s=wxmqfiaog5u9c3sru5f7&utm_source=drip&utm_medium=email&utm_campaign=GCP+Newsletter+%23110
+#Mixed Tech
+TLS illustrato|https://tls13.ulfheim.net/
+Tools per la salvaguardia della privacy|https://prism-break.org/it/
+#No-techS
+Sick building syndrome|https://www.nhs.uk/conditions/sick-building-syndrome/
+Database di kea (teneri volatili neozelandesi)|https://keadatabase.nz/
+Il buco si richiude|https://www.bbc.com/news/newsbeat-46107843
+Sincronia fra osservato ed osservatore|https://www.sadanduseless.com/matching-paintings/

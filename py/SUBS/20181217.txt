@@ -1,0 +1,39 @@
+#Winners of the week
+Data science workflow|http://fouryears.eu/2018/11/29/the-data-science-workflow/
+AI infrastructure|https://github.com/1duo/awesome-ai-infrastructures
+Lamborghini HuraCAM|https://www.youtube.com/watch?v=YW7zuiC_ec4&feature=youtu.be
+Linux su Tesla|https://cleantechnica.com/2018/12/13/hacker-installs-linux-on-his-tesla-model-3/
+Come invecchiare (o no?)|https://sites.google.com/site/gobenyan/essay
+#Machine Learning
+Jax - Numpy in GPU e TPU|https://github.com/google/jax
+ML Pipeline con Kubeflow|https://medium.com/kredaro-engineering/ai-tales-building-machine-learning-pipeline-using-kubeflow-and-minio-4b88da30437b
+Sacred - Data science project management Tool|https://github.com/IDSIA/sacred
+Hyperdash - Data science monitoring|https://hyperdash.io/
+Citta' virtuali by Nvidia|https://yellrobot.com/nvidia-ai-generate-virtual-worlds-videos/
+Sulla parallelizzazione di algoritmi|https://blog.skymind.ai/distributed-deep-learning-part-1-an-introduction-to-distributed-training-of-neural-networks/
+Su Pandas|https://www.dataschool.io/future-of-pandas/
+Dataset di foto segnaletiche|https://catalog.data.gov/dataset/nist-mugshot-identification-database-mid-nist-special-database-18
+#Data Engineering/Architecture
+K8s multitenant operator|https://github.com/lessor/lessor
+Spark Image Data source|https://databricks.com/blog/2018/12/10/introducing-built-in-image-data-source-in-apache-spark-2-4.html
+Drone CI/CD|https://blog.drone.io/drone-goes-kubernetes-native/
+Tips&Tricks per Spark in AWS|https://medium.com/@brajendragouda/5-key-factors-to-keep-in-mind-while-optimizing-apache-spark-in-aws-part-1-4b113425bdcf
+Tips&Tricks per Spark in generale|http://orastack.com/spark-scaling-to-large-datasets.html
+Multicloud control plane|https://github.com/crossplaneio/crossplane
+Kubernetes security flaw (CVE-2018-1002105)|https://elastisys.com/2018/12/04/kubernetes-critical-security-flaw-cve-2018-1002105/
+Mesosphere AI pipeline|https://www.youtube.com/watch?v=WMISqFRk28E&feature=youtu.be
+Tutte le distribuzioni di Kubernetes|https://docs.google.com/spreadsheets/d/1LxSqBzjOxfGx3cmtZ4EbB_BGCxT_wlxW_xgHVVa23es/edit#gid=0
+Contro le architetture Serverless|https://arxiv.org/abs/1812.03651
+#Mixed Tech
+Api pubbliche e varie|https://github.com/toddmotto/public-apis
+YAML|https://yaml.org/refcard.html
+Gioco di carte crittografico|https://github.com/CardsAgainstCryptography/CAC
+Gioco di carte a tema Git|https://varianto25.com/playing-cards/git-deck
+Contro Pipenv|https://chriswarrick.com/blog/2018/07/17/pipenv-promises-a-lot-delivers-very-little/
+Creatore di labirinti|https://github.com/zuoxingdong/mazelab
+Video to Ascii|https://github.com/joelibaceta/video-to-ascii
+Un anno di ricerche Google|https://trends.google.it/trends/yis/2018/IT/
+#No-tech
+Castori in Italia|https://www.corriere.it/animali/18_dicembre_05/ritorno-castoro-italia-450-anni-avvistato-friuli-398a78b0-f89e-11e8-95fd-6a8b22868d97.shtml
+Milano vista dal cielo|https://fabiopol.smugmug.com/Milano/Milano/
+Ironia su un fotografo|https://fstoppers.com/originals/portrait-photographer-surprised-discover-his-lens-has-apertures-other-f14-315779

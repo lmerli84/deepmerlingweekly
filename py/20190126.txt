@@ -1,0 +1,38 @@
+#Winners of the week
+Un inizio leggero. Hadoop e' morto|https://deeplearningio.com/is-hadoop-officially-dead/
+AWS no code: soluzioni tecniche senza tecnici|https://www.geekwire.com/2019/aws-everyone-new-clues-emerge-amazons-secretive-low-code-no-code-project/
+Servono meno dati|https://hbr.org/2019/01/the-future-of-ai-will-be-about-less-data-not-more
+Scegliere|https://www.newyorker.com/magazine/2019/01/21/the-art-of-decision-making
+Crescere|https://queue.acm.org/detail.cfm?id=3308563
+#Machine Learning
+Tensorflow 2.0 preview|https://www.tensorflow.org/versions/r2.0/api_docs/python/tf
+Kafka(Confluent)+Jupyter|https://www.javacodegeeks.com/2019/01/kafka-tensorflow-data-scientists-python.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+JavaCodeGeeks+%28Java+Code+Geeks%29
+Recommenders|https://github.com/Microsoft/Recommenders
+Delira - Deep Learning in Radiology|https://github.com/justusschock/delira
+Perche' i veri neuroni funzionano meglio|https://www.codeproject.com/Articles/1275031/Why-real-neurons-learn-faster-ai
+Google Dataset|https://ai.google/tools/datasets/
+Machine Learning su Spark. Si può fare ma non si può fare|https://blog.fastforwardlabs.com/2018/09/28/apache-spark-gets-a-machine-learning-makeover.html
+Contro AutoML|https://www.fast.ai/2018/07/23/auto-ml-3/
+End-to-End Applied Data Science|https://github.com/calvdee/end-to-end-lead-scoring
+Controlla i tuoi modelli di DL da Telegram|https://github.com/eyalzk/telegrad
+ML Feature store|https://github.com/gojek/feast
+#Data Engineering/Architecture
+Python caching in Openshift|https://itnext.io/caching-python-dependencies-for-production-stability-on-openshift-f49f4db1cead
+Using Cloud Dataflow to Process Outside-Hosted Messages from Kafka|https://cloud.google.com/solutions/processing-messages-from-kafka-hosted-outside-gcp
+Un po' di Kafka tuning|http://www.pattersonconsultingtn.com/blog/throughput_testing_kafka.html
+K8s environment operator|https://github.com/pearsontechnology/environment-operator
+Google Cloud Professional Data Engineer study guide|https://medium.com/weareservian/google-cloud-data-engineer-exam-study-guide-9afc80be2ee3?__s=wxmqfiaog5u9c3sru5f7
+Top 5 Mistakes to Avoid When Writing Apache Spark Applications|https://www.slideshare.net/cloudera/top-5-mistakes-to-avoid-when-writing-apache-spark-applications
+Pypi offine server|https://github.com/devpi/devpi
+#Mixed Tech
+Strategic tech 2019|https://www.gartner.com/doc/3891569?ref=unauthreader&srcId=1-7251599992#a-1780030522
+Alpaca Markets|https://alpaca.markets/
+Websocketd|http://websocketd.com/
+How to Hack an Expensive Camera and Not Get Killed by Your Wife|https://alexhude.github.io/2019/01/24/hacking-leica-m240.html
+Airbus quantum challenge|https://www.airbus.com/innovation/airbus-quantum-computing-challenge.html#challenges
+#No-tech
+Ragni, da vicino|https://photographylife.com/exploring-spiders-with-the-tiny-sensor-olympus-tg-5
+Career lottery|https://www.koingosw.com/products/careerlottery/
+Link triste: le ultime parole|https://www.theatlantic.com/family/archive/2019/01/how-do-people-communicate-before-death/580303/
+Come dire di no|https://www.xaprb.com/blog/no-is-a-complete-sentence/
+L'effetto febbre|https://embraceasd.com/the-fever-effect/

@@ -1,0 +1,48 @@
+#Winners of the week
+(Must Read) Considerazioni sulla Tenancy di Kubernetes|https://tech.paulcz.net/blog/future-of-kubernetes-is-virtual-machines/
+Misurare la scalabilita'|https://www.xaprb.com/slides/dataengconf-2018-quantifying-scalability-universal-scalability-law/#1
+Allarme casalingo basato su Kafka+Tensorflow|https://speakerdeck.com/fbascheper/bust-the-burglars-machine-learning-with-tensorflow-and-apache-kafka?slide=48
+Doom nel Roomba|https://techcrunch.com/2018/12/26/let-your-new-roomba-build-a-doom-level-of-your-house-with-doomba/
+App Android e Facebook - Condivisione dei dati|https://www.privacyinternational.org/report/2647/how-apps-android-share-data-facebook-report
+Multiuser Kubeflow|https://docs.google.com/presentation/d/1SwQ702vi52V1x69pjDX9o_IbmpM6N-3zjruHv5VgevY/edit#slide=id.p
+(Repost) - Gaia pipelines|https://gaia-pipeline.io/
+#Machine Learning
+Quantum Challenge|https://github.com/ctuning/ck-quantum/blob/master/module/challenge.vqe/README.md
+Learn Prolog|http://www.learnprolognow.org/lpnpage.php?pageid=online
+Data science cheatsheet(s)|https://github.com/FavioVazquez/ds-cheatsheets
+Pennylane: Python per Quantum tech|https://github.com/XanaduAI/pennylane
+Text Classification in Kaggle|https://mlwhiz.com/blog/2018/12/17/text_classification/
+Sentiment Analysis in GCP|https://towardsdatascience.com/step-by-step-tutorial-pyspark-sentiment-analysis-on-google-dataproc-fef9bef46468?__s=wxmqfiaog5u9c3sru5f7
+#Data Engineering/Architecture
+TVM: CPU/GPU compiler stack per il deeplearning. Qui alcuni interventi|https://sampl.cs.washington.edu/tvmconf/#about-tvmconf
+Pivotal Container Services|https://pivotal.io/platform/pivotal-container-service
+Kafka Resources|https://github.com/monksy/awesome-kafka
+Dolphin: Mysql Logs in Kafka|https://github.com/bytewatch/dolphinbeat
+Kafka Performance Tuning|https://medium.com/@rinu.gour123/kafka-performance-tuning-ways-for-kafka-optimization-fdee5b19505b
+Hive+Kafka integration by Hortonworks|https://it.hortonworks.com/blog/introducing-hive-kafka-sql/
+KubeDB - avviare in K8s database relazionali|https://kubedb.com/
+CKA exam blog|https://cka-exam.blog/
+BigQuery alla prova|http://bicortex.com/kicking-the-tires-on-bigquery-googles-serverless-enterprise-data-warehouse-part-1/
+#Mixed Tech
+Il Giardino dei CSS|http://cssgridgarden.com/#en
+Un altro Python Cheatsheet|https://gto76.github.io/python-cheatsheet/
+L'ameba intelligente|https://phys.org/news/2018-12-amoeba-approximate-solutions-np-hard-problem.html
+A 2018 practical guide to hacking RFID/NFC|https://www.youtube.com/watch?v=7GFhgv5jfZk
+LAN Cache in a docker container|https://github.com/OpenSourceLAN/origin-docker
+NASA Land information system|https://lis.gsfc.nasa.gov/
+What is Chi-X and how does it work|http://blog.openmarkets.com.au/what-is-chi-x-and-how-does-it-work
+Articolo sulla audio data compression|https://www.soundonsound.com/techniques/what-data-compression-does-your-music
+#No-tech
+Lego Porsche crash test|https://www.youtube.com/watch?v=dCPWPj4JHqg
+Bar robotico giapponese|https://soranews24.com/2018/11/29/cafe-opens-in-tokyo-staffed-by-robots-controlled-by-paralyzed-people/
+Openage - Age Of Empires da buildare|https://openage.sft.mx/
+Localizzazione acustica dai primi del '900|http://www.douglas-self.com/MUSEUM/COMMS/ear/ear.htm
+Un programmatore come divinita'|https://i.redd.it/140fbpyxb2721.jpg
+Un libro d'arte per "leggere" le foto su Instagram|http://manovich.net/index.php/projects/instagram-and-contemporary-image
+Veri buoni propositi per l'anno nuovo|https://www.sadanduseless.com/keeping-it-real/
+Tenda fotografica|http://www.abelardomorell.net/project/tent-camera/
+Pucciosita' ed aggressivita'|https://www.npr.org/sections/health-shots/2018/12/31/679832549/when-too-cute-is-too-much-the-brain-can-get-aggressive
+Aree di attesa bus austriache|https://www.citylab.com/design/2014/05/a-tiny-austrian-town-has-coolest-bus-shelters-weve-ever-seen/371078/
+Il giallo del buco sulla ISS|https://www.universetoday.com/140996/russian-cosmonaut-says-that-the-hole-in-the-iss-was-drilled-from-the-inside/
+Video - Migrazione controllata delle renne in Lapponia|https://www.theatlantic.com/video/index/579088/herding-reindeer-north-pole/
+Una persona incastrata al museo|https://torino.corriere.it/cronaca/19_gennaio_03/torinese-resta-incastrato-capsula-russa-dell-ibernazione-mostra-milano-7b6d821c-0f60-11e9-8942-0b2d1a385761.shtml

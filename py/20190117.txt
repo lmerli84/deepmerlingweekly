@@ -1,0 +1,27 @@
+#Winners of the week
+Stop Learning|https://sizovs.net/2018/12/17/stop-learning-frameworks/
+Governance overview in GCP|https://cloud.google.com/big-data/security-governance/
+#Machine Learning
+NLP Architect by Intel® AI Lab|http://nlp_architect.nervanasys.com/
+Qgrid per Pandas|https://github.com/quantopian/qgrid
+Pandavro (Pandas + Avro)|https://github.com/ynqa/pandavro
+Architetture varie di messa in prod di modelli|https://codecampanion.blogspot.com/2019/01/productionizing-streaming-ml-apache.html
+La minaccia del superalgoritmo|https://medium.com/@luisfernandomolina/superalgos-part-one-the-trading-singularity-6f66f419982f
+#Data Engineering/Architecture
+K8s Studio(molto interessante)|https://mailchi.mp/50566d88e251/uxxu?submit=
+K8s Namespace controller (Aka multitenancy)|https://github.com/raffaelespazzoli/namespace-configuration-controller
+Pushpin + Kafka|https://hackernoon.com/supercharging-kafka-enable-realtime-web-streaming-by-adding-pushpin-fd62a9809d94
+Pachyderm vs Airflow|https://szeitlin.github.io/posts/engineering/pachyderm-vs-airflow/
+GCP Data transfers|https://cloud.google.com/storage/docs/gsutil/addlhelp/ScriptingProductionTransfers
+#Mixed Tech
+The Lindy effect|https://en.wikipedia.org/wiki/Lindy_effect
+La vita di un messaggio di testo|https://scottbot.net/the-route-of-a-text-message/
+Previsioni Tech 2019|http://blog.eladgil.com/2019/01/interesting-markets-2019-edition.html
+Previsioni AI 2019|https://www.benzinga.com/pressreleases/19/01/g12984458/whats-new-for-artificial-intelligence-in-2019?utm_source=cityfalcon&utm_medium=cityfalcon&utm_campaign=cityfalcon
+Predictive Analytics World for Industry 4.0|https://predictiveanalyticsworld.de/en/industry4-0/muenchen2019/
+Rompere RSA|https://algorithmsoup.wordpress.com/2019/01/15/breaking-an-unbreakable-code-part-1-the-hack/
+#No-tech
+Quando sei ricco?(rispetto a chi non lo e')|https://www.givingwhatwecan.org/get-involved/how-rich-am-i/?country=ITA&income=35000&adults=2&children=0
+Open source games|https://raddle.me/wiki/foss_games
+Potresti non avere ragione|https://www.vox.com/science-and-health/2019/1/4/17989224/intellectual-humility-explained-psychology-replication
+Oumuamua (Gli alieni)|https://www.newyorker.com/news/the-new-yorker-interview/have-aliens-found-us-a-harvard-astronomer-on-the-mysterious-interstellar-object-oumuamua

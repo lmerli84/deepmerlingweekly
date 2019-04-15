@@ -1,0 +1,37 @@
+#Winners of the week
+Hype dell'AI|https://www.tomshw.it/altro/intelligenza-artificiale-e-imprese-italiane-tanto-hype-mediatico-e-poca-consapevolezza/
+Proxy user - lo sconosciuto|http://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/Superusers.html
+Il lock-in dello IAM|https://forrestbrazeal.com/2019/02/18/cloud-irregular-iam-is-the-real-cloud-lock-in/?utm_source=newsletter&utm_medium=email&utm_campaign=Learn%20By%20Doing
+Google Machine Learning Course Notes|https://github.com/AntonioErdeljac/Google-Machine-Learning-Course-Notes
+#Machine Learning
+Considerazioni sull'uso dell'AI nel trading algoritmico (e perchè non si applicherà)|https://voxeu.org/article/artificial-intelligence-algorithmic-pricing-and-collusion
+Falcon: Interactive Visual Analysis for Big Data|https://github.com/uwdata/falcon
+Tensorflow cookbook|https://github.com/taki0112/Tensorflow-Cookbook
+Pacchetto Latex per disegnare le reti neurali|https://github.com/HarisIqbal88/PlotNeuralNet
+Deep learning e legalese|https://blog.doctrine.fr/structuring-legal-documents-with-deep-learning/
+ML Data Generator|https://github.com/minimaxir/ml-data-generator
+Notebook per TF2.0|https://github.com/thibo73800/tensorflow2.0-examples
+Isolare la voce nelle canzoni|https://towardsdatascience.com/audio-ai-isolating-vocals-from-stereo-music-using-convolutional-neural-networks-210532383785
+#Kubernetes
+CNAB - Cloud Native application bundle|https://cnab.io/
+Deck build - per impilare le immagini|https://github.com/flexos-io/doc/wiki/deck_build
+#Data Engineering/Architecture
+Performance di Rete di GCP,AWS e Azure|https://pc.nanog.org/static/published/meetings/NANOG75/1909/20190218_Kesavan_Comparing_The_Network_v1.pdf
+Spark oltre lo shuffling|https://files.gotocon.com/uploads/slides/conference_3/33/original/GOTO%20Chicago%20-%20Apache%20Spark%20Beyond%20Shuffling%20-%20Why%20it%20isn't%20magic%20-%20but%20also%20where%20there%20is%20some%20really%20cool%20magic.pdf
+Spark Graphframe - Dataframe per grafi|https://github.com/graphframes/graphframes
+IAM su BigQuery|https://medium.com/google-cloud/how-to-control-access-to-bigquery-at-row-level-with-groups-1cbccb111d9e
+EEL - Ingestion framework per Hadoop|https://github.com/51zero/eel-sdk
+IDE Setup per Spark|https://it.hortonworks.com/tutorial/setting-up-a-spark-development-environment-with-scala/
+#Mixed Tech
+Eclipse online (Orion)|https://orionhub.org/mixloginstatic/landing.html?redirect=https%3A%2F%2Forionhub.org%2F&key=FORMOAuthUser
+Contro le domande da colloquio(informatico)|https://triplebyte.com/blog/interview-questions-are-too-hard-and-too-short
+Algoritmi robotici|http://underactuated.csail.mit.edu/underactuated.html
+Come funziona FlightRadar|https://habr.com/en/post/440596/
+Port scanning dell'intera Austria|https://blog.haschek.at/2019/i-scanned-austria.html
+Watson IOT per la sicurezza sul lavoro|https://newsroom.ibm.com/2019-02-13-IBM-Helps-Organizations-Monitor-Their-Workers-Safety-with-Watson-IoT
+#No-tech
+Depth of field simulator|https://dofsimulator.net/en/
+Droghe contro l'Alzheimer|https://www.technologynetworks.com/neuroscience/news/drug-combo-creates-new-neurons-from-neighboring-cells-315118
+Storia dell'arancione|https://mymodernmet.com/history-color-orange/
+Lego setup illegali|http://bramlambrecht.com/tmp/jamieberard-brickstress-bf06.pdf
+Contro Amazon, da dipendente|http://www.churyumov.com/2019/02/public-protest-against-amazon.html

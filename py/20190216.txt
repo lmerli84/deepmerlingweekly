@@ -1,0 +1,33 @@
+#Winners of the week
+Panoramica dell'IOT enterprise|https://hackernoon.com/the-strategy-of-selecting-an-iot-platform-2019-b5baef33c90f
+Impara a risolvere problemi|https://medium.com/datadriveninvestor/dont-learn-a-programming-language-solve-a-problem-instead-654f6bbfb573
+Openshift Codeready Workspace|https://developers.redhat.com/products/codeready-workspaces/overview/
+#Machine Learning
+MKL in Cloudera|https://blog.cloudera.com/blog/2019/02/enable-mkl-library-for-spark-ml-applications-methods-and-benchmarks/
+Ludwig|https://uber.github.io/ludwig/
+Potente framework di rendering di dataset|http://datashader.org/
+#Kubernetes
+Creazione dei template|https://blog.argoproj.io/the-state-of-kubernetes-configuration-management-d8b06c1205
+Load Balancer Emulation|https://github.com/kubernetes/minikube/blob/master/docs/networking.md#loadbalancer-emulation-minikube-tunnel
+Hostpath PV Emulation|https://github.com/kubernetes/minikube/blob/master/docs/persistent_volumes.md
+Rancher multi-k8s|https://www.businesswire.com/news/home/20190205005217/en/Rancher-Labs-Introduces-Industry%E2%80%99s-Support-Multi-Cluster-Kubernetes
+#Data Engineering/Architecture
+Kafka per Call Of Duty|https://www.slideshare.net/sap1ens/building-scalable-and-extendable-data-pipeline-for-call-of-duty-games-lessons-learned?next_slideshow=1
+Kafka Cruise control|https://github.com/linkedin/cruise-control-ui/
+DC OS IOT demo (scala,spark,kafka e mesos)|https://github.com/amollenkopf/dcos-iot-demo
+Kafka senza Zookeeper ma con Atomix|https://medium.com/@lukasz.antoniak/apache-kafka-leaves-the-zoo-bef529ba82b7
+Python ETL tools|https://blog.panoply.io/top-9-python-etl-tools-and-when-to-use-them
+Predix.io|https://www.predix.io/
+Cisco Kinetic|https://www.cisco.com/c/en/us/solutions/internet-of-things/iot-kinetic.html#~stickynav=2
+GCP Flowchart|https://medium.com/google-cloud/some-more-gcp-flowcharts-dc0bb6f7c94e?__s=wxmqfiaog5u9c3sru5f7
+Kafka JDBC Connect|https://www.confluent.io/blog/kafka-connect-jdbc-source-connector-deep-dive
+#Mixed Tech
+Mascheramento di navigazione web|https://github.com/dirkmcpherson/smokescreen
+Gli algoritmi di Shor e Grover|https://homepages.cwi.nl/~rdewolf/warsaw2short.pdf
+Edge TPU devices|https://aiyprojects.withgoogle.com/edge-tpu
+Twist - Slack aziendale|https://twist.com/?lang=it
+Win10 su RPI3|https://github.com/WOA-Project/WoA-Installer-Rpi/blob/master/README.md
+#No-tech
+Il Bitcoin di JPMorgan|https://www.jpmorgan.com/global/news/digital-coin-payments
+Contro gli stock exchange|https://iextrading.com/
+Saluti da Fukushima|http://www.asahi.com/ajw/articles/AJ201902140041.html

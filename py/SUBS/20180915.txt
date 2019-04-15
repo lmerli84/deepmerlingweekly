@@ -1,0 +1,39 @@
+#Winners of the week
+"Montare" gli algoritmi (Ikead style)|https://idea-instructions.com/
+Lotta agli scammers!|https://systemscue.it/un-simpatico-ricercatore-sicurezza-informatica-si-prende-gioco-un-gruppo-scammers-mezzi/9447/
+Riduzione di dimensionalità per principianti|https://idyll.pub/post/dimensionality-reduction-293e465c2a3443e8941b016d/
+Great expections: i dati che ti aspetti (pipeline test)|https://github.com/great-expectations/great_expectations
+Domande (e risposte) tecniche da colloquio|https://interviewing.io/recordings/
+Must known|https://openscoring.io/
+#Machine Learning
+Mbox - Libreria per autoML|https://github.com/AxeldeRomblay/MLBox
+Tpot - Libreria per autoML|http://epistasislab.github.io/tpot/
+Data Science Ethics Checklist|http://deon.drivendata.org/
+Regole di buon senso per il machine learning - Google|http://153.97.176.35/magnetpredictor/
+Un incomprensibile simulatore/predittore delle proprietà magnetiche dei materiali scritto in tedesco|http://153.97.176.35/magnetpredictor/
+Machine learning fair design|https://hbr.org/2018/08/make-fairness-by-design-part-of-machine-learning
+Video dataset delle azioni umane|https://20bn.com/datasets/something-something
+Deep learning cheatsheets|https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning
+Seldon-core|https://github.com/SeldonIO/seldon-core/blob/master/docs/getting_started/readme.md
+Simulazione multi agente|https://noncomputable.github.io/AgentMaps/
+Python challenges|https://py.checkio.org/
+Una buona descrizione (credo) di come funzionano le GAN|https://poloclub.github.io/ganlab/
+AI Game - disamina|https://www.gamedev.net/articles/programming/artificial-intelligence/the-total-beginners-guide-to-game-ai-r4942?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more
+Continuous deployment of Machine Learning pipelines|https://www.youtube.com/watch?v=afdt2MRpghc&feature=youtu.be
+#Data Engineering/Architecture
+Promo Streamsets per la DataOps (ricordo che la DMW non ha sponsor comunque)|https://streamsets.com/blog/dataops-applying-devops-to-data/
+Apache Amaterasu: continuos deployed big data pipelines per dormiglioni (dato il nome..)|http://amaterasu.incubator.apache.org/
+Awesome Beam - lista risorse|https://github.com/pabloem/awesome-beam
+Manifesto del Software Engineer|http://minifesto.org/
+Per invidia del link sopra, manifesto sulla DataOps|http://dataopsmanifesto.org/
+DataOps slides|https://www.slideshare.net/harveysa/dataops-nine-steps-to-transform-your-data-science-impact-strata-london-may-18
+Hint per una dashboard da vero DataOps professional|https://medium.com/data-ops/prove-your-awesomeness-with-data-the-cdo-dashboard-c7e30822edb6
+YAML Validator|https://github.com/urcomputeringpal/kubevalidator
+K8s ingress - comparazione|https://kubedex.com/nginx-ingress-vs-kong-vs-traefik-vs-haproxy-vs-voyager-vs-contour-vs-ambassador/
+Semplice tool di pipeline in Python|https://joblib.readthedocs.io/en/latest/
+#Mixed Tech
+Foliage prediction map|https://smokymountains.com/fall-foliage-map/
+#No-tech
+Fotocamera a 10 lenti|https://light.co/camera
+Posti strani|https://rewind.topix.com/slideshow/19825
+Generatore di citta' fantasy|https://watabou.itch.io/medieval-fantasy-city-generator

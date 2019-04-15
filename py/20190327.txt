@@ -1,0 +1,34 @@
+#Winners of the week
+Openscoring - Spark serving|https://github.com/openscoring/openscoring
+Spiffe|https://spiffe.io/
+Kafka AWS tunneling|https://blog.tokenanalyst.io/tunnel-your-kafka-cluster-from-aws/
+Tera Dataset Oil and Gas, gratis!|https://www.spe.org/en/jpt/jpt-article-detail/?art=5282&fbclid=IwAR3Okw9KUOietPCmwGW2Ag78dunfKsAP2btpXCSOUBBSQBZIt-Yaebry1C8
+#Machine Learning
+Vedere come la rete(neurale)|https://hub.jhu.edu/2019/03/22/computer-vision-fooled-artificial-intelligence/?utm_campaign=Deep%20Learning%20Weekly&utm_medium=email&utm_source=Revue%20newsletter
+tutorial on BigDLand Analytics Zoo|https://medium.com/sfu-big-data/when-deep-learning-got-big-a833a69be460
+CDSW demo project|https://github.com/xmorera/CDSW-Demo-Short
+Datasets!|https://www.datasetlist.com/
+Arrow per Spark|https://towardsdatascience.com/a-gentle-introduction-to-apache-arrow-with-apache-spark-and-pandas-bb19ffe0ddae
+#Kubernetes
+K8s 1.14|https://kubernetes.io/blog/2019/03/25/kubernetes-1-14-release-announcement/
+Portus|http://port.us.org/
+RBAC|https://medium.com/@dominik.tornow/inside-kubernetes-rbac-9988b08a738a
+Submariner.io (rete cross K8s)| https://submariner.io/
+#Data Engineering/Architecture
+Failover clustering in GCP|https://www.infiflex.com/failover-clustering--google-cloud
+CI/CD in GCP|https://cloud.google.com/blog/products/application-development/release-with-confidence-how-testing-and-cicd-can-keep-bugs-out-of-production?__s=wxmqfiaog5u9c3sru5f7&utm_source=drip&utm_medium=email&utm_campaign=GCP%2BNewsletter%2B%23129
+Linux DIY|https://www.yoctoproject.org/
+#Mixed Tech
+Theia IDE|https://www.theia-ide.org/
+Code server|https://github.com/codercom/code-server
+Lezioni di CUDA|http://gpu.di.unimi.it/lezioni.html
+Levitare gli oggetti con la luce|https://www.caltech.edu/about/news/levitating-objects-light
+Nextcloudpi|https://ownyourbits.com/nextcloudpi/
+#No-tech
+Problemi da hotel|https://www.sadanduseless.com/funny-hotel-fails/
+Craft - Clone (scusa Ale)|https://www.michaelfogleman.com/projects/craft/
+Il libro più vecchio|https://lithub.com/the-quest-to-acquire-the-oldest-most-expensive-book-on-the-planet/
+3d Printed tabletop|https://www.3dprintedtabletop.com/?v=cd32106bcb6d
+Dove sono i 737max?|https://www.bloomberg.com/graphics/2019-boeing-737-max-map-where-planes-went-after-grounded/
+Morgan Freeman apicoltore|https://life.gomcgill.com/morgan-freeman-converted-giant-ranch-bee-sanctuary-protection
+Terribili prodotti finti|https://www.sadanduseless.com/funny-fake-gift-packages/

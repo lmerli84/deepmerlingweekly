@@ -1,0 +1,59 @@
+#Winners of the week
+The Gyllenhaal Experiment - sapete scrivere cognomi difficili?|https://pudding.cool/2019/02/gyllenhaal/
+Bellissimo articolo sull'Hybrid Cloud|https://www.linkedin.com/pulse/private-cloud-dead-long-live-haifeng-li/
+Vita di un pixel|https://docs.google.com/presentation/d/1boPxbgNrTU0ddsc144rcXayGA_WF53k96imRH8Mp34Y/edit#slide=id.p
+L'infrastruttura che non serve|https://blog.usejournal.com/you-dont-need-all-that-complex-expensive-distracting-infrastructure-a70dbe0dbccb
+Pyspark cheatsheet|https://github.com/kevinschaich/pyspark-cheatsheet
+The hipster effect|https://www.technologyreview.com/s/613034/the-hipster-effect-why-anti-conformists-always-end-up-looking-the-same/
+the Cowtoilet|https://www.hanskamp.nl/en/cowtoilet
+#Machine Learning
+Riconoscere le targhe senza machine learning|https://sod.pixlab.io/articles/license-plate-detection.html
+Google coral|https://coral.withgoogle.com/
+Google coral, esempio|https://medium.com/tensorflow/build-ai-that-works-offline-with-coral-dev-board-edge-tpu-and-tensorflow-lite-7074a9fd0172
+Multiagent mmo environment|https://openai.com/blog/neural-mmo/
+Portale dati mondiale|https://ourworldindata.org/
+Notebook riproducibili|https://www.tweag.io/posts/2019-02-28-jupyter-with.html
+Federated Learning in poche righe|https://blog.openmined.org/upgrade-to-federated-learning-in-10-lines/
+Federated learning in tensorflow|https://www.lewuathe.com/federated-learning-with-tensorflow.html?utm_campaign=Scaleup%20Architect%20Newsletter&utm_medium=email&utm_source=Revue%20newsletter
+Jupyter,Papermill e GCP|https://cloud.google.com/blog/products/ai-machine-learning/let-deep-learning-vms-and-jupyter-notebooks-to-burn-the-midnight-oil-for-you-robust-and-automated-training-with-papermill?__s=wxmqfiaog5u9c3sru5f7&utm_source=drip&utm_medium=email&utm_campaign=GCP%2BNewsletter%2B%23127
+Bluff delle AI start-up|https://www.agi.it/economia/startup_intelligenza_artificiale_bluff-5096905/news/2019-03-07/
+Keras benchmarks|https://github.com/cgnorthcutt/benchmarking-keras-pytorch
+#Kubeflow in openshift - blog serie
+parte 1|https://www.lightbend.com/blog/how-to-deploy-kubeflow-on-lightbend-platform-openshift-introduction
+parte 2|https://www.lightbend.com/blog/how-to-deploy-kubeflow-on-lightbend-platform-openshift-installing-kubeflow
+parte 3|https://www.lightbend.com/blog/how-to-deploy-kubeflow-on-lightbend-platform-openshift-support-components-kubeflow
+parte 4|https://www.lightbend.com/blog/how-to-deploy-kubeflow-on-lightbend-platform-openshift-jupyterhub-with-kubeflow
+parte 5|https://www.lightbend.com/blog/how-to-deploy-kubeflow-on-lightbend-platform-openshift-kubeflow-tensorflow-jobs
+parte 6|https://www.lightbend.com/blog/how-to-deploy-kubeflow-on-lightbend-platform-openshift-kubeflow-parameter-tuning
+parte 7|https://www.lightbend.com/blog/how-to-deploy-kubeflow-on-lightbend-platform-openshift-kubeflow-model-serving
+parte 8|https://www.lightbend.com/blog/how-to-deploy-kubeflow-on-lightbend-platform-openshift-deploying-kubeflow-pipelines
+parte 9|https://www.lightbend.com/blog/how-to-deploy-kubeflow-on-lightbend-platform-openshift-using-modeldb
+#Kubernetes
+K3s: un piccolo kubernetes|https://k3s.io/
+K8s cheatsheet|https://drive.google.com/file/d/1xV_d754DQo0YSi9whvKY26dZadWYJt6u/view
+Operator hub|https://www.operatorhub.io/
+Open policy agent|https://www.openpolicyagent.org/
+#Data Engineering/Architecture
+Streamsets tutorial|https://github.com/streamsets/tutorials/tree/master/tutorial-hivedrift
+#Mixed Tech
+Il PI più grande|https://www.businessinsider.com/google-employee-woman-breaks-record-for-calculating-pi-2019-3?r=US&IR=T
+Martech stack list|https://segment.com/blog/the-growth-stacks-of-2019/
+Free radio device - petizione!|https://blog.mehl.mx/2019/protect-freedom-on-radio-devices-raise-your-voice-today/
+Algebra lineare|http://immersivemath.com/ila/index.html
+Famose leggi dello sviluppo software|https://www.timsommer.be/famous-laws-of-software-development/
+Ghidra by NSA|https://www.nsa.gov/resources/everyone/ghidra/
+VSCode remoto|https://github.com/codercom/code-server
+La linea di assemblaggio Toyota|http://www.thedrive.com/tech/26955/inside-toyotas-takaoka-2-line-the-most-flexible-line-in-the-world
+#No-tech
+Assurde storie dell'internet|https://medium.com/@caspervonb/the-absurdity-of-cyber-laws-f6676ba8a7d6
+Esopianeti|https://exoplanetexplore.now.sh/
+Salute mentale per programmatori|https://github.com/dreamingechoes/awesome-mental-health
+Cat lady - gioco stampabile|https://www.alderac.com/cat-lady/
+Lista di aziende che stressano nei colloqui|https://github.com/poteto/hiring-without-whiteboards
+Fredda citta'russa|https://www.independent.co.uk/travel/europe/yakutsk-journey-to-the-coldest-city-on-earth-771503.html
+Improbabili annunci immobiliari|https://www.sadanduseless.com/terrible-real-estate-agent-photos/
+Bat-stalker|https://www.ilfattoquotidiano.it/2019/03/02/cremona-stalkerizzava-la-sua-ex-su-un-deltaplano-con-il-simbolo-di-batman-condannato-a-due-anni-e-4-mesi/5009263/
+Google + NASA arts&culture|https://artsexperiments.withgoogle.com/nasasvisualuniverse
+Storia dello slime/viscidume|http://purplelizardman.com/blog/the-history-of-slimes/
+Paesaggi ghiacciati|https://petapixel.com/2019/03/12/frozen-living-for-34-days-on-the-only-private-island-in-central-helsinki/
+Parigi sotterranea|https://longreads.com/2019/03/13/a-three-day-expedition-to-walk-across-paris-entirely-underground/

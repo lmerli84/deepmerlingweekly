@@ -1,0 +1,47 @@
+#Winners of the week
+Must click - veri libri di informatica|https://i.redd.it/6scvzjxpqe521.jpg
+The spacing effect (guida mnemonica)|https://fs.blog/2018/12/spacing-effect/
+Architetture di ML in Facebook|https://blog.acolyer.org/2018/12/17/applied-machine-learning-at-facebook-a-datacenter-infrastructure-perspective/
+Quantum endorsement americano (filmesco)|https://www.whitehouse.gov/wp-content/uploads/2018/09/National-Strategic-Overview-for-Quantum-Information-Science.pdf
+#Machine Learning
+Machine Learning per .NET|https://github.com/dotnet/machinelearning/blob/master/README.md
+Mit deep learning course|https://deeplearning.mit.edu/
+Mappa AWS dei servizi di machine learning|https://gitlab.com/juliensimon/awsmlmap/blob/master/map.png
+Kubeflow pipelines|https://towardsdatascience.com/how-to-create-and-deploy-a-kubeflow-machine-learning-pipeline-part-1-efea7a4b650f
+Microsoft Trill|https://azure.microsoft.com/en-us/blog/microsoft-open-sources-trill-to-deliver-insights-on-a-trillion-events-a-day/?ranMID=24542&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-bSlr5RKVF57VsC2W6k3tQg&epi=TnL5HPStwNw-bSlr5RKVF57VsC2W6k3tQg&irgwc=1&OCID=AID681541_aff_7593_1243925&tduid=(ir__ej6b3ys3qckfrw1hxkpoxiopbn2xhhlkyhy06nah00)(7593)(1243925)(TnL5HPStwNw-bSlr5RKVF57VsC2W6k3tQg)()&irclickid=_ej6b3ys3qckfrw1hxkpoxiopbn2xhhlkyhy06nah00
+Sotto Amazon Alexa|https://developer.amazon.com/it/blogs/alexa/post/36ca7d4c-cd98-40a9-a9c5-0cde2ab922ab/how-alexa-knows-that-peanut-butter-is-one-shopping-list-item-not-two
+Neural networks as Ordinary Differential Equations(pesantuccio)|https://rkevingibson.github.io/blog/neural-networks-as-ordinary-differential-equations/
+Nevergrad (Piu' pesante del link sopra, ma spiega come ottimizzare senza derivare)|https://code.fb.com/ai-research/nevergrad/
+Information Theory of deep learning|https://adityashrm21.github.io/Information-Theory-In-Deep-Learning/
+Aws Athena e Spark - mini esempio|https://www.mungingdata.com/aws/athena-spark-best-friends
+Spark Time series - mini esempio|https://github.com/infinite-Joy/datahack2018/blob/master/notebooks/Converting%20Transformations%20from%20Pandas%20to%20Spark.ipynb
+#Data Engineering/Architecture
+Usare K8s dal cellulare|https://github.com/bitnami-labs/cabin
+Charts Helm interessanti|https://caylent.com/15-useful-helm-charts-tools/
+Osiris - un altro tool zero-to-k8s|https://github.com/deislabs/osiris
+Linode - un altro tool zero-to-k8s|https://developers.linode.com/kubernetes/
+TILT - un altro tool zero-to-k8s|https://docs.tilt.build/
+Kubernetes The Right Way - un altro set di tool zero-to-k8s|https://github.com/amimof/kubernetes-the-right-way
+Kubesail - K8s subito|https://kubesail.com/
+Grafana Loki|https://github.com/grafana/loki
+Hashicorp Gaia|https://medium.com/@michelvocks/automatic-kubernetes-deployment-with-gaia-and-hashicorp-vault-73b882e40741
+K8s connectivity debugger|https://github.com/bloomberg/goldpinger
+Gcloud security links|https://medium.com/@0d6e/security-on-google-cloud-for-data-engineers-introduction-26516b5d28e4?__s=wxmqfiaog5u9c3sru5f7
+#Mixed Tech
+QuantumTech - IBM QisKit|https://github.com/Qiskit/qiskit-tutorials
+Google techdev guide|https://techdevguide.withgoogle.com/
+The Dating Brokers: An autopsy of online love|https://datadating.tacticaltech.org/viz
+Schifoso python: un parere|https://www.hackerfactor.com/blog/index.php?/archives/825-8-Reasons-Python-Sucks.html
+Subpixel text encoding|http://www.msarnoff.org/millitext/
+Bastard tetris|http://fph.altervista.org/prog/bastet.html
+Python deps explorer|https://github.com/naiquevin/pipdeptree
+Microsoft - Project MU|https://microsoft.github.io/mu/
+Risolvere omicidi con Prolog|https://xmonader.github.io/prolog/2018/12/21/solving-murder-prolog.html
+#No-tech
+300 giochini|https://itch.io/jam/game-off-2018/entries
+D&D - caotico neutrale|https://www.youtube.com/watch?v=kbwLC3Yr8vA
+Giochino di sabbia|https://sandspiel.club/
+I'oggetto più lontano|https://www.universetoday.com/140901/just-discovered-farout-the-farthest-object-ever-seen-in-the-solar-system/
+Le foto del 2018|https://www.theatlantic.com/photo/2018/12/most-2018-photos-ever/578458/
+Il naso dei dinosauri|https://www.theatlantic.com/science/archive/2018/12/dinosaurs-breathed-through-long-tubes-in-their-noses/578512/
+Nasa Glitterbomb contro i ladri di pacchi|https://www.digitaltrends.com/home/nasa-engineer-mark-rober-glitter-bomb-package-theft/

@@ -1,0 +1,44 @@
+#News
+Kubernetes Forum,https://discuss.kubernetes.io/
+Riassunto della Kubecon,https://elastisys.com/2018/05/08/trendspotting-kubecon-cloudnativecon-europe-2018/
+#Machine Learning
+Data science search engine,https://www.lovelydata.cz/tools/search/
+Pusheen,http://zna.do/pusheen?1
+Dedicato a voi copulatori,http://twiecki.github.io/blog/2018/05/03/copulas/
+Montecarlo spiegato,http://twiecki.github.io/blog/2015/11/10/mcmc-sampling/
+3200 Volta by ENI,https://blogs.nvidia.com/blog/2018/05/03/gpus-simulation-supercomputing-eni-srt-echelon-deep-learning/?ncid=so-fac-dplg-40319
+Minifi& MXNet,https://www.slideshare.net/Hadoop_Summit/iot-with-apache-mxnet-and-apache-nifi-and-minifi
+#Data Engineering/Architecture
+Topological Data Analysis in Spark,https://github.com/ognis1205/spark-tda
+NiFi in Renault,https://www.slideshare.net/Hadoop_Summit/best-practices-and-lessons-learnt-from-running-apache-nifi-at-renault
+Confluent preview relese (ovvero le beta di Kafka),https://www.confluent.io/preview-release
+Cockpit - Un server manager,http://cockpit-project.org/
+Architettura interessante e back pressure,https://medium.com/inlocotech/data-infrastructure-at-in-loco-5d954cb69b98
+NiFi vs Streamsets,https://statsbot.co/blog/open-source-etl/
+Replicated distribuited system with Kafka,https://miuv.blog/2018/04/16/building-replicated-distributed-systems-with-kafka/
+Streamsets+Minikube,https://streamsets.com/blog/using-streamsets-control-hub-with-minikube/
+Radeon per K8s,https://github.com/RadeonOpenCompute/k8s-device-plugin
+gVisor: container sandboxing,https://cloudplatform.googleblog.com/2018/05/Open-sourcing-gVisor-a-sandboxed-container-runtime.html
+Raccolta dati sulla qualità dell'aria con NiFi,https://community.hortonworks.com/articles/189630/tracking-air-quality-with-hdp-and-hdfi-part-1-apac.html?es_p=6690282
+Amazon Serverless pattern,https://www.slideshare.net/AmazonWebServices/serverless-architectural-patterns-collision-2018?qid=88dfa5cd-afb1-4c26-896e-ce76c4182ab4&v=&b=&from_search=12
+#Mixed tech
+Campionato di Formula PI,https://www.raspberrypi.org/magpi/raptor-formula-pi-2018/
+Un immutabile blocco di insulti,https://www.immutableinsult.com/?ref=producthunt
+Bettercap,https://www.bettercap.org/
+Libreria React per Elasticsearch,https://github.com/appbaseio/reactivesearch
+Drunk User Testing,https://www.newyorker.com/magazine/2018/04/30/an-open-bar-for-beta-testers
+#No-tech
+La citta' del progetto Manhattan,https://www.atlasobscura.com/articles/how-to-build-secret-nuclear-city
+Un corso di navigazione astronomica,https://my.vanderbilt.edu/astronav/
+Il nuovo cane robotico di Sony,https://aibo.sony.jp/en/
+L'alverare e' la nuova rete,https://medium.com/social-capital/the-hive-is-the-new-network-260b432a6720
+Interessanti grafici,https://www.sadanduseless.com/essential-stats/
+#Winners of the week
+Attacco audio agli assistenti vocali,https://www.nytimes.com/2018/05/10/technology/alexa-siri-hidden-command-audio-attacks.html
+Gli ottimi fallimenti di Goodfellow,http://veronikach.com/how-i-fail/how-i-fail-ian-goodfellow-phd14-computer-science/
+Una visione oggettiva sull'adozione di Kubernetes,http://jmoiron.net/blog/is-k8s-too-complicated/
+Multi agent driving simulator,https://software.intel.com/en-us/articles/madras-a-multi-agent-driving-simulator
+Impara a programmare con le patate pirata e senza calcolatore!,https://www.potatopirates.game/the-game
+Generare altri Zuckenberg con una GAN,https://hackernoon.com/the-many-faces-of-mark-zuckerberg-a-deep-learning-approach-part-1-72fc1a7fad61
+Life is hard,https://www.sadanduseless.com/life-is-hard/
+Kubernetes+Kafka architectural pattern by MapR,https://mapr.com/blog/kubernetes-kafka-event-sourcing-architecture-patterns-and-use-case-examples/
