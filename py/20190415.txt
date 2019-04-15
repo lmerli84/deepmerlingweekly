@@ -1,0 +1,36 @@
+#Winners of the week
+The limulus project|https://limulus.basement-supercomputing.com/
+996 work schedule|https://github.com/996icu/996.ICU
+Quicksort ungherese (qua voglio veder fioccare i clic)|https://www.youtube.com/watch?v=ywWBy6J5gz8
+#Machine Learning
+Artificial Intelligence for Interstellar Travel|https://arxiv.org/abs/1811.06526
+Lungo articolo sugli iperparametri|https://blog.nanonets.com/hyperparameter-optimization/?utm_source=reddit&utm_medium=social&utm_campaign=hyperparameter&utm_content=post
+Funny Markov chains|https://github.com/sublimino/awesome-funny-markov#readme
+Data engineer != Data scientist|https://www.oreilly.com/ideas/why-a-data-scientist-is-not-a-data-engineer
+Review del codice in Jupyter|https://www.reviewnb.com/
+BentoML|https://github.com/bentoml/BentoML
+#Cloud&K8s
+CDAP su GCP, chi lo avrebbe mai detto...|https://blog.ml6.eu/google-cloud-data-fusion-how-ml6-can-bridge-the-data-gap-df914eb0fa18
+Come gestire un cluster in modo economico|http://techbeat.in/2019/04/11/run-your-webapps-on-kubernetes-for-cheap.html
+#Data Engineering/Architecture
+Awesome Cloud Run|https://github.com/steren/awesome-cloudrun
+Google Anthos|https://cloud.google.com/anthos/
+Project templating in AWS con Cookiecutter|https://medium.com/@SkyscannerEng/building-a-self-served-etl-pipeline-for-third-party-data-ingestion-3959eab6840b
+Kafka Metrics|https://sematext.com/blog/kafka-metrics-to-monitor/
+#Mixed Tech
+Arm Mbed|https://www.mbed.com/en/
+VSCodium - VScode opensource|https://vscodium.com/
+OKR|https://www.slideshare.net/HenrikJanVanderPol/le-basi-degli-okr-il-segreto-di-google
+Il codice di visualizzazione del buco nero|https://github.com/achael/eht-imaging
+Libri di programmazione in ita|https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-it.md
+Webslides|https://webslides.tv/#slide=1
+git tips|https://github.com/git-tips/tips#readme
+Dataset di criptovalute|https://github.com/galeone/crypto15
+#No-tech
+Bansky|http://banksy.co.uk/out.asp
+Aggregare: qualcosa che non sono riuscito mai a fare bene|http://stephaniehurlburt.com/blog/2019/3/27/you-should-organize-a-study-groupbook-clubonline-groupevent-tips-on-how-to-do-it
+Una battle royale reale|https://www.hushhush.com/battle-royale-event-gamemaker/
+Opensource games|https://github.com/leereilly/games#user-content-native
+Il libro del tesoro|https://www.bbc.com/news/uk-england-beds-bucks-herts-47671776
+Spoilerare|https://www.tomshw.it/culturapop/un-dollaro-al-mese-e-un-sito-fara-spoiler-del-trono-di-spade-ai-vostri-amici/
+Fête des Vignerons|https://www.fetedesvignerons.ch/it/
