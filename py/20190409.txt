@@ -1,0 +1,10 @@
+#Winners of the week
+#Machine Learning
+Lungo articolo sugli iperparametri|https://blog.nanonets.com/hyperparameter-optimization/?utm_source=reddit&utm_medium=social&utm_campaign=hyperparameter&utm_content=post
+#Kubernetes
+#Data Engineering/Architecture
+Project templating in AWS con Cookiecutter|https://medium.com/@SkyscannerEng/building-a-self-served-etl-pipeline-for-third-party-data-ingestion-3959eab6840b
+Kafka Metrics|https://sematext.com/blog/kafka-metrics-to-monitor/
+#Mixed Tech
+#No-tech
+Una battle royale reale|https://www.hushhush.com/battle-royale-event-gamemaker/
