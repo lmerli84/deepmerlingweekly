@@ -1,0 +1,31 @@
+#Winners of the week
+Buona Pasqua con questi teneri coniglietti|https://www.sadanduseless.com/evil-bunny-parade-gallery/
+Traffic simulator interattivo|http://traffic-simulation.de/ring.html
+Training in AWS, pagando le spot|https://github.com/apls777/spotty
+Cloud Run (Unofficial) FAQ|https://github.com/ahmetb/cloud-run-faq
+#Machine Learning
+Perferziona il tuo Python, notebook raccolti da Norvig|https://github.com/norvig/pytudes
+Kalman filters notebooks|https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python
+AI econometrica by Microsoft|https://github.com/Microsoft/EconML
+GitLab+Conda|https://stefan.sofa-rockers.org/2019/04/18/python-packaging-gitlab-conda/
+Mobile machine learning|https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning
+#Cloud&K8s
+Bigquery workflow|https://biggerquery.com/
+Trow docker registry|https://trow.io/
+GCP official training|https://github.com/GoogleCloudPlatform/training-data-analyst
+GKE Advanced|https://cloud.google.com/blog/products/containers-kubernetes/introducing-gke-advanced-enhanced-reliability-simplicity-and-scale-for-enterprise-workloads
+Migrare Hadoop su GCP|https://cloud.google.com/blog/topics/customers/otto-groups-lessons-learned-migrating-a-hadoop-infrastructure-to-gcp
+#Architecture
+Spark + s3|https://databricks.com/blog/2019/04/17/running-peta-scale-spark-jobs-on-object-storage-using-s3-select.html
+Twitter scraping senza autorizzazione|https://github.com/kennethreitz/twitter-scraper?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more
+#Mixed Tech
+VI cheatsheet|http://www.atmos.albany.edu/daes/atmclasses/atm350/vi_cheat_sheet.pdf
+Repository per team leaders|https://github.com/LappleApple/awesome-leading-and-managing#readme
+Case cinesi pronte per la luna|https://www.citylab.com/design/2019/04/moon-village-som-mit-esa-space-urbanism-planning-habitat/587482/
+#No-tech
+Museo russo dello spazio|https://designyoutrust.com/2019/04/out-of-this-world-photographer-egor-rogalev-visits-the-museum-of-soviet-space-travel/
+Mappa live dei conflitti|https://libya.liveuamap.com/
+Tattica per Tinder|https://www.leggo.it/esteri/news/tinder_ragazze_foto_ikea_oggi-4433880.html
+Cose strane dal mondo|https://brightside.me/wonder-places/15-traditions-from-different-countries-that-surprised-the-whole-world-732060/
+Rianimare cervelli suini|https://www.bbc.com/news/health-47960874
+L'albero piu' alto|https://www.nationalgeographic.com/environment/2019/04/worlds-tallest-tropical-tree-discovered-climbed-borneo/
