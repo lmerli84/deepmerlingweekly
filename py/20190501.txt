@@ -1,0 +1,47 @@
+#Winners of the week
+Date un nome ad un qualunque oggetto in questa foto|https://twitter.com/melip0ne/status/1120503955526750208/photo/1
+Delta lake - ACID per Spark|https://delta.io/
+Parallelizzare Pandas con Pandarallel|https://github.com/nalepae/pandarallel?utm_campaign=DataScience_Digest&utm_medium=email&utm_source=Revue%20newsletter
+Hire a data engineer!|https://sanau.co/ML-models-are-dying-quietly
+La telecamera inferiore di questa Land Rover|https://spectrum.ieee.org/cars-that-think/transportation/advanced-cars/like-magic-land-rover-makes-its-suvs-hood-disappear
+#Machine Learning
+Come nascondersi|https://www.technologyreview.com/f/613409/how-to-hide-from-the-ai-surveillance-state-with-a-color-printout/
+Pandas api per Spark|https://github.com/databricks/koalas
+Pratical Pandas project|https://github.com/schlende/practical-pandas-projects
+Hydrosphere - AI Model management|https://hydrosphere.io/
+Frameworks for Machine Learning Model Management (MLFlow e concorrenti)|https://www.inovex.de/blog/machine-learning-model-management/?utm_campaign=DataScience_Digest&utm_medium=email&utm_source=Revue%20newsletter
+Strategie di versioning per Jupyter notebooks|https://nextjournal.com/schmudde/how-to-version-control-jupyter?utm_campaign=DataScience_Digest&utm_medium=email&utm_source=Revue%20newsletter
+Python project management|https://github.com/dephell/dephell
+#Cloud&K8s
+GKE Multitenancy|https://cloud.google.com/kubernetes-engine/docs/concepts/multitenancy-overview
+Kubelet Hacking|https://www.4armed.com/blog/hacking-kubelet-on-gke/
+Kube exploit|https://www.4armed.com/blog/kubeletmein-kubelet-hacking-tool/
+K3OS|https://k3os.io/
+#Architecture
+AWS full stack template|https://github.com/awslabs/aws-full-stack-template
+AWS LOCAL stack, ovvero i servizi Amazon in localhost|https://github.com/localstack/localstack
+AWS CI/CD quick start|https://github.com/aws-quickstart/quickstart-trek10-serverless-enterprise-cicd
+Kafka patterns e antipatterns|https://www.slideshare.net/FlorentRamiere/apache-kafka-patterns-antipatterns?qid=0154ee7e-6202-498b-8806-b1ce3cbb59f9&v=&b=&from_search=11
+Microsoft Build Accelerator|https://github.com/Microsoft/BuildXL
+#Mixed Tech
+Info sul megadatabase biometrico dell'unione europea|https://www.securityresearch-cou.eu/sites/default/files/02.Rinkens.Secure%20safe%20societies_EU%20interoperability_4-3_v1.0.pdf
+VSCode via SSH|https://github.com/cdr/sshcode
+Openshot free video editor|https://www.openshot.org/
+SDK per Gameboy|https://www.gbstudio.dev/
+Come leggere uno schema elettrico|https://learn.sparkfun.com/tutorials/how-to-read-a-schematic
+Ops, una piccola penale|https://www.theregister.co.uk/2019/04/23/hertz_accenture_lawsuit/
+Sorting Algorithm Cheat Sheet|https://www.interviewcake.com/sorting-algorithm-cheat-sheet
+#No-tech
+App store Nordcoreano|https://www.nknews.org/2019/02/what-to-buy-inside-a-north-korean-app-store/
+I puzzle di Lewis Carroll|http://www.math.hawaii.edu/~hile/math100/logice.htm
+Tesi sui bullshitters|http://ftp.iza.org/dp12282.pdf
+Avengers Endgame - Flipbook|https://i.imgur.com/Yg74gjH.gifv
+AI all'asilo (cinese)|https://medium.com/syncedreview/chinese-publisher-introduces-ai-textbooks-for-preschoolers-b95e1a89cfa0
+Cervi zombie (davvero!)|https://thecompost.io/articles/rise-of-the-zombie-deer
+Classici problemi fra barbari di D&D|https://yewnorker.com/2019/04/23/all-bard-dd-group-spends-three-sessions-arguing-about-name-then-breaks-up/
+Deiezioni fossili e serpenti a sonagli|https://gizmodo.com/fossilized-human-poop-shows-ancient-forager-ate-an-enti-1834222964
+Gli UFO, quindi, ci sono|https://www.philly.com/news/nation-world/unidentified-flying-objects-ufos-navy-document-encounters-20190424.html
+The Standard Spiritualist and Occult Corpus|http://www.iapsop.com/ssoc/
+La posta pneumatica di Parigi|http://www.douglas-self.com/MUSEUM/POWER/airnetwork/airnetwork.htm
+Sederi di criceti|https://www.sadanduseless.com/hamster-butts-funny/
+Auto multiruota|http://www.douglas-self.com/MUSEUM/TRANSPORT/nwheelcar/nwheelcar.htm
