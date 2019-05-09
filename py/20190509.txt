@@ -1,0 +1,47 @@
+#Winners of the week
+Git song|https://i.redd.it/zdgz8bmtqtv21.png
+Google Cloud derby|https://www.cloudderby.io/
+Deep learning in Go. Ma questo e' il meno, aprite il link se siete fan di DragonBall|https://medium.com/@hackintoshrao/deep-learning-in-go-f13e586f7d8a
+Mappatura della dispersione elettromagnetica|http://charleslabs.fr/en/project-Electromagnetic+interference+mapping
+Gestione delle partizioni in Hadoop - ovvero quello bisogna chiedere senza averlo mai veramente fatto|https://blog.cloudera.com/blog/2019/05/partition-management-in-hadoop/
+Must see: Spark core & optimization|https://www.youtube.com/watch?v=daXEp4HmS-E
+Cloud Hero Online by Google Cloud|https://cloudonair.withgoogle.com/events/cloudhero
+#Machine Learning
+IOT Datasets|https://hub.packtpub.com/25-datasets-deep-learning-iot/
+empathetic-based design|https://mood-ai-design.glitch.me/?utm_source=newsletter&utm_medium=email&utm_campaign=Learn%20By%20Doing
+Industry Machine learning|https://github.com/firmai/industry-machine-learning
+Azure ML Notebooks|https://github.com/Azure/MachineLearningNotebooks
+Alibi - machine learning model inspection|https://docs.seldon.io/projects/alibi/en/latest/
+Adaptive experiment library|https://github.com/facebook/Ax
+#Cloud&K8s
+Zeebe - A Workflow Engine for Microservices Orchestration|https://zeebe.io/
+Cloud TPU pods|https://cloud.google.com/blog/products/ai-machine-learning/googles-scalable-supercomputers-for-machine-learning-cloud-tpu-pods-are-now-publicly-available-in-beta
+K8s API gateways|https://learnk8s.io/kubernetes-ingress-api-gateway/
+Deploy Kubeflow|https://deploy.kubeflow.cloud/#/
+Cloud Benchmark|https://github.com/GoogleCloudPlatform/PerfKitBenchmarker
+Pontem-tool per storages GCP|https://github.com/GoogleCloudPlatform/pontem
+#Architecture
+localtunnel.io|https://localtunnel.github.io/www/
+Awesome SRE|https://github.com/dastergon/awesome-sre/blob/master/README.md
+Idee varie per Confluent Kafka in Cloud|https://www.slideshare.net/KaiWaehner/unleashing-apache-kafka-and-tensorflow-in-hybrid-cloud-architectures?qid=2f5c3989-989a-47f4-a1ad-3bc2ed3a83d3&v=&b=&from_search=2
+Factory - Enterprise scheduler|http://contribsys.com/faktory/
+Una modalita' di stima|http://highscalability.com/blog/2011/1/26/google-pro-tip-use-back-of-the-envelope-calculations-to-choo.html
+#Mixed Tech
+Il robottino agricoltore|https://www.tertill.com/
+Notebook di vari Meetup Microsoft|https://github.com/pablomarin/Meetups-Data-AI-DFW
+Facebook Tinder|https://www.technologyreview.com/f/613456/facebook-wants-to-know-which-of-your-friends-you-have-a-secret-crush-on/
+Scraping da twitter senza restrizioni|https://github.com/twintproject/twint
+Fotogrammetria|Photogrammetry
+Traferire file da pc a telefono via python e con un QRCode|https://github.com/sdushantha/qr-filetransfer
+Un data leak di Samsung ha esposto il codice sorgente delle smart tv|https://www.forbes.com/sites/daveywinder/2019/05/09/samsung-investigates-massive-data-leak-what-you-need-to-know/#6782a5b12e2c
+#No-tech
+Contro l'aria respirata nelle riunioni|https://www.nytimes.com/2019/05/06/health/conference-room-air.html
+Broccoli contro la schizofrenia|https://www.eurekalert.org/pub_releases/2019-05/jhm-bsc050619.php
+Conigli killer medievali|http://www.openculture.com/2019/03/killer-rabbits-in-medieval-manuscripts-why-so-many-drawings-in-the-margins-depict-bunnies-going-bad.html
+I suoni della giungla|http://acoustics.safeproject.net/06:00/9/13647
+Guida basic a D&D|https://github.com/Miserlou/dnd-tldr
+Calmare un bambino alla mesopotamica|https://www.atlasobscura.com/articles/crying-baby-in-mesopotamia
+Antidoto per cubomeduse|https://www.theguardian.com/environment/2019/may/01/box-jellyfish-antidote-australian-researchers-find-antidote-for
+Fordlandia|https://www.theguardian.com/cities/2016/aug/19/lost-cities-10-fordlandia-failure-henry-ford-amazon
+UFO che passano|https://www.newsweek.com/ufo-sightings-2019-us-military-tic-tac-pentagon-navy-unidentified-aerial-1412272
+Parlamento virtuale|https://parlamentovirtuale.it/
