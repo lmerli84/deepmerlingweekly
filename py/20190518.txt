@@ -1,0 +1,37 @@
+#Winners of the week
+Amundsen - pacchetto per l'organizzazione/catalogazione delle fonti dato|https://github.com/lyft/amundsenfrontendlibrary
+SparkSQL query exec internals (must read)|https://www.slideshare.net/databricks/a-deep-dive-into-query-execution-engine-of-spark-sql?next_slideshow=1
+Microsoft whisky AI|https://news.microsoft.com/europe/features/meet-the-worlds-first-ai-created-whisky/
+Stimare il lag dei consumer group di Kafka|https://www.lightbend.com/blog/monitor-kafka-consumer-group-latency-with-kafka-lag-exporter
+#Machine Learning
+ML con Pachyderm per Games of Thrones|https://www.i-programmer.info/news/90-tools/12762-machine-learning-in-the-services-of-the-game-of-thrones.html
+Metatron - per la data preparation|https://metatron.app/
+Panoramica sulla swarm intelligence (by Simo)|https://www.iltascabile.com/scienze/sciami-robot/
+Ant colony optimization|https://github.com/Pattio/DeepSwarm
+Micromouse simulator|https://github.com/mackorone/mms
+ML per la predizione del tempo di esecuzione delle app Spark|https://www.sciencedirect.com/science/article/pii/S1110016818301728
+Stumpy - time series analysis|https://github.com/TDAmeritrade/stumpy
+Build human-centered AI products by Google|https://pair.withgoogle.com/intro/
+ML Test score by Google|https://ai.google/research/pubs/pub45742
+#Cloud&K8s
+Akrobateo - Load Balancer per K8s (proposto da Kontena)|https://blog.kontena.io/akrobateo-general-purpose-loadbalancer-for-k8s/
+Google Cloud DNS overview|https://cloud.google.com/blog/products/networking/google-cloud-networking-in-depth-whats-new-with-cloud-dns?__s=wxmqfiaog5u9c3sru5f7&utm_source=drip&utm_medium=email&utm_campaign=GCP%2BNewsletter%2B%23137
+RedHat Business process management operator|https://www.redhat.com/it/technologies/jboss-middleware/process-automation-manager
+Twitter racconta di come ha spostato 300PB su Google Cloud|https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/partly-cloudy-architecture.html
+Visualizzatore della rete di dipendenze delle app in K8s|https://github.com/containership/konstellate
+Google Cloud Builder workshop code|https://github.com/GoogleCloudPlatform/container-builder-workshop
+Storie di fallimenti di K8s|https://k8s.af/
+#Architecture
+Spark compaction tool|https://github.com/KeithSSmith/spark-compaction
+SparkMeasuse - per il trobleshooting delle applicazioni Spark|https://github.com/LucaCanali/sparkMeasure
+Altro strumento di compaction per file avro|https://github.com/asdaraujo/filecrush
+Kafka mirrormaker 2.0|https://blog.cloudera.com/blog/2019/05/kafka-replication-the-case-for-mirrormaker-2/
+#Mixed Tech
+Siete davvero anonimi quando pensate di essere anonimi in rete?|https://www.nothingprivate.ml/
+Storage "infinito" su GDrive|https://github.com/stewartmcgown/uds
+Whatsapp db reader|https://github.com/Disk1n/WhatsApp_Sqlite_Reader
+Il robot centipede|https://www.declanoller.com/2019/05/16/in-case-hexapods-werent-creepy-enough-the-centipede-robot/
+#No-tech
+Drone filma tornado|https://www.dpreview.com/news/9706116988/storm-chaser-captures-incredible-tornado-footage-with-a-drone
+Principesse Disney che giocano a D&D|https://www.youtube.com/watch?time_continue=37&v=srI_Fc81XVE
+Lotta fra mucche svizzere|https://www.linkiesta.it/it/article/2019/05/11/svizzera-valais-mucche-lotta/42103/
