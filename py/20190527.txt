@@ -1,0 +1,33 @@
+#Winners of the week
+Elogio del pensiero lento|https://noidea.dog/#/continuous/
+Un mini giardino autosostenuto|https://biologicperformance.com/sealed-bottle-terrarium-garden-watered-once-53-years/
+playdate|https://play.date/
+#Machine Learning
+Federated learning|https://www.slideshare.net/Hadoop_Summit/federated-learning-137561677
+TensorWatch - deep learning debugger|https://github.com/microsoft/tensorwatch
+State of the art - AI|https://www.stateoftheart.ai/
+#Cloud&K8s
+Razee - Automaed K8s deployment by IBM|https://razee.io/
+Flagger - Canary testing in K8s|https://docs.flagger.app/
+PureStorage + Kontena Pharos|https://blog.purestorage.com/stateful-kubernetes-pure-service-orchestrator-kontena-pharos/
+Azure MLOps|https://azure.microsoft.com/it-it/blog/take-your-machine-learning-models-to-production-with-new-mlops-capabilities/?WT.mc_id=python-reddit-bramin
+Container attached storage|https://openebs.io/
+Gcloud emulators|https://cloud.google.com/sdk/gcloud/reference/beta/emulators/
+Schema registry for BigQuery|https://github.com/vertexclique/olayufku
+#Architecture
+Vari Kafka tools|https://www.slideshare.net/ConfluentInc/show-me-kafka-tools-that-will-increase-my-productivity-stephane-maarek-datacumulus-kafka-summit-london-2019
+Model factory@ING Bank|https://www.slideshare.net/Hadoop_Summit/model-factory-at-ing-bank
+#Mixed Tech
+Come creare la leadership ad ogni livello|https://www.slideshare.net/micrimson/turn-the-ship-around-041614
+I microbots|https://www.nytimes.com/2019/04/30/science/microbots-robots-silicon-wafer.html
+Scontrini e salute|https://www.tio.ch/dal-mondo/economia/1370495/gli-scontrini-del-supermercato-parlano-della-tua-salute
+#No-tech
+Minecraft earth|https://www.minecraft.net/en-us/article/new-game--minecraft-earth#
+Cani da guardia(?)|https://www.sadanduseless.com/dangerous-dogs-funny/
+Criceti ingordi|https://www.sadanduseless.com/hamsters-funny/
+Cosa usavano i romani come carta igienica|http://nautil.us/blog/what-ancient-romans-used-instead-of-toilet-paper
+L'underdark|https://oldschoolroleplaying.com/the-underdark-in-dungeons-and-dragons/
+Scale svizzere per felini|https://mymodernmet.com/brigitte-schuster-cat-ladders/
+D&D playlist|https://www.youtube.com/playlist?list=PLbHUA-o_5dgJbOXwtdVx--gTnmWfiyyys
+Buchi nelle reti per fotografi|https://petapixel.com/2019/05/22/this-airport-made-fence-holes-for-planespotting-photographers/
+Il progetto del parco della Tour Eiffel|https://www.citylab.com/design/2019/05/eiffel-tower-garden-paris-metro-design-history-car-free/589993/
