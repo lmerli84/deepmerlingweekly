@@ -2,6 +2,8 @@
 Elogio del pensiero lento|https://noidea.dog/#/continuous/
 Un mini giardino autosostenuto|https://biologicperformance.com/sealed-bottle-terrarium-garden-watered-once-53-years/
 playdate|https://play.date/
+Date informatiche|https://people.cs.nctu.edu.tw/~tsaiwn/sisc/runtime_error_200_div_by_0/www.merlyn.demon.co.uk/critdate.htm
+Storia delle mappe|https://www.laphamsquarterly.org/roundtable/first-you-make-maps
 #Machine Learning
 Federated learning|https://www.slideshare.net/Hadoop_Summit/federated-learning-137561677
 TensorWatch - deep learning debugger|https://github.com/microsoft/tensorwatch
@@ -14,6 +16,7 @@ Azure MLOps|https://azure.microsoft.com/it-it/blog/take-your-machine-learning-mo
 Container attached storage|https://openebs.io/
 Gcloud emulators|https://cloud.google.com/sdk/gcloud/reference/beta/emulators/
 Schema registry for BigQuery|https://github.com/vertexclique/olayufku
+GCP dataproc inizialization scripts|https://github.com/GoogleCloudPlatform/dataproc-initialization-actions
 #Architecture
 Vari Kafka tools|https://www.slideshare.net/ConfluentInc/show-me-kafka-tools-that-will-increase-my-productivity-stephane-maarek-datacumulus-kafka-summit-london-2019
 Model factory@ING Bank|https://www.slideshare.net/Hadoop_Summit/model-factory-at-ing-bank
@@ -21,11 +24,12 @@ Model factory@ING Bank|https://www.slideshare.net/Hadoop_Summit/model-factory-at
 Come creare la leadership ad ogni livello|https://www.slideshare.net/micrimson/turn-the-ship-around-041614
 I microbots|https://www.nytimes.com/2019/04/30/science/microbots-robots-silicon-wafer.html
 Scontrini e salute|https://www.tio.ch/dal-mondo/economia/1370495/gli-scontrini-del-supermercato-parlano-della-tua-salute
+Un bug nella pompa dell'insulina diventa una feature|https://attivissimo.blogspot.com/2019/05/falla-di-sicurezza-in-pompa-per.html
 #No-tech
 Minecraft earth|https://www.minecraft.net/en-us/article/new-game--minecraft-earth#
 Cani da guardia(?)|https://www.sadanduseless.com/dangerous-dogs-funny/
 Criceti ingordi|https://www.sadanduseless.com/hamsters-funny/
-Cosa usavano i romani come carta igienica|http://nautil.us/blog/what-ancient-romans-used-instead-of-toilet-paper
+Igiene intima dell'antica Roma|http://nautil.us/blog/what-ancient-romans-used-instead-of-toilet-paper
 L'underdark|https://oldschoolroleplaying.com/the-underdark-in-dungeons-and-dragons/
 Scale svizzere per felini|https://mymodernmet.com/brigitte-schuster-cat-ladders/
 D&D playlist|https://www.youtube.com/playlist?list=PLbHUA-o_5dgJbOXwtdVx--gTnmWfiyyys
