@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 file_name="20190624"
+=======
+file_name="20190616"
+>>>>>>> 4bea3e18e27e9268cc8cda0e594d844cd15744d0
 with open(file_name+".txt", "r") as f:
     data = f.readlines()
  

@@ -1,0 +1,34 @@
+#Winners of the week
+Never Blink|https://github.com/ByronHsu/Never-Blink
+DS3Lab@Zurich|https://ds3lab.org/ci/
+Voila' per Jupyter|https://blog.jupyter.org/and-voil%C3%A0-f6a2c08a4a93
+Intel Analytic zoo|https://github.com/intel-analytics/analytics-zoo
+Downdetector - per sapere se un servizio è giu'|https://downdetector.it/
+#Mixed tech
+Riorganizzazioni in Cloudera|https://www.cnbc.com/2019/06/05/cloudera-ceo-reilly-departs-earnings-q1-2020.html
+...e dato il link sopra, un'altro punto di vista|http://www.jesse-anderson.com/2019/06/i-come-not-to-bury-cloudera-but-to-praise-it/
+Un cellulare minimalista|https://www.blloc.com/
+Minimal project management|https://hiltmon.com/blog/2016/03/05/minimal-project-management/
+Finance & Python|http://financeandpython.com/default.html
+Game engine for semidummies di Google|https://www.blog.google/technology/area-120/create-3d-games-friends-no-experience-required/
+Open Bank Project PSD2 sandbox|https://psd2-api.openbankproject.com/
+Contro i colloqui tecnici|https://sizovs.net/2019/06/09/i-never-liked-tech-interviews/
+#Machine Learning & AI
+Pytorch Hub|https://pytorch.org/hub
+Telco Churn in Cloudera Data Science Workbench|https://blog.cloudera.com/blog/2019/06/visual-model-interpretability-for-telco-churn-in-cloudera-data-science-workbench/
+Habitat AI - ambiente 3D virtuale per il training di agenti. Imparano ad andare in bagno o in cucina|https://aihabitat.org/
+Il modello metereologico del NOAA|https://www.noaa.gov/media-release/noaa-upgrades-us-global-weather-forecast-model
+#Cloud&K8s
+#Architecture
+EC2 instance live cost|https://www.ec2instances.info/
+Sistemi di controllo industriale di Svizzera e Polonia|https://medium.com/@woj_ciech/state-of-industrial-control-systems-in-poland-and-switzerland-656e2e363fe3
+Intellij edutools e Apache beam|https://blog.jetbrains.com/blog/2019/06/14/new-in-educational-products-apache-beam-katas-and-more/
+Azure IOT Edge|https://github.com/Azure/azure-iotedge
+Disater management alla DevOps a chernobyl|https://medium.com/@dylnuge/chernobyl-devops-software-engineering-disaster-management-and-observability-8a50a7ea98d6
+#No-tech
+Robomaster S1|https://www.dji.com/it/robomaster-s1
+Simulation of the chernobyl accident|https://www.sciencedirect.com/science/article/pii/0029549388903378
+chernobyl Simulator|http://www.articlesbyaphysicist.com/ch1.html
+Corriere di fagioli|http://www.ilgiornale.it/news/cronache/fagioli-scambiati-ovuli-disavventura-turista-malpensa-1710069.html
+Fantasy map generator|https://azgaar.github.io/Fantasy-Map-Generator/
+Una stazione radio fantasma|http://www.bbc.com/future/story/20170801-the-ghostly-radio-station-that-no-one-claims-to-run
