@@ -1,0 +1,38 @@
+#Winners of the week
+Cloudera rilascia tutto come opensource|https://www.cloudera.com/products/faq.html
+K8s cheatsheet|https://github.com/dennyzhang/cheatsheet-kubernetes-A4
+Azure Cloud design pattern|https://buildazure.com/cloud-design-patterns-infographic/
+Ennesimo post sulla non-morte di Hadoop :)|https://tech.marksblogg.com/is-hadoop-dead.html
+contro Scrum|https://www.linkedin.com/pulse/scrum-makes-you-dumb-daniel-jones/
+Spark tuning configurator(ma voi ci credete davvero?)|http://sparkconf.mgbox.me/
+LEGO Heroquest|https://ideas.lego.com/projects/d0c19cd7-ad7a-4775-b185-debbf29968d7
+#Machine Learning
+Nvidia rapids - libreria di AI su Spark+GPU|https://github.com/rapidsai/spark-examples
+Numenta anomaly benchmark; un benchmark di valutazione di algoritmi di anomaly detection|https://github.com/numenta/NAB
+Guida disegnata a Numpy, per stupidi|https://jalammar.github.io/visual-numpy/
+Corso di quantum computing|https://brilliant.org/courses/quantum-computing/
+Pandas tricks|https://nbviewer.jupyter.org/github/justmarkham/pandas-videos/blob/master/top_25_pandas_tricks.ipynb
+#Architecture
+Cloudera security system best practice|https://blog.cloudera.com/blog/2019/07/best-practices-guide-for-systems-security-services-daemon-configuration-and-installation-part-1/
+Una dashboard per gli automation test|https://reportportal.io/
+Ci sono solo gli integration test!|https://dimes.github.io/blog/there-are-only-integration-tests.html?utm_campaign=Up%20%26%20Running%20Weekly&utm_medium=email&utm_source=Revue%20newsletter
+Capire i listener di Kafka|https://rmoff.net/2018/08/02/kafka-listeners-explained/?utm_campaign=Up%20%26%20Running%20Weekly&utm_medium=email&utm_source=Revue%20newsletter
+K14s - Strumenti per Kubernetes|https://github.com/k14s
+ACL e RABC per tutti!(i linguaggi)|https://casbin.org/
+Spark cleaning library|https://medium.com/@dawid.rutowicz/cleanframes-data-cleansing-library-for-apache-spark-eaae526ee958
+#Cloud
+Qualche consiglio per ottimizzare le query in BigQuery|https://medium.com/@SoftDevLife/optimising-queries-in-bigquery-for-beginners-971be491f1de
+#Mixed-tech
+Un software per ebook semplice e leggero|https://johnfactotum.github.io/foliate/
+Prefect - automatizzatore python|https://docs.prefect.io/
+Distribuited ledger framework usabile su un STM32|https://www.st.com/en/embedded-software/x-cube-iota1.html
+Pomodoro technique da terminale|https://github.com/JaDogg/pydoro
+Questo sito raccoglie le regolamentazioni di infrazione per ciascun paese in cui è applicata la GDPR|http://www.enforcementtracker.com/
+Spotify playlist downloader|https://github.com/ritiek/spotify-downloader
+#No-tech
+Pattern strutturali della lingua araba|https://idlewords.com/2011/08/why_arabic_is_terrific.htm
+La pochezza del software del 737max|https://www.bloomberg.com/news/articles/2019-06-28/boeing-s-737-max-software-outsourced-to-9-an-hour-engineers
+Interi film condensati in una unica foto|https://www.theguardian.com/artanddesign/gallery/2017/may/16/jason-shulman-films-condensed-into-a-single-photo-frame-in-pictures?CMP=share_btn_fb&utm_medium=Social&utm_source=Facebook#Echobox=1561732490
+Android auto su RPI|http://getcrankshaft.com/
+Professional Dungeon Master|https://www.bloomberg.com/news/features/2019-07-08/how-to-be-a-professional-dungeons-dragons-master-hosting-games
+Le chiappe delle stelle marine|https://www.sadanduseless.com/funny-starfish-gallery/
