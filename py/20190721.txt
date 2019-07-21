@@ -1,0 +1,33 @@
+#Winners of the week
+La vera assoluta verita'. Questo e' un "must click"|https://i.redd.it/klil5sw0yhb31.jpg
+Yunikorn: Yarn+K8s, finalmente|https://blog.cloudera.com/blog/2019/07/yunikorn-a-universal-resource-scheduler/
+Dagster - Framework per la creazione di soluzioni applicative distribuite|https://github.com/dagster-io/dagster
+Bidet portatile|https://www.yahoo.com/lifestyle/portable-bidet-breakthrough-butt-cleansing-193700688.html?guccounter=1
+Teoria dei gruppi. Da colorare|http://www.coloring-book.co/?pageName=cover
+#Machine Learning
+Machine learning financial asset management - Modelli|https://github.com/firmai/machine-learning-asset-management
+Pyon - libreria python dedicata al trattamento di Json|https://github.com/lagmoellertim/pyon
+Clonare una voce in 5 secondi|https://github.com/CorentinJ/Real-Time-Voice-Cloning
+#Architecture
+Stackdriver debugger|https://cloud.google.com/debugger/
+Awesome Apache Airflow - Elenco di link inerenti Airflow|https://github.com/jghoman/awesome-apache-airflow
+The Google developer cheatsheet|https://github.com/gregsramblings/google-cloud-4-words
+Lavorare con Avro in Apache Beam|https://rmannibucau.metawerx.net/post/apache-beam-row-structure-to-avro-indexedrecord
+Gaffer - graph database framework, storage su Accumulo, Hbase e Parquet|https://github.com/gchq/Gaffer
+Fuzzy matching in BigQuery|https://medium.com/google-cloud/a-journey-into-bigquery-fuzzy-matching-1-of-1-soundex-b5b89087eae2
+#Mixed-tech
+Il furgoncino dei BigData di Amazon|https://www.cnbc.com/2019/07/19/how-amazon-uses-snowmobile-trucks-snowball-devices-for-data-transfer.html
+Panda: tool di Data Governance|http://infolab.stanford.edu/panda/
+UIpath - Robotic process automation software (Gartner Leader)|https://www.uipath.com/product/platform
+Office 365 illegale in Germania|https://arstechnica.com/information-technology/2019/07/germany-threatens-to-break-up-with-microsoft-office-again/
+Il chip neuromorfico di Intel|https://newsroom.intel.it/news/pohoiki-beach-di-intel-sistema-neuromorfico-da-64-chip-offre-risultati-rivoluzionari-nei-test-di-ricerca/
+Aleph - Strumento di indicizzazione di documenti open source|https://github.com/alephdata/aleph
+Grank - Strumento di gestione documentale per l'investigazione di documenti|https://gransk.com/
+Fact check tool 1|https://data.occrp.org/
+Fact check tool 2 - Siren.io, piattaforma di tracciamento/investigazione|https://siren.io/
+Script per il recupero delle info di rete dai chip Qualcomm|https://github.com/P1sec/QCSuper
+Estrattore di info da account Instagram|https://github.com/sc1341/InstagramOSINT
+#No-tech
+Parafulmini svizzeri al lavoro|https://spectrum.ieee.org/tech-talk/energy/environment/an-oftstruck-mountaintop-tower-gets-a-new-lightning-sensor
+Dungeon generation in Diablo1|https://www.boristhebrave.com/2019/07/14/dungeon-generation-in-diablo-1/
+Disegni da colorare della guardia di finanza|http://www.gdf.gov.it/chi-siamo/organizzazione/specializzazioni/comparto-aeronavale/servizio-navale/vivere-il-mare/giovani-leve/disegni-da-colorare
