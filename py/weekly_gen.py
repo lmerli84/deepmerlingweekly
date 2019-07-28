@@ -1,4 +1,7 @@
-file_name="20190721"
+##Usage : python3 weekly_gen.py 20190728
+import sys
+file_name= str(sys.argv[1])
+#file_name="20190721"
 with open(file_name+".txt", "r") as f:
     data = f.readlines()
  
