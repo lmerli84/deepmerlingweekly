@@ -1,0 +1,34 @@
+#Winners of the week
+Differenza fra AI e Machine Learning, in una immagine(very very must click)|https://i.redd.it/caf7s2nnstd31.jpg
+La differenza fra amatori e professionisti|https://fs.blog/2017/08/amateurs-professionals/
+Cloud custodian - Cloud data governance|https://github.com/cloud-custodian/cloud-custodian
+IBM Cloud Paks|https://www.ibm.com/cloud/paks/
+#Machine Learning
+Antifurto con Kafka e tensorflow|https://www.confluent.io/blog/bust-the-burglars-machine-learning-with-tensorflow-and-apache-kafka
+Clustering di 4000 tags in Stackoverflow|https://stackoverflow.blog/2019/07/24/making-sense-of-the-metadata-clustering-4000-stack-overflow-tags-with-bigquery-k-means/?utm_campaign=Up%20%26%20Running%20Weekly&utm_medium=email&utm_source=Revue%20newsletter
+Airbus quantum computing challenge|https://www.airbus.com/innovation/tech-challenges-and-competitions/airbus-quantum-computing-challenge.html
+Prolog in 6 slides|http://www.t3x.org/bits/prolog-6-slides.pdf
+#Architecture
+Edge computing con Kubernetes in una catena di fast food|https://medium.com/@cfatechblog/edge-computing-at-chick-fil-a-7d67242675e2
+IDE in Cloudera Data Science workbench (si, anche Pycharm)|https://blog.cloudera.com/blog/2019/07/use-your-favorite-editor-in-cloudera-data-science-workbench-1-6/
+Bias in machine learning|https://machinesgonewrong.com/
+Airflow Testing|https://blog.godatadriven.com/testing-and-debugging-apache-airflow
+Openshift onboarding form :)|https://blog.openshift.com/an-openshift-administrators-guide-to-onboarding-applications/
+Bridge HTTP per Kafka|https://strimzi.io/2019/07/19/http-bridge-intro.html
+M5Stack - modular dev kit|https://m5stack.com/
+Apache Phoenix sulla CDH|https://blog.cloudera.com/blog/2019/07/apache-phoenix-for-cdh/
+#Mixed-tech
+Python antipatterns|https://docs.quantifiedcode.com/python-anti-patterns/#
+Space engine - un atlante spaziale sul dekstop|http://spaceengine.org/
+Fork - Git client|https://fork.dev/windows
+Mini tool per esplorare la storia delle chiavette USB|https://github.com/snovvcrash/usbrip
+Consigli su come trovare webcam nascoste negli appartamenti AirBnB|https://isc.sans.edu/diary/How+to+Find+Hidden+Cameras+in+your+AirBNB/24834
+#No-tech
+Disossare polli da professionista|https://www.youtube.com/watch?v=nfY0lrdXar8&app=desktop
+Toilets of the world|https://toilet-guru.com/
+La storia dell'uomo con il biglietto aereo a vita|https://narratively.com/the-man-with-the-golden-airline-ticket/
+Resettare gli airbus|https://www.theregister.co.uk/2019/07/25/a350_power_cycle_software_bug_149_hours/
+L'alga gonfia|https://en.wikipedia.org/wiki/Valonia_ventricosa
+Gli ultimi giorni di John Allen Chau (mangiato)|https://www.outsideonline.com/2400030/john-allen-chau-life-death-north-sentinel
+Gatti che non vogliono le carezze|https://www.sadanduseless.com/find-someone-else-lol/
+Le ragazze radioattive|https://www.lastampa.it/salute/2019/07/29/news/la-tragedia-dimenticata-delle-ragazze-fantasma-ingerivano-il-radio-e-cosi-brillavano-ma-perdevano-denti-e-mandibole-1.37176189
