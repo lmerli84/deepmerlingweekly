@@ -1,0 +1,29 @@
+#Winners of the week
+La verità sulle data pipelines|https://xkcd.com/2054/
+Holodeck - Agenti intellingeti sull'Unreal Engine|https://pcc.cs.byu.edu/2018/10/04/introducing-holodeck/
+Impara anche tu ad ecolocarti|https://www.atlasobscura.com/articles/how-to-echolocate
+TLS|https://tls.ulfheim.net/
+#Machine Learning
+PixieDebugger per Jupyter|https://www.analyticsvidhya.com/blog/2018/07/pixie-debugger-python-debugging-tool-jupyter-notebooks-data-scientist-must-use/
+MLeap and Kubernetes to productionize Spark ML Models|https://engineering.autotrader.co.uk/2018/10/03/productionizing-days-to-sell.html
+Logreduce- ML su log applicativi|https://opensource.com/article/18/9/quiet-log-noise-python-and-machine-learning
+Deep Learning monitor|https://deeplearn.org/
+#Data Engineering/Architecture
+Rundeck per DevOps|https://www.rundeck.com/open-source
+IT Postmortem - una buona pratica|https://medium.com/team-per-la-trasformazione-digitale/documento-postmortem-tecnologia-pubblica-amministrazione-cdb5c7c73728
+Clipper - Model Serving|https://github.com/ucbrise/clipper
+Elasticsearch shard allocation internals|https://highperfdesign.com/post/elasticsearch_allocation_explained/
+Stock prediction dashboard in Elasticsearch|https://github.com/shirosaidev/stocksight
+Comparazione di base images per K8s|https://kubedex.com/base-images/
+Alternativa al Kafka Replicator|https://github.com/salesforce/mirus
+#Mixed Tech
+Assunzioni via Google|https://hire.google.com/
+Hacker russo che patcha i router|https://www.zdnet.com/article/a-mysterious-grey-hat-is-patching-peoples-outdated-mikrotik-routers/
+#No-techS
+Come non dire la cosa sbagliata|http://articles.latimes.com/2013/apr/07/opinion/la-oe-0407-silk-ring-theory-20130407
+Fotografare le stelle|https://photographylife.com/landscapes/how-to-photograph-star-trails
+Mappa di Waterdeep|http://www.collegeoflore.com/the-bards-guide-to-waterdeep/
+Crocchette di patate con speck croccante (link civetta per farmele preparare)|https://www.cucchiaio.it/ricetta/crocchette-di-patate-con-mele-e-speck-croccante/
+Scarponi riscaldati|https://www.tomshw.it/salomon-x-pro-gli-scarponi-sci-si-scaldano-l-app-98354
+Ansia cronica|https://blogs.scientificamerican.com/observations/is-chronic-anxiety-a-learning-disorder/
+Trame di RPG|https://rolltop-indigo.blogspot.com/2018/10/the-big-list-of-rpg-plots.html

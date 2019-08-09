@@ -1,0 +1,47 @@
+#News
+Pycon: ogni anno dico che ci voglio andare ed ogni anno non ci vado,https://www.pycon.it/p3/schedule/pycon9/
+#Machine Learning
+Tensorflow Project Template,https://github.com/Mrgemy95/Tensorflow-Project-Template
+Machine Learning per artisti,http://ml4a.github.io/
+Generatore di dati finti,https://fakejson.com/
+Stiamo esaurendo i nomi dei prodotti?,https://deepmind.com/blog/impala-scalable-distributed-deeprl-dmlab-30/
+Azure AI bootcamp repository,https://github.com/Azure/LearnAI-Bootcamp/blob/master/emergingaidev_bootcamp.md
+Bazel 0.10,https://blog.bazel.build/2018/02/06/bazel-0.10.html
+Una luce sul deep learning,https://phys.org/news/2017-06-optical-deep.html
+AI Startup da conoscere,https://www.linkedin.com/pulse/ai-startups-you-should-know-part-1-kyle-kling/
+Paper su finanza e deep learning,https://itnext.io/2017s-deep-learning-papers-on-investing-7489e8f59487
+Ce l'hanno fatta anche loro!,http://blog.rstudio.com/2018/02/06/tensorflow-for-r/
+Deep Learning for Sentiment Classification,https://blog.godatadriven.com/deep-learning-sentiment-classification
+ML Benchmark - parte1,https://rare-technologies.com/machine-learning-hardware-benchmarks/
+ML Benchmark - parte2,https://rare-technologies.com/machine-learning-benchmarks-hardware-providers-gpu-part-2/
+#Data Engineering/Architecture
+Autoscaling deep learning clusters on AWS with Kubernetes and RiseML,https://blog.riseml.com/autoscaling-deep-learning-clusters-with-riseml-cfff730f3363
+Cisco Container Platform,https://blogs.cisco.com/cloud/ciscocontainerplatform?dysig_tid=45ac7066df604854b47a2c55656d34ae&DTID=esosah000746&REFERRING_SITE=Twitter&CREATIVE=121508+SAH&POSTID=c5a10155-6d6c-42d0-b927-97c860bd9c80
+Panoramica sui Kubernetes Provider,https://www.javacodegeeks.com/2018/02/roundup-managed-kubernetes-platforms.html
+Uno use case di architettura kubebased,https://hackernoon.com/kubernetes-for-dev-infrastructure-40b9175cb8c0
+Prevenire è meglio che curare(Kafka ed SSL),https://elephant.tech/spark-2-0-streaming-from-ssl-kafka-with-hdp-2-4/
+Un Kafka sicuro su Kubernetes,https://medium.com/jayanthg/transparently-securing-kafka-istio-style-with-up-to-300-higher-performance-than-native-tls-in-aa95731b5d40
+Web automation con Python e Selenium,https://realpython.com/blog/python/modern-web-automation-with-python-and-selenium/
+Un client per connessioni a db relazionali,https://tableplus.io/
+Continuos deployment con GITLab e Kubernetes - Facile.it,https://engineering.facile.it/blog/eng/continuous-deployment-from-gitlab-ci-to-k8s-using-docker-in-docker/
+Un catalogo per app,https://cloudron.io/index.html
+#Mixed Tech
+Bio-processori,http://koniku.com/
+VIM cheatsheet - o del perchè sono lento,https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/vim.txt
+Catalogo delle attività dell'agenzia spaziale italiana,https://www.asi.it/sites/default/files/attach/notizia/catalogo_asi_ottobre_web_0.pdf
+Font Awesome free,https://github.com/FortAwesome/Font-Awesome
+Come si costruisce una Hasselblad,https://www.theverge.com/2018/2/6/16977522/hasselblad-camera-factory-tour
+Real-time tracking degli squali balena,https://www.conservation.org/projects/Pages/Track-Whale-Sharks.aspx
+Il luogo più silenzioso al mondo,http://www.esa.int/Our_Activities/Space_Science/ESA_creates_quietest_place_in_space
+#No-tech
+Meno male che sono estinti,https://www.nytimes.com/2018/02/05/science/spider-tail-amber.html?mabReward=CTS2&recid=10DBLl3OnsaRNCcvOaGKa2AlMig&recp=5&action=click&pgtype=Homepage&region=CColumn&module=Recommendation&src=rechp&WT.nav=RecEngine
+Una grande delusione per tutti i terrapiattisti - Non mollare Mad Mike,https://www.inverse.com/article/40976-flat-earther-rocket-fails-again-stop-trying
+#Winners of the week
+Amazon 404 e cagnolini,https://www.amazon.com/404
+HappyDB,https://rit-public.github.io/HappyDB/
+Ubuntu+CUDA,https://medium.com/devoops-and-universe/installation-of-cuda-toolkit-on-linux-54765a3e3c7d
+AI sotto acidi(articolo folle ma affascinante),https://motherboard.vice.com/en_us/article/53dzkd/the-electric-turing-acid-test
+Mi sa che sono un orso,https://hackernoon.com/winter-hibernation-what-to-do-with-continuous-tiredness-96a64ea1cdcb
+Stare calmi in ufficio - consigli da artificieri,https://blog.rescuetime.com/stay-calm-strategies/
+Mah..nonostante tutta la mia applicazione la cura sembrerebbe non funzionare,https://www.msn.com/en-us/health/medical/mcdonald%E2%80%99s-fries-chemical-may-cure-baldness-study-says/ar-BBIJqnv
+Mozilla project things(credo repost sulla weekly ma figooo),https://iot.mozilla.org/

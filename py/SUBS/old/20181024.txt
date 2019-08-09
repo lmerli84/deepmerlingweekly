@@ -1,0 +1,26 @@
+#Winners of the week
+Microsoft machine Learning for Spark (importante, apre a nuove soluzioni, soprattutto HTTP for Spark, cliccate numerosi)|https://github.com/Azure/mmlspark
+Marvel API|https://developer.marvel.com/
+Hubble aggiustato alla solita maniera|https://www.engadget.com/2018/10/24/nasa-hubble-gyroscope-fix/
+#Machine Learning
+Comunicazione intra-veicoli|https://spectrum.ieee.org/transportation/infrastructure/how-vehicletovehicle-communication-could-replace-traffic-lights-and-shorten-commutes
+Collaborative filtering in Spark|https://github.com/ruivieira/presentations/blob/master/collaborative_filtering_microservices_on_spark.pdf
+Quantum computing lessons|https://onp4.com/@kling109/~cpsc-354-test
+Real time prediction in Spark|https://shrikar.com/apache-spark-pyspark-and-real-time-predictions/
+#Data Engineering/Architecture
+Forrester Enterprise Container report|https://reprints.forrester.com/#/assets/2/431/RES141562/reports
+Dive - esplora i layer di Docker|https://github.com/wagoodman/dive
+Kiali - Visibilita' del service mesh|https://www.kiali.io/
+Gitops operator for K8s|https://github.com/weaveworks/flux
+PMML model Evaluator per Spark|https://github.com/jpmml/jpmml-evaluator-spark
+Github actions|https://developer.github.com/actions/
+Portainer per Docker|https://portainer.io/
+#Mixed Tech
+PhotoPrism|https://github.com/photoprism/photoprism
+#No-techS
+Teslaquila|https://www.wired.it/lifestyle/food/2018/10/16/elon-musk-tequila-tesla/?utm_source=wired&utm_medium=NL&utm_campaign=daily&refresh_ce=
+Uranus jokes|https://electricliterature.com/a-deep-dive-into-uranus-jokes-c492f970d1f0?fbclid=IwAR0iSYlel9dsQChZbgfu43rhoGHurn6mTtRmq_CTK9MZ7C_Z_r7At0Z4u-Y
+Piccole conferenze|https://briancasel.com/tiny-conferences/
+Galline col maglione|https://www.sadanduseless.com/stylish-chickens/
+Database del legno|https://www.wood-database.com/wood-articles/top-ten-hardest-woods/
+L'aria stressata delle sale cinematografiche|https://www.mpg.de/12363501/a-chemical-criterion-for-rating-movies

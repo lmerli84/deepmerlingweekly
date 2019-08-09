@@ -1,0 +1,47 @@
+#Winners of the week
+Una mucca gigante|https://www.theguardian.com/world/video/2018/nov/28/meet-knickers-the-1400kg-cow-from-australia-video
+Furlexa: Alexa + un furby|https://howchoo.com/g/otewzwmwnzb/amazon-echo-furby-using-raspberry-pi-furlexa
+Il mistero dei tombini di Madrid|https://www.atlasobscura.com/articles/secret-code-on-madrid-security-bollards
+Le verita' dei cuccioli|https://www.sadanduseless.com/mean-puppy-gallery/
+Piccolo problemino (Priviledge escalation) su Openshift3|https://www.redhat.com/en/blog/understanding-critical-kubernetes-privilege-escalation-flaw-openshift-3
+#Machine Learning
+Modelchimp - experiment tracker|https://www.modelchimp.com/
+Linee guida per progetti di ML|https://drivendata.github.io/cookiecutter-data-science/
+Leggere la mente con deep learning|https://blog.floydhub.com/reading-minds-with-deep-learning/
+The Hundred-Page Machine Learning Book|http://themlbook.com/wiki/doku.php
+Big query vs TF Estimator|https://medium.com/weareservian/gcp-machine-learning-face-off-bqml-versus-custom-estimators-in-tensorflow-7f5987c93758?__s=wxmqfiaog5u9c3sru5f7
+#AWS galore
+AWS Sagemaker workshop|https://gitlab.com/juliensimon/ent321
+AWS Samples|https://github.com/aws-samples/
+AWS DeepRacer|https://aws.amazon.com/it/deepracer/
+AWS Outposts|https://aws.amazon.com/it/outposts/
+AWS Lake Formation|https://aws.amazon.com/it/lake-formation/?hp=r
+AWS Well-architected tool|https://aws.amazon.com/it/well-architected-tool/?hp=r
+AWS Datasync|https://aws.amazon.com/it/datasync/?hp=r
+AWS Transit gateway|https://aws.amazon.com/it/transit-gateway/?hp=r
+AWS Forecast - Time series analysis|https://aws.amazon.com/it/blogs/aws/amazon-forecast-time-series-forecasting-made-easy/
+AWS Ground Station|https://aws.amazon.com/it/blogs/aws/aws-ground-station-ingest-and-process-data-from-orbiting-satellites/
+AWS Machine learning course|https://aws.amazon.com/it/blogs/machine-learning/amazons-own-machine-learning-university-now-available-to-all-developers/?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_210
+SFTP transfer|https://aws.amazon.com/it/sftp/
+Processorino di AWS|https://aws.amazon.com/it/blogs/aws/new-ec2-instances-a1-powered-by-arm-based-aws-graviton-processors/
+#Data Engineering/Architecture
+Da Hive a Spark - considerazioni|https://tech.trivago.com/2018/12/03/teardown-rebuild-migrating-from-hive-to-pyspark/
+Migrare verso GCP|https://blog.hike.in/migration-to-google-cloud-platform-gcp-17c397e564b8?__s=wxmqfiaog5u9c3sru5f7
+K8s operators - la lista|https://kubedex.com/operators/
+spekt8|https://github.com/spekt8/spekt8
+Container design pattern|https://medium.com/asos-techblog/improve-availability-and-resilience-of-your-micro-services-using-this-7-cloud-design-patterns-16006eaf32b1
+Sysdig per K8s - Bello questo|https://sysdig.com/
+Tutto quello che avreste voluto sapere su Helm|https://rhonabwy.com/2018/11/22/review-of-using-helm-to-package-and-host-applications/
+Overlay di rete per K8s, benchmark|https://itnext.io/benchmark-results-of-kubernetes-network-plugins-cni-over-10gbit-s-network-36475925a560
+#Mixed Tech
+The arcane algorithm archive|https://www.algorithm-archive.org/
+Tutti i prodotti Google cancellati|https://gcemetery.co/
+RPI professionale, per sonde di un certo livello|https://www.sferalabs.cc/strato-pi/
+Impara GIT!|https://learngitbranching.js.org/
+#No-techS
+Case gratis in Giappone(@Yennefer&Feanor)|https://www.travelandleisure.com/travel-news/japan-free-abandoned-house
+Le migliori foto del 2018|https://www.nationalgeographic.com/photography/best-of-2018/best-pictures-2018/
+BAAS: Boss as a service|https://bossasaservice.life/
+La partenza di un razzo vista dallo spazio|https://www.syfy.com/syfywire/amazing-time-lapse-video-of-a-rocket-launch-seen-from-space
+Risorse per DM|https://www.otherworldlyincantations.com/mastery/
+Stili di programmazione|https://i.redd.it/gkvvq0d131221.png

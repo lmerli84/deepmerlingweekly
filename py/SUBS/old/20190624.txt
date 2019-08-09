@@ -1,0 +1,33 @@
+#Winners of the week
+Test per verificare il vostro vocabolario inglese|http://vocabulary.ugent.be/
+Storia della compressione software|https://tech.marksblogg.com/minimalist-guide-compression.html
+Forse il problema e' davvero l'"Agile"|https://www.infoq.com/articles/agile-agile-blah-blah/?itm_source=infoq&itm_medium=popular_widget&itm_campaign=popular_content_list&itm_content=
+Google Capture the flag|https://capturetheflag.withgoogle.com/
+Le gloriose winutils per Hadoop su windows|https://github.com/steveloughran/winutils
+#Machine Learning
+Framework di gestione dei modelli by Facebook|https://ax.dev/
+Dimostrazione d'uso di MLFlow su GCP|https://medium.com/weareservian/deploying-an-ml-model-using-gcp-and-mlflow-27084989f98?__s=wxmqfiaog5u9c3sru5f7
+Libreria per la creazione di report da Pandas|https://github.com/pandas-profiling/pandas-profiling
+Libreria per il trading algoritmico finanziario|http://www.gryphonframework.org/
+Raccolta di dataset a tema industriale|https://github.com/makinarocks/awesome-industrial-machine-datasets
+Versioning di dati e modelli (slide Pycon2019)|https://speakerdeck.com/pycon2019/dmitry-petrov-machine-learning-model-and-dataset-versioning-practices?slide=32
+Python debugging internals (slide Pycon2019)|https://speakerdeck.com/pycon2019/liran-haimovitch-understanding-pythons-debugging-internals?slide=9
+#Architecture
+Script python di esempio per la GCP|https://github.com/GoogleCloudPlatform/python-docs-samples
+Aggregatore di contenuti legati al DevOps|http://www.devopsbookmarks.com/scm
+Descrizione dell'exec plan di BigQuery|https://stories.thinkingmachin.es/coding-safely-in-the-cloud/
+Pubblicazione di Google(2017) in merito alla definizione di metriche (SLO) utili in ambito cloud|https://storage.googleapis.com/pub-tools-public-publication-data/pdf/f647d24ee7eeb338acebf1eb73a5d11b357620b0.pdf
+Dai microservizi ai microfrontend|https://martinfowler.com/articles/micro-frontends.html?utm_campaign=Up%20%26%20Running%20Weekly&utm_medium=email&utm_source=Revue%20newsletter
+Dataproc best practice|https://cloud.google.com/blog/products/data-analytics/7-best-practices-for-running-cloud-dataproc-in-production?__s=wxmqfiaog5u9c3sru5f7&utm_source=drip&utm_medium=email&utm_campaign=GCP%2BNewsletter%2B%23142
+"Golden signals":latenza,errori,traffico e saturazione: come monitorarli|https://sysdig.com/blog/golden-signals-kubernetes/
+#Mixed-tech
+Giochi per recruiter e scrutatori di sorgenti|https://www.sourcing.games/
+Istruzioni per la creazione di una pagina web anonima ()|http://voidnull.sdf.org/
+Comparazione fra i formati CSV, parquet ed avro|https://medium.com/ssense-tech/csv-vs-parquet-vs-avro-choosing-the-right-tool-for-the-right-job-79c9f56914a8
+#No-tech
+Cose piene di fagioli che non dovrebbero aver fagioli al loro interno|https://www.sadanduseless.com/beans-everywhere-funny/
+Mappa di bar e ristoranti a Parigi|https://www.google.com/maps/d/viewer?mid=1bVEc0qJJp6ifrCDsk0stG5I5kvxQ4-mS&ll=48.85991827383392%2C2.3359878000001117&z=13
+Un gioco multiplayer dedicato alla solitudine|https://awkwardsilencegames.itch.io/thethingswelostintheflood
+Neuroscienza della curiosita': la dipendenza da informazioni|http://newsroom.haas.berkeley.edu/how-information-is-like-snacks-money-and-drugs-to-your-brain/
+Svedesi abitano in una casa-serra per risparmiare|https://returntonow.net/2019/03/04/swedish-couple-builds-greenhouse-around-home-to-stay-warm-and-grow-food-all-year-long/
+ACME KLEIN BOTTLE - Bottiglie impossibili (ed inutili)|https://www.kleinbottle.com/

@@ -1,0 +1,35 @@
+#Winners of the week
+Petastorm|https://github.com/uber/petastorm
+Nasa Rover opensource|https://opensourcerover.jpl.nasa.gov/#!/home
+Far passare i test automaticamente|https://github.com/auchenberg/volkswagen
+.AVI to Tensorflow tfrecords|https://github.com/ferreirafabio/video2tfrecord
+Beam Machine learning|https://docs.google.com/presentation/d/1U5h45drW7QEMBTuLIVlrKwMMbu8mXE2BQyBkA_5O3ak/edit#slide=id.gc6fa3c898_0_0
+#Machine Learning
+The Joel Test for machine learning systems|https://www.lucypark.kr/docs/2017-acml/#/
+Mantra - ML framework boilerplate|https://github.com/RJT1990/mantra?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more
+Ibis su Big Query|https://cloud.google.com/blog/products/data-analytics/ibis-and-bigquery-scalable-analytics-comfort-python?__s=wxmqfiaog5u9c3sru5f7&utm_source=drip&utm_medium=email&utm_campaign=GCP%2BNewsletter%2B%23104
+Flocking|https://www.blog.drewcutchins.com/blog/2018-8-16-flocking
+Adversarial Robustness Toolbox|https://developer.ibm.com/code/open/projects/adversarial-robustness-toolbox/
+ChatBot datasets|https://gengo.ai/datasets/15-best-chatbot-datasets-for-machine-learning/
+Deep learning object detection papers|https://github.com/hoya012/deep_learning_object_detection
+Optical Flow Prediction with Tensorflow|
+#Data Engineering/Architecture
+Hadoop distribution - HOPS|https://www.hops.io/
+Sysadmin skills|https://github.com/trimstray/test-your-sysadmin-skills
+Ansible role testing|https://github.com/metacloud/molecule/
+Testing in production|https://medium.com/@copyconstruct/testing-in-production-the-safe-way-18ca102d0ef1
+Marmaray - Uberl Data ingestion|https://github.com/philferriere/tfoptflowhttps://eng.uber.com/marmaray-hadoop-ingestion-open-source/
+Timezones in Sqoop,Spark e Impala|https://boristyukin.com/watch-out-for-timezones-with-sqoop-hive-impala-and-spark-2/
+Il caso della lambda spaccata|http://veekaybee.github.io/2018/09/24/the-case-of-the-broken-lambda/
+Streamsets test framework|https://streamsets.com/blog/introducing-the-streamsets-test-framework/
+Kerberos kdiag, sarebbe bello averlo|https://github.com/steveloughran/kdiag
+#Mixed Tech
+MS DOS|https://github.com/microsoft/ms-dos
+Rigetti quantum cloud|https://www.rigetti.com/?utm_source=Reddit&utm_medium=Posts&utm_campaign=QCS%20Launch&utm_content=Quantum%20Computing
+Libreria di teoria musicale in Python|https://github.com/kennethreitz/pytheory?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more
+#No-tech
+Il registro del Tartan|https://www.tartanregister.gov.uk/index
+Mappe planetarie|https://planetarymapping.wordpress.com/
+Astronauti pop|https://www.businessinsider.com/nasa-posters-inspired-by-pop-culture-2017-7?IR=T#the-poster-for-expedition-23-2010-was-inspired-by-the-gritty-crime-drama-reservoir-dogs-7
+Mappe di pesca by Google|http://globalfishingwatch.org/
+Le carpe dell'imperatore|https://qz.com/1410538/emperor-akihito-of-japan-is-an-expert-marine-biologist/
