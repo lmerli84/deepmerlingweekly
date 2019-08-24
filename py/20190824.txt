@@ -1,0 +1,39 @@
+#Winners of the week
+arc42 - un template da usare per la buona documentazione|https://arc42.org/
+Architecture visualization model|https://c4model.com/
+90 giorni, da sviluppatore a manager - qualche spunto interessante e qualche banalita'|https://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/
+Api di Aldo Giovanni e Giacomo|https://github.com/giuseppebrb/AldoGiovanniGiacomo.API
+Morte dell'Agile :)|https://www.forbes.com/sites/cognitiveworld/2019/08/23/the-end-of-agile/#5e43c6c72071
+#Machine Learning
+Data science workflow con Python e Spark|https://hioptimus.com/
+Mostra milanese sulle immagini di training|https://zero.eu/it/eventi/164602-training-humans,milano/
+Asylo - Trusted execution environment|https://asylo.dev/
+Umori su Twitter|https://hedonometer.org/index.html
+Dataset calcistico|https://github.com/yorobot/football.csv/tree/master/sportdb-source-footballdata
+Dataset dei take-away|https://www.kaggle.com/henslersoftware/19560-indian-takeaway-orders
+#Architecture
+TDD per l'architettura|https://events.linuxfoundation.org/wp-content/uploads/2017/11/How-the-Heck-Do-You-Apply-TDD-to-Infra-as-Code-Daniel-Pacrami-SAP-Canada.pdf
+Opentelemetry|https://opentelemetry.io/
+Ansible integration testing|https://www.jeffgeerling.com/blog/2019/how-add-integration-tests-ansible-collection-ansible-test?utm_campaign=Up%20%26%20Running%20Weekly&utm_medium=email&utm_source=Revue%20newsletter
+End-to-end pipeline in Airflow ben descritta|https://github.com/davidolorundare/tempus_de_challenge
+Best practice di controllo dei costi di BigQuery|https://cloud.google.com/bigquery/docs/best-practices-costs#performing_a_dry_run
+#Mixed-tech
+Occhio: un repo di malware "vivi"|https://thezoo.morirt.com/
+Lorawan: 766KM|https://www.thethingsnetwork.org/article/lorawan-distance-world-record
+Configuratore SSL definitivo|https://ssl-config.mozilla.org/#server=traefik&server-version=1.7.12&config=intermediate
+Yoda condition: programmare alla Yoda|https://en.wikipedia.org/wiki/Yoda_conditions
+Pacchetto per generare messaggi espressi dai Pokemon|https://github.com/dfrankland/pokemonsay
+Saleor - un "salesforce like" opensource|https://getsaleor.com/
+La strana modalita' di reset di questa lampadina smart|https://www.theregister.co.uk/2019/06/20/ge_lightblulb_reset/
+Altre utopie di vita lavorativa|https://medium.com/@mattiiskneppers/hey-developer-help-your-project-manager-manage-your-project-96fec8b4b27d
+Robotframework|https://robotframework.org/#introduction
+Windows thin-client per RaspberryPi|https://winterminal.com/
+#No-tech
+Il ristorante degli ordini sbagliati|https://www.agi.it/estero/ristorante_demenza_giappone-6073868/news/2019-08-23/
+Il metodo Michela di stenografia|https://it.wikipedia.org/wiki/Metodo_Michela
+Pokemon tarocchi|https://opmon-game.ga/
+Meditate,gente|https://pascalprecht.github.io/posts/meditating-every-day
+La grotta piu' grande d'Italia|https://www.scintilena.com/scoperta-sul-canin-la-grotta-piu-grande-ditalia-con-la-congiunzione-tra-il-complesso-col-delle-erbe-e-il-foran-del-muss-si-superano-gli-80-km/08/14/
+Gatti col doppio mento|https://www.sadanduseless.com/double-chin-cat-gallery/
+Capibara tranquilli|https://www.sadanduseless.com/friendly-capybaras-gallery/
+Minare in Ucraina dalla centrale atomica|https://www.zdnet.com/article/employees-connect-nuclear-plant-to-the-internet-so-they-can-mine-cryptocurrency/
