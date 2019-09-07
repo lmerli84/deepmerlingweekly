@@ -1,0 +1,40 @@
+#Winners of the week
+Google di traverso|https://www.google.com/search?client=firefox-b-d&q=Askew
+Il percorso di illuminazione di un tester|https://dev.to/saidaspen/the-five-stages-to-unit-testing-enlightenment-3cli
+Dizionario latino vaticano dei nuovi termini|http://www.vatican.va/roman_curia/institutions_connected/latinitas/documents/rc_latinitas_20040601_lexicon_it.html
+Buon articolo sul testing, casualmente su Spark|https://the.agilesql.club/2019/07/how-do-we-test-etl-pipelines-part-one-unit-tests/
+#Machine Learning
+Come modellare una buona conversazione - Chatbot|http://www.abigailsee.com/2019/08/13/what-makes-a-good-conversation.html
+Da RGB video a Tensorflow tfrecords|https://github.com/ferreirafabio/video2tfrecord
+Weight agnostic neural network|https://weightagnostic.github.io/
+SAS interface to BigQuery - Anche qui...|https://go.documentation.sas.com/?docsetId=acreldb&docsetTarget=n1cajx80y588q6n1owtbyq0p7lbz.htm&docsetVersion=9.4&locale=en
+Hackerrank Data Science - Test per Data scientist|https://www.hackerrank.com/tests/7j6a5mhn6lb/78766bda888f6c08605024290c926550
+Kubeflow fairing|https://github.com/kubeflow/fairing
+#Architecture
+Trauma: Google data fusion in realta' è CDAP|https://cdap.io/
+DevOps e lavatrici|https://www.conjur.org/blog/devops-dishwasher/
+Perche' no a Dataflow - un punto di vista|https://medium.com/the-telegraph-engineering/dbt-a-new-way-to-handle-data-transformation-at-the-telegraph-868ce3964eb4
+Glances - Sys monitor dashboard|https://nicolargo.github.io/glances/
+Terraform visualizer|https://github.com/Ghost---Shadow/terraform-board
+Oldies: Kerberos delegation token in Oozie|https://stackoverflow.com/questions/37749542/kerberos-ticket-and-delegation-token-usage-in-hadoop-oozie-shell-action
+DNS spoofing su K8s|https://blog.aquasec.com/dns-spoofing-kubernetes-clusters
+Usare Google Home per controllare il cluster K8s|https://pliutau.com/google-home-k8s/?utm_campaign=Up%20%26%20Running%20Weekly&utm_medium=email&utm_source=Revue%20newsletter
+Kafka security playbook|https://github.com/Dabz/kafka-security-playbook
+Compattare File parquet|https://mungingdata.com/apache-spark/compacting-parquet-files/
+#Mixed-tech
+Gitflow animato|https://veerasundar.com/blog/2018/03/gitflow-animated/
+Free games!|https://itch.io/games/free
+Controllare il meteo da shell|https://github.com/chubin/wttr.in
+Domotics - SW Hub domotico|https://www.domoticz.com/
+Tracing di esecuzione direttamente dalla CPU (temo che sara' il link meno cliccato della settimana)|https://easyperf.net/blog/2019/08/23/Intel-Processor-Trace?utm_campaign=Up%20%26%20Running%20Weekly&utm_medium=email&utm_source=Revue%20newsletter
+Dopo il camel, ecco il kebab case|https://it.wikipedia.org/wiki/Kebab_case
+La velocità della chiacchera|https://www.sciencemag.org/news/2019/09/human-speech-may-have-universal-transmission-rate-39-bits-second
+#No-tech
+Una BMW "nera". Molto nera. Probabilmente anche troppo|https://www.dezeen.com/2019/08/27/bmw-vbx6-vantablack-car-design/
+Il muro fossato che sembra basso|https://en.wikipedia.org/wiki/Ha-ha
+Campionato di wrestling delle dita|https://it.businessinsider.com/in-baviera-via-al-campionato-del-wrestling-delle-dita/
+La macchina delle nuvole|https://www.fastcompany.com/1681204/diy-geoengineering-a-machine-to-create-clouds-above-your-head
+48720-enricomentana|https://it.wikipedia.org/wiki/48720_Enricomentana
+Sull'ansia da tempo perso|https://nesslabs.com/time-anxiety
+Come costruire una piramide, se ne avete l'ego|https://analog-antiquarian.net/2019/08/30/chapter-16-how-to-build-a-pyramid/
+Video dedicato al mio DM di D&D|https://www.youtube.com/watch?v=zoFBE5_vdPA&feature=youtu.be
