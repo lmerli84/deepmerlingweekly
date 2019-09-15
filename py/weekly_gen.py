@@ -31,7 +31,7 @@ with open(file_name+".txt", "r") as f:
 #class="btn-large waves-effect waves-light yellow darken-2">"""+file_name[6:8]+"-"+file_name[4:6]+"-"+file_name[0:4]+"""</a></div>
 #""")
 
-issue_file = '../issues/issues2.html'
+issue_file = '../issues/issues.html'
 container = '<div class="row center" id="issue_container">'
 content1 = '\n<div class="row center"><a href="http://www.deepmerlingweekly.com/issues/'+file_name+'.html" id="download-button"\n'
 content2 = 'class="btn-large waves-effect waves-light yellow darken-2">'+file_name[6:8]+"-"+file_name[4:6]+"-"+file_name[0:4]+'</a></div>\n'
