@@ -1,7 +1,21 @@
 ##Usage : python3 weekly_gen.py 20190728
 import sys
-file_name= str(sys.argv[1])
-#file_name="20190721"
+file_name = str(sys.argv[1])
+
+def issue_insert(container, content1, content2, input_file):
+    """Insert issue html code in main issue page"""
+    with open(input_file, 'r+') as issue_file:
+        lines = issue_file.readlines()
+        for line in lines:
+            if line.strip().startswith(container):
+                #print(line)
+                i = (lines.index(line))
+                lines.insert(i+1, content1)
+                lines.insert(i+2, content2)
+                #print(lines[i+1])
+        issue_file.seek(0)
+        issue_file.writelines(lines)
+
 with open(file_name+".txt", "r") as f:
     data = f.readlines()
  
@@ -12,10 +26,18 @@ with open(file_name+".txt", "r") as f:
             words = line.split('|')
             print ("<p>"+words[0]+" <a href=\""+words[1]+"\" rel=\"nofollow\">"+words[1][:42]+"...</a></p><p><br></p>")
 
-print("""
-<div class="row center"><a href="http://www.deepmerlingweekly.com/issues/"""+file_name+""".html" id="download-button" 
-class="btn-large waves-effect waves-light yellow darken-2">"""+file_name[6:8]+"-"+file_name[4:6]+"-"+file_name[0:4]+"""</a></div>
-""")
+#print("""
+#<div class="row center"><a href="http://www.deepmerlingweekly.com/issues/"""+file_name+""".html" id="download-button" 
+#class="btn-large waves-effect waves-light yellow darken-2">"""+file_name[6:8]+"-"+file_name[4:6]+"-"+file_name[0:4]+"""</a></div>
+#""")
+
+issue_file = '../issues/issues2.html'
+container = '<div class="row center" id="issue_container">'
+content1 = '\n<div class="row center"><a href="http://www.deepmerlingweekly.com/issues/'+file_name+'.html" id="download-button"\n'
+content2 = 'class="btn-large waves-effect waves-light yellow darken-2">'+file_name[6:8]+"-"+file_name[4:6]+"-"+file_name[0:4]+'</a></div>\n'
+issue_insert(container, content1, content2, issue_file)
+
+
 #######
 data_string="edizione del " + file_name[6:8]+"-"+file_name[4:6]+"-"+file_name[0:4]
 with open(file_name+".txt", "r") as f:

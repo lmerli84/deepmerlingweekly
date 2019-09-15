@@ -1,0 +1,30 @@
+#Winners of the week
+Come nascondere lo svago in ufficio|https://github.com/dekuNukem/daytripper
+ballerina.io - il linguaggio dei servizi|https://v1-0.ballerina.io/
+Comparazione di tool di continuos integration|https://knapsackpro.com/ci_comparisons
+I premi ignobel|https://www.improbable.com/ig-about/the-2019-winners/
+Ordinare la pizza con Terraform|https://github.com/ndmckinley/terraform-provider-dominos
+#Machine Learning
+FATE (Federated AI Technology Enabler)|https://github.com/FederatedAI/FATE
+Modellazione della salita in aereo|https://kevingal.com/blog/plane-boarding.html
+#Architecture
+Kubesphere|https://github.com/kubesphere/kubesphere/blob/master/docs/screenshots.md
+Cloud computing patterns|http://www.cloudcomputingpatterns.org/
+Apache Iceberg|https://iceberg.incubator.apache.org/
+Cloudera edge management|https://blog.cloudera.com/edge2ai-autonomous-car-collecting-data-on-small-scale-smart-car-and-preparing-data-pipeline-1-of-3/
+Un elenco di connettori Hbase per Spark|https://sparkbyexamples.com/hbase/spark-hbase-connectors-which-one-to-use/
+Elenco di strumenti self-hosted|https://github.com/Kickball/awesome-selfhosted
+#Mixed-tech
+Linkedin bypass|https://habr.com/en/post/466801/
+Confronto fra instant messengers|https://dmjworld.github.io/MessengerComparison/
+Simulatore di fotoni|https://jaredforsyth.com/veoluz/
+Python magic methods (quelli con gli _)|https://rszalski.github.io/magicmethods/
+Git: trunk based management|https://trunkbaseddevelopment.com/
+Costruire immagini con le forme(@Chris)|https://github.com/nuno-faria/tiler
+#No-tech
+Il gioco di ruolo di Carnival Row|https://www.geeknative.com/68462/the-official-carnival-row-rpg-is-free-to-download/
+rawtherapee - photo editor|https://rawtherapee.com/downloads/5.7/
+La piu' grande rompighiaccio russa|https://www.youtube.com/watch?v=bKaVhXn49xY
+Portale di ricerca di lavoro in Antartide|https://jobs.antarctica.gov.au/
+Stereogrammi con Javascript|http://slicker.me/javascript/stereogram.htm
+L'inquinamento prodotto dall'incendio di Notre Dame|https://www.nytimes.com/interactive/2019/09/14/world/europe/notre-dame-fire-lead.html
