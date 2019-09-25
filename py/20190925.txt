@@ -1,0 +1,30 @@
+#Winners of the week
+Dal creatore di Spark, un nuovo strato di ottimizzazione computazionale|https://www.weld.rs/
+bettercap - wifi e bluetooth hack|https://www.bettercap.org/
+GCP census|https://github.com/ocadotechnology/gcp-census
+Contro l'architettura software|https://blog.pragmaticengineer.com/software-architecture-is-overrated/
+#Machine Learning
+Percettrone quantico|https://qml.entropicalabs.io/
+Audi driving dataset|https://www.audi-electronics-venture.de/aev/web/de/driving-dataset.html
+Script per il face warping|https://github.com/jankrepl/pychubby
+ML Workspace|https://github.com/ml-tooling/ml-workspace
+#Architecture
+Cloud Build pare non essere male|https://cloud.google.com/blog/products/devops-sre/cloud-build-named-a-leader-for-continuous-integration-in-the-forrester-wave?__s=wxmqfiaog5u9c3sru5f7&utm_source=drip&utm_medium=email&utm_campaign=GCP%2BNewsletter%2B%23156
+Datafusion: sql query in arrow|https://github.com/apache/arrow/tree/master/rust/datafusion
+NiFi multitenant docs|https://docs.cloudera.com/HDPDocuments/HDF3/HDF-3.4.0/using-nifi-interface/content/ui-with-multi-tenant-authorization.html
+Backup script per tabelle BigQuery|https://github.com/ocadotechnology/bbq#restore-process
+Hive-BigQuery StorageHandler|https://github.com/GoogleCloudPlatform/hive-bigquery-storage-handler
+Vulnerabilita' di Helm|https://blog.ropnop.com/attacking-default-installs-of-helm-on-kubernetes/
+Kubegrunt - Terraform per Kubernetes|https://github.com/gruntwork-io/kubergrunt
+#Mixed-tech
+SSHuttle - Simil VPN per poveri|https://github.com/sshuttle/sshuttle
+GitDock - git server autogestito|https://gitdock.com/
+Oracle Automonous linux|https://www.oracle.com/cloud/compute/autonomous-linux.html
+A favore dei certificati SSH|https://smallstep.com/blog/use-ssh-certificates/
+Squali e cavi sottomarini|https://slate.com/technology/2014/08/shark-attacks-threaten-google-s-undersea-internet-cables-video.html?utm_campaign=Up+%26+Running+Weekly&utm_medium=email&utm_source=Revue+newsletter
+OPNet netwoork simulator|http://opnetprojects.com/opnet-network-simulator/
+Hacktoberfest|https://hacktoberfest.digitalocean.com/
+#No-tech
+Batteri da parto cesareo|https://www.theguardian.com/society/2019/sep/18/caesarean-babies-have-different-gut-bacteria-microbiome-study-finds
+Cosmoteer - giochino con navi spaziali|https://cosmoteer.net/
+Pro audio editor|https://ardour.org/
