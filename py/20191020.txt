@@ -1,0 +1,27 @@
+#Winners of the week
+I benefici del remote working|https://doist.com/blog/asynchronous-communication/
+Il sistema operativo per la fine del mondo|https://collapseos.org/
+Lista e spiegazioni dei formati dato in ambito IOT|https://shipwrecksoftware.wordpress.com/2019/10/13/modern-iot-number-formats/
+#Machine Learning
+L'importanza di avere buone metriche|https://www.fast.ai/2019/09/24/metrics/
+#Architecture
+AWS security benchmark whitepaper|https://d0.awsstatic.com/whitepapers/compliance/AWS_CIS_Foundations_Benchmark.pdf
+Docker registry dei servizi di Google CLoud|https://console.cloud.google.com/gcr/images/cloud-airflow-releaser/EU
+Dokku - Mini Paas in Docker|http://dokku.viewdocs.io/dokku/
+Zalando - gestione dell'infrastruttura|https://srcco.de/posts/how-zalando-manages-140-kubernetes-clusters.html
+Terraform + Maven|https://github.com/deliveredtechnologies/terraform-maven
+Terraform + Minecraft|https://medium.com/@vyrtualsynthese/on-demand-minecraft-server-with-terraform-and-digital-ocean-3afcc8a5fe90
+WireMock - mock di API|http://wiremock.org/
+Kafka->BigQuery|https://github.com/gojek/beast
+#Mixed-tech
+Google security framework|https://www.beyondcorp.com/
+Prusa printers|https://www.prusaprinters.org/
+Risorse per Raspberry pi|https://github.com/thibmaek/awesome-raspberry-pi
+Unix trick|https://sneak.berlin/20191011/stupid-unix-tricks/
+Verilog simulator|https://www.veripool.org/wiki/verilator
+#No-tech
+Costose scarpe religiose|https://www.ilfattoquotidiano.it/2019/10/13/jesus-sneaker-la-scarpa-da-ginnastica-con-il-crocifisso-e-lacqua-santa-nella-suola-costa-3mila-dollari-ma-va-a-ruba-in-24-ore/5512781/
+Scenografica mappa dei venti|https://www.windy.com/45.468/9.173?45.027,9.173,8
+Siamo tutti un po' salamandre dentro|https://eurekalert.org/pub_releases/2019-10/dumc-hhs092719.php
+Pare che elettrizzare il cervello faccia bene|https://www.psychologytoday.com/ca/blog/the-future-brain/201910/can-bit-electricity-improve-your-brain
+DOS games|https://archive.org/details/softwarelibrary_msdos_games?and%5B%5D=emulator_start%3A%2Aiafix%2A&sin=&sort=-publicdate
