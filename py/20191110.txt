@@ -1,0 +1,29 @@
+#Winners of the week
+Lavoro asincrono|https://blog.remote.com/why-you-should-be-doing-async-work/
+Documentation templates|https://github.com/kylelobo/The-Documentation-Compendium/
+Apache Hudi|https://hudi.incubator.apache.org/
+SQL, ovvero Data science|https://tselai.com/modern-data-practice-and-the-sql-tradition.html
+Giga guida alla CI/CD|https://tryexceptpass.org/article/continuous-builds-1/?utm_campaign=Up%20%26%20Running%20Weekly&utm_medium=email&utm_source=Revue%20newsletter
+#Machine Learning
+Tensorflow Enterprise|https://cloud.google.com/blog/products/ai-machine-learning/introducing-tensorflow-enterprise-supported-scalable-and-seamless-tensorflow-in-the-cloud?__s=wxmqfiaog5u9c3sru5f7&utm_source=drip&utm_medium=email&utm_campaign=GCP%2BNewsletter%2B%23162
+Tensorflow ingestion da BigQuery|https://blog.ivanukhov.com/2019/11/08/sequential-data.html
+#Architecture
+Spark 3.0 preview|https://spark.apache.org/news/spark-3.0.0-preview.html
+Dataflow+BigQuery - buon esempio|https://medium.com/datamindedbe/how-to-build-a-cleaning-pipeline-with-bigquery-and-dataflow-on-gcp-3d2f288d4e1b
+Testing in Apache Beam|https://medium.com/@asitkovets/testing-in-apache-beam-part-1-batch-a1be83f62730
+Airflow DAG master controller|https://nl.devoteam.com/en/blog-post/creating-master-orchestrator-handle-complex-google-cloud-composer-jobs/
+Spiegazione del Kafka lingering|https://medium.com/swlh/exploit-apache-kafkas-message-format-to-save-storage-and-bandwidth-7e0c533edf26
+AWS stack locale|https://localstack.cloud/
+Pulumi - alternativa a Terraform|https://github.com/pulumi
+#Mixed-tech
+Kitty - Terminale su GPU|https://sw.kovidgoyal.net/kitty/
+Topi autisti|https://www.iflscience.com/brain/teaching-rats-to-drive-tiny-cars-helps-them-relax-scientists-discover-/amp.html
+Onda gravitazione atmosferica|https://edition.cnn.com/2019/10/24/australia/gravity-wave-australia-intl-hnk-scli/index.html
+Per i piu' coraggiosi: Diablo(1) sul Nintendo Switch|https://github.com/lantus/devilution-nx
+Zerobot, piccolo e 3d-stampabile|https://hackaday.io/project/25092-zerobot-raspberry-pi-zero-fpv-robot
+#No-tech
+Mappa interattiva dell'Impero Romano|http://orbis.stanford.edu/
+Mappa interattiva dei nodi Internet|https://www.internetexchangemap.com/
+One page dungeon generator|https://watabou.itch.io/one-page-dungeon
+Dedicato al mio DM, che gia' anni prima ci aveva pensato|https://magpi.raspberrypi.org/articles/interactive-tabletop-rpg-table
+Avvisi di trappole per uomini, al modo di Star Wars|https://www.sadanduseless.com/its-a-trap-guys/ 
