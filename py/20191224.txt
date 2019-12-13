@@ -1,0 +1,30 @@
+#Winners of the week
+Deploy or die|https://www.deployordie.com/
+Simulatore di Gesu'|https://multiplayer.it/notizie/i-am-jesus-christ-annunciato-accurato-simulatore-gesu-di-nazareth.html
+Confluent ksqlDB|https://www.confluent.io/blog/intro-to-ksqldb-sql-database-streaming/
+Mosaic per K8s - dashboard avanzata per K8s|https://github.com/nectar-cs/mosaic
+Snippet per VSCode|https://blog.jessitron.com/2019/12/02/do-things-right-in-vscode/?utm_source=DevOps%27ish&utm_campaign=b1eddcc820-DEVOPSISH_157&utm_medium=email&utm_term=0_eab566bc9f-b1eddcc820-46466472
+#Machine Learning
+Metaflow|https://metaflow.org/
+Google model cards|https://modelcards.withgoogle.com/about
+Metriche da machine Learning|https://blog.floydhub.com/a-pirates-guide-to-accuracy-precision-recall-and-other-scores/
+Yelp operations per Tensorflow|https://engineeringblog.yelp.com/2019/11/inside-tensorflow.html?utm_campaign=Up%20%26%20Running%20Weekly&utm_medium=email&utm_source=Revue%20newsletter
+AWS Deepracer - bellissimo|https://aws.amazon.com/it/blogs/aws/aws-deepracer-update-new-features-new-racing-opportunities/
+#Architecture
+Dockerslim - compattatore di immagini docker|https://dockersl.im/
+Jupyter enterprise gateway|https://jupyter.org/enterprise_gateway/
+Azkarra - Production Kafka streams|https://github.com/streamthoughts/azkarra-streams
+Kubethanos - rimuove meta' dei pod per salvare la galassia|https://github.com/berkay-dincer/kubethanos
+Hubble - Observability for K8s|https://cilium.io/blog/2019/11/19/announcing-hubble/
+Git-secret: gestione delle credenziali su repository|https://dzone.com/articles/jenkins-cicd-with-git-secrets?utm_campaign=Up%20%26%20Running%20Weekly&utm_medium=email&utm_source=Revue%20newsletter
+Schema evolution in Dataflow & BigQuery|https://robertsahlin.com/schema-evolution-in-streaming-dataflow-jobs-and-bigquery-tables-part-2/
+#Mixed-tech
+NDJSon|http://ndjson.org/
+Raspberry pi dramble|https://www.pidramble.com/wiki
+Mosh - terminale interminabile|https://mosh.org/
+RPI recovery kit|https://back7.co/home/raspberry-pi-recovery-kit
+Strumento per la static analysis del codice, opensource|https://www.sourcetrail.com/blog/open_source/
+Do It yourself HUE (la lampadina)|https://diyhue.org/
+#No-tech
+Un super proiettore|http://www.k2.t.u-tokyo.ac.jp/vision/DPM/
+Calcolatore di oggetti orbitali|http://protean.io:3002/
