@@ -1,0 +1,21 @@
+#Winners of the week
+Autocelebrazione: il sito della wweekly|https://www.deepmerlingweekly.com/
+Tips and tricks di Dataflow|https://polleyg.dev/posts/data-engineering-tips/?__s=wxmqfiaog5u9c3sru5f7&utm_source=drip&utm_medium=email&utm_campaign=GCP+Newsletter+%23169
+Attenzione o intelligenza|https://alexand.ro/2018/08/how-focus-became-more-valuable-than-intelligence
+#Machine Learning
+Deep Learning graph library|https://www.dgl.ai/
+#Architecture
+API best practice|https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
+EdgeFS - K8s decentralizzato|https://github.com/Nexenta/edgefs
+#Mixed-tech
+Rust, in modo pericoloso|http://cliffle.com/p/dangerust/
+Tool forense per smartphone|https://github.com/den4uk/andriller
+Per creare immagini di boot per Raspberry pi|https://github.com/RPi-Distro/pi-gen
+Python Orm|http://docs.peewee-orm.com/en/latest/index.html
+Python banyan|https://mryslab.github.io/python_banyan/#users_guide/
+#No-tech
+Le camere remote di Google nella savana|https://www.wildlifeinsights.org/
+Citybound - Civilization in Rust|https://aeplay.org/citybound
+Buoni propositi del 2020|https://www.sadanduseless.com/keeping-it-real-2020/
+Disaster radio|https://disaster.radio/
+Trend topics|https://explodingtopics.com/

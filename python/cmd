@@ -1,0 +1,10 @@
+#Heroku
+428  heroku login
+429  git clone https://github.com/heroku/python-getting-started.git
+430  cd python-getting-started/
+431  heroku create
+432  git push heroku master
+433  heroku open
+
+
+conda create -n dmw python=3.7
