@@ -45,7 +45,7 @@ include "header.php"
 $count = 0;
 while ($row = $result->fetch_assoc()) {  
 ///SELECT `ID`, `NAME`, `OWNER`, `DESCR`, `RULES`, `RATING` FROM `anag_game` WHERE 1
-    count=count+1
+    $count=$count+1
     echo "<tr>";
     echo "<td>".$count."</td>";
     echo "<td>".$row['NAME']."</td><td>".$row['DESCR']."</td><td>".$row['OWNER']."</td>";
