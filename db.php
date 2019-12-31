@@ -25,7 +25,7 @@ $connection = db_connect();
 // Check connection
 if ($connection->connect_error) {
     die("Connection failed: " . $connection->connect_error);
-}
+} else {echo "connected"}
 
  
 $sql = "SELECT * FROM anag_game";
