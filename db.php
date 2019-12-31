@@ -26,14 +26,18 @@ $connection = db_connect();
 if ($connection->connect_error) {
     die("Connection failed: " . $connection->connect_error);
 } else {
-    echo "connected";
+    echo "connected ";
 }
 
  
 $sql = "SELECT * FROM anag_game";
 $result = $connection->query($sql);
+if (!$result)
+    die("Database access failed: " . mysqli_error());
 
 echo $sql;
+echo "<p> </p>"
+echo mysqli_num_rows($result);
 
 echo "<b><center>Database Output</center></b><br><br>";
 
