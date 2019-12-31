@@ -34,6 +34,7 @@ include "header.php"
                 <table class="striped">
                     <thead>
                         <tr>
+                            <th>#</th>
                             <th>Titolo</th>
                             <th>Descrizione</th>
                             <th>Proprietario</th>
@@ -41,12 +42,15 @@ include "header.php"
                     </thead>
                     <tbody>   
 <?php
+count = 0
 while ($row = $result->fetch_assoc()) {  
 ///SELECT `ID`, `NAME`, `OWNER`, `DESCR`, `RULES`, `RATING` FROM `anag_game` WHERE 1
-echo "<tr>";
-echo "<td>".$row['NAME']."</td><td>".$row['DESCR']."</td><td>".$row['OWNER']."</td>";
+    count=count+1
+    echo "<tr>";
+    echo "<td>".count."</td>";
+    echo "<td>".$row['NAME']."</td><td>".$row['DESCR']."</td><td>".$row['OWNER']."</td>";
 //.$row['RULES']."</td><td>"  <th>Regolamento</th>
-echo "</tr>";
+    echo "</tr>";
 }
 ?>
                     </tbody>
