@@ -40,10 +40,10 @@ echo "<p> </p>";
 echo mysqli_num_rows($result);
 
 echo "<b><center>Database Output</center></b><br><br>";
-
+//SELECT `ID`, `NAME`, `OWNER`, `DESCR`, `RULES`, `RATING` FROM `anag_game` WHERE 1
 while ($row = $result->fetch_assoc()) {  
 
-   echo "<u>".$row['id']."</u><b>".$row['first']."</b>"; //etc...
+   echo "<u>".$row['ID']."</u><b>".$row['NAME']."</b>";
  }
 
 ?>
