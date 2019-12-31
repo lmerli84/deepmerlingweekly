@@ -15,7 +15,7 @@ if ($connection->connect_error) {
     die("Connection failed: " . $connection->connect_error);
 }
 
-$sql = "SELECT * FROM anag_game";
+$sql = "SELECT * FROM anag_game order by name";
 $result = $connection->query($sql);
 if (!$result)
     die("Database access failed: " . mysqli_error());
