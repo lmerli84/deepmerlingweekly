@@ -33,8 +33,6 @@ $result = $connection->query($sql);
 
 echo $sql;
 
-$num=$result->num_rows;
-
 echo "<b><center>Database Output</center></b><br><br>";
 
 while ($row = $result->fetch_assoc()) {  
