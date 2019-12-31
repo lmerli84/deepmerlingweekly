@@ -1,44 +1,27 @@
 <?php
 function db_connect() {
-
-        // Define connection as a static variable, to avoid connecting more than once 
     static $connection;
-
-        // Try and connect to the database, if a connection has not been established yet
     if(!isset($connection)) {
-             // Load configuration as an array. Use the actual location of your configuration file
         $config = parse_ini_file('./secure/config.ini'); 
         $connection = mysqli_connect($config['servername'],$config['username'],$config['password'],$config['dbname']);
     }
-
-        // If connection was not successful, handle the error
     if($connection === false) {
-            // Handle error - notify administrator, log to a file, show an error screen, etc.
         return mysqli_connect_error(); 
     }
     return $connection;
 }
-
-// Connect to the database
 $connection = db_connect();
-
-// Check connection
 if ($connection->connect_error) {
     die("Connection failed: " . $connection->connect_error);
-} else {
-    echo "connected ";
 }
 
- 
 $sql = "SELECT * FROM anag_game";
 $result = $connection->query($sql);
 if (!$result)
     die("Database access failed: " . mysqli_error());
-
 //echo $sql;
 //echo "<p> </p>";
-//echo mysqli_num_rows($result);
-
+//echo mysqli_num_rows($result)
 
 //SELECT `ID`, `NAME`, `OWNER`, `DESCR`, `RULES`, `RATING` FROM `anag_game` WHERE 1
 
@@ -75,12 +58,26 @@ if (!$result)
 <div class="row center" id="issue_container">
 
 <div class="row center">
+<table>
+  <thead>
+   <tr>
+       <th>Titolo</th>
+       <th>Descrizione</th>
+       <th>Regolamento</th>
+       <th>Proprietario</th>
+    </tr>
+    </thead>
+    <tbody>   
 <?php
 while ($row = $result->fetch_assoc()) {  
-
-echo "<u>".$row['ID']."<b>".$row['NAME']."</b></u>";
+///SELECT `ID`, `NAME`, `OWNER`, `DESCR`, `RULES`, `RATING` FROM `anag_game` WHERE 1
+echo "<tr>"
+echo "<td>".$row['NAME']."</td><td>".$row['DESCR']."</td><td>".$row['RULES']."</td><td>".$row['OWNER']."</td>"
+echo "</tr>"
 }
 ?>
+</tbody>
+</table>
 </div>
 
       </div>
@@ -100,24 +97,7 @@ echo "<u>".$row['ID']."<b>".$row['NAME']."</b></u>";
 
 
         </div>
-        <!-- <div class="col l3 s12">
-          <h5 class="white-text">Settings</h5>
-          <ul>
-            <li><a class="white-text" href="#!">Link 1</a></li>
-            <li><a class="white-text" href="#!">Link 2</a></li>
-            <li><a class="white-text" href="#!">Link 3</a></li>
-            <li><a class="white-text" href="#!">Link 4</a></li>
-          </ul>
-        </div>
-        <div class="col l3 s12">
-          <h5 class="white-text">Connect</h5>
-          <ul>
-            <li><a class="white-text" href="#!">Link 1</a></li>
-            <li><a class="white-text" href="#!">Link 2</a></li>
-            <li><a class="white-text" href="#!">Link 3</a></li>
-            <li><a class="white-text" href="#!">Link 4</a></li>
-          </ul>
-        </div>-->
+        
       </div>
     </div>
     <div class="footer-copyright">
