@@ -1,0 +1,177 @@
+regolamento pdf Villainous
+regolamento pdf Azul
+regolamento pdf Trivial pursuit
+regolamento pdf Otto minuti per un impero
+regolamento pdf Rock paper wizard
+regolamento pdf A Voi la scelta
+regolamento pdf Exploding kitty vietato ai minori
+regolamento pdf Catan dadi
+regolamento pdf Origami
+regolamento pdf Stayaway
+regolamento pdf Goblins epic death
+regolamento pdf Cubirds
+regolamento pdf Dubperon wc
+regolamento pdf Bobbidi boom
+regolamento pdf Scatola degli enigmi
+regolamento pdf La torre di sushi
+regolamento pdf Kakerlaken poker
+regolamento pdf Uno flip
+regolamento pdf More Andre's bombons
+regolamento pdf Carcassonne big box
+regolamento pdf Cluedo + giulia
+regolamento pdf Nome in codice
+regolamento pdf Nome in codice vietato ai minori
+regolamento pdf Dixit
+regolamento pdf Box quello con i dadi
+regolamento pdf Micio miao
+regolamento pdf Cluedo carte
+regolamento pdf Uno super Mario e classico
+regolamento pdf Passaparola
+regolamento pdf Vudù
+regolamento pdf Risiko
+regolamento pdf Cooking box
+regolamento pdf Futuristiko
+regolamento pdf Saltinmente
+regolamento pdf monopoli carte
+
+regolamento pdf sheriff of nottingham
+regolamento pdf magic maze
+regolamento pdf i coloni di Catan
+regolamento pdf nome in codice
+regolamento pdf sushi go
+regolamento pdf hero quest
+regolamento pdf the mind
+regolamento pdf le case della follia
+regolamento pdf in alto i calici
+regolamento pdf il sesto senso
+regolamento pdf saboteur le miniere perdute
+regolamento pdf riccardo 1
+regolamento pdf attack of the jelly monsters
+regolamento pdf taboo
+regolamento pdf scotland yard
+
+
+
+"BG001","Villainous","Lucia Lorenzon","","",0)
+"BG002","Azul","Lucia Lorenzon","","",0)
+"BG003","Trivial pursuit","Lucia Giulia","","",0)
+"BG004","Otto minuti per un impero","Lucia,"","",0)
+"BG005","Rock paper wizard","Lucia Lorenzon","","",0)
+"BG006","A Voi la scelta","Lucia Lorenzon","","",0)
+"BG007","Exploding kitty vietato ai minori","Lucia","","",0)
+"BG008","Catan dadi","Lucia,"","",0)
+"BG009","Origami","Lucia,"","",0)
+"BG010","Stayaway","Lucia,"","",0)
+"BG011","Goblins epic death","Lucia,"","",0)
+"BG012","Cubirds","Lucia,"","",0)
+"BG013","Dubperon wc","Lucia","","",0)
+"BG014","Bobbidi boom","Lucia","","",0)
+"BG015","Scatola degli enigmi","Lucia","","",0)
+"BG016","La torre di sushi","Lucia","","",0)
+"BG017","Kakerlaken poker","Lucia","","",0)
+"BG018","Uno flip","Lucia","","",0)
+"BG019","More Andre's bombons","Lucia","","",0)
+"BG020","Carcassonne big box","Lucia","","",0)
+"BG021","Cluedo","Lucia Giulia","","",0)
+"BG022","Nome in codice,Lucia Lorenzon,"","",0)
+"BG023","Nome in codice vietato ai minori","Lucia","","",0)
+"BG024","Dixit","Lucia Lorenzon Giulia Ricci","","",0)
+"BG025","Box quello con i dadi","Lucia","","",0)
+"BG026","Micio miao","Lucia","","",0)
+"BG027","Cluedo carte","Lucia","","",0)
+"BG028","Uno super Mario e classico","Lucia","","",0)
+"BG029","Passaparola","Lucia","","",0)
+"BG030","Vudù","Lucia","","",0)
+"BG031","Risiko,Lucia Lorenzon,"","",0)
+"BG032","Cooking box","Lucia","","",0)
+"BG033","Futuristiko","Lucia","","",0)
+"BG034","Saltinmente","Lucia","","",0)
+"BG035","monopoli carte","Lucia","","",0)
+"BG036","sheriff of nottingham","Lorenzon","","",0)
+"BG037","magic maze","Lorenzon","","",0)
+"BG038","i coloni di Catan","Lorenzon","","",0)
+"BG039","nome in codice","Lorenzon","","",0)
+"BG040","sushi go","Ross","","",0)
+"BG041","hero quest","Lorenzon","","",0)
+"BG042","the mind","Lorenzon","","",0)
+"BG043","le case della follia","Lorenzon","","",0)
+"BG044","in alto i calici","Lorenzon","","",0)
+"BG045","il sesto senso","Lorenzon","","",0)
+"BG046","saboteur le miniere perdute","Lorenzon","","",0)
+"BG047","riccardo 1","Lorenzon","","",0)
+"BG048","attack of the jelly monsters","Lorenzon","","",0)
+"BG049","taboo","Lorenzon","","",0)
+"BG050","scotland yard","Lorenzon","","",0)ù
+"BG051","Gloom","Ross","","",0)
+"BG052","Ticket to ride","Giulia","","",0)
+"BG053","L'ultimo banchetto","Giulia","","",0)
+"BG054","Monopoly","Giulia","","",0)
+"BG055","Monopoly edizione dell'Imbroglio","Giulia","","",0)
+"BG056","Scarabeo","Giulia","","",0)
+"BG057","Tombola","Giulia","","",0)
+"BG058","The Gang","Giulia","","",0)
+"BG059","Pictionary","Giulia","","",0)
+
+UPDATE `anag_game` SET `OWNER`="Lucia Ross" WHERE WHERE `ID` = "BG006"
+
+INSERT INTO `anag_game`(`ID`, `NAME`, `OWNER`, `DESCR`, `RULES`, `RATING`) VALUES ("BG001","Villainous","Lucia Lorenzon","","",0)
+,("BG002","Azul","Lucia Lorenzon","","",0)
+,("BG003","Trivial pursuit","Lucia Giulia","","",0)
+,("BG004","Otto minuti per un impero","Lucia","","",0)
+,("BG005","Rock paper wizard","Lucia Lorenzon","","",0)
+,("BG006","A Voi la scelta","Lucia Ross","","",0)
+,("BG007","Exploding kitty vietato ai minori","Lucia","","",0)
+,("BG008","Catan dadi","Lucia","","",0)
+,("BG009","Origami","Lucia","","",0)
+,("BG010","Stayaway","Lucia","","",0)
+,("BG011","Goblins epic death","Lucia","","",0)
+,("BG012","Cubirds","Lucia","","",0)
+,("BG013","Dubperon wc","Lucia","","",0)
+,("BG014","Bobbidi boom","Lucia","","",0)
+,("BG015","Scatola degli enigmi","Lucia","","",0)
+,("BG016","La torre di sushi","Lucia","","",0)
+,("BG017","Kakerlaken poker","Lucia","","",0)
+,("BG018","Uno flip","Lucia","","",0)
+,("BG019","More Andre's bombons","Lucia","","",0)
+,("BG020","Carcassonne big box","Lucia","","",0)
+,("BG021","Cluedo","Lucia Giulia","","",0)
+,("BG022","Nome in codice","Lucia Lorenzon","","",0)
+,("BG023","Nome in codice vietato ai minori","Lucia","","",0)
+,("BG024","Dixit","Lucia Lorenzon Giulia Ricci","","",0)
+,("BG025","Box quello con i dadi","Lucia","","",0)
+,("BG026","Micio miao","Lucia","","",0)
+,("BG027","Cluedo carte","Lucia","","",0)
+,("BG028","Uno super Mario e classico","Lucia","","",0)
+,("BG029","Passaparola","Lucia","","",0)
+,("BG030","Vudù","Lucia","","",0)
+,("BG031","Risiko","Lucia Lorenzon","","",0)
+,("BG032","Cooking box","Lucia","","",0)
+,("BG033","Futuristiko","Lucia","","",0)
+,("BG034","Saltinmente","Lucia","","",0)
+,("BG035","monopoli carte","Lucia","","",0)
+,("BG036","sheriff of nottingham","Lorenzon","","",0)
+,("BG037","magic maze","Lorenzon","","",0)
+,("BG038","i coloni di Catan","Lorenzon","","",0)
+,("BG039","nome in codice","Lorenzon","","",0)
+,("BG040","sushi go","Ross","","",0)
+,("BG041","hero quest","Lorenzon","","",0)
+,("BG042","the mind","Lorenzon","","",0)
+,("BG043","le case della follia","Lorenzon","","",0)
+,("BG044","in alto i calici","Lorenzon","","",0)
+,("BG045","il sesto senso","Lorenzon","","",0)
+,("BG046","saboteur le miniere perdute","Lorenzon","","",0)
+,("BG047","riccardo 1","Lorenzon","","",0)
+,("BG048","attack of the jelly monsters","Lorenzon","","",0)
+,("BG049","taboo","Lorenzon","","",0)
+,("BG050","scotland yard","Lorenzon","","",0)
+,("BG051","Gloom","Ross","","",0)
+,("BG052","Ticket to ride","Giulia","","",0)
+,("BG053","L'ultimo banchetto","Giulia","","",0)
+,("BG054","Monopoly","Giulia","","",0)
+,("BG055","Monopoly edizione dell'Imbroglio","Giulia","","",0)
+,("BG056","Scarabeo","Giulia","","",0)
+,("BG057","Tombola","Giulia","","",0)
+,("BG058","The Gang","Giulia","","",0)
+,("BG059","Pictionary","Giulia","","",0)
+
+INSERT INTO `anag_game`(`ID`, `NAME`, `OWNER`, `DESCR`, `RULES`, `RATING`) VALUES ([value-1],[value-2],[value-3],[value-4],[value-5],[value-6])

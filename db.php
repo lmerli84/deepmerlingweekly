@@ -31,12 +31,11 @@ include "header.php"
     <h2 class="header center yellow-text text-darken-2">Boardgames</h2>
         <div class="row center" id="issue_container">
             <div class="row center">
-                <table>
+                <table class="striped">
                     <thead>
                         <tr>
                             <th>Titolo</th>
                             <th>Descrizione</th>
-                            <th>Regolamento</th>
                             <th>Proprietario</th>
                         </tr>
                     </thead>
@@ -45,7 +44,8 @@ include "header.php"
 while ($row = $result->fetch_assoc()) {  
 ///SELECT `ID`, `NAME`, `OWNER`, `DESCR`, `RULES`, `RATING` FROM `anag_game` WHERE 1
 echo "<tr>";
-echo "<td>".$row['NAME']."</td><td>".$row['DESCR']."</td><td>".$row['RULES']."</td><td>".$row['OWNER']."</td>";
+echo "<td>".$row['NAME']."</td><td>".$row['DESCR']."</td><td>".$row['OWNER']."</td>";
+//.$row['RULES']."</td><td>"  <th>Regolamento</th>
 echo "</tr>";
 }
 ?>
