@@ -27,21 +27,20 @@ if (!$result)
 include "header.php"
 ?>
 
-    <div class="container">
-      <h2 class="header center yellow-text text-darken-2">Boardgames</h2>
-<div class="row center" id="issue_container">
-
-<div class="row center">
-<table>
-  <thead>
-   <tr>
-       <th>Titolo</th>
-       <th>Descrizione</th>
-       <th>Regolamento</th>
-       <th>Proprietario</th>
-    </tr>
-    </thead>
-    <tbody>   
+<div class="container">
+    <h2 class="header center yellow-text text-darken-2">Boardgames</h2>
+        <div class="row center" id="issue_container">
+            <div class="row center">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Titolo</th>
+                            <th>Descrizione</th>
+                            <th>Regolamento</th>
+                            <th>Proprietario</th>
+                        </tr>
+                    </thead>
+                    <tbody>   
 <?php
 while ($row = $result->fetch_assoc()) {  
 ///SELECT `ID`, `NAME`, `OWNER`, `DESCR`, `RULES`, `RATING` FROM `anag_game` WHERE 1
@@ -50,42 +49,6 @@ echo "<td>".$row['NAME']."</td><td>".$row['DESCR']."</td><td>".$row['RULES']."</
 echo "</tr>";
 }
 ?>
-</tbody>
-</table>
+                    </tbody>
+                </table>
 </div>
-
-      </div>
-    </div>
-      <br><br>
-
-    </div>
-  </div>
-
-
-  <footer class="page-footer yellow darken-2">
-    <div class="container">
-      <div class="row">
-        <div class="col l6 s12">
-          <h5 class="white-text">Company Bio</h5>
-          <p class="grey-text text-lighten-4">Nata per scherzo, in crescita costante, si spera non muoia</p>
-
-
-        </div>
-        
-      </div>
-    </div>
-    <div class="footer-copyright">
-      <div class="container">
-      Made by <a class="yellow-text text-lighten-3" href="http://materializecss.com">Materialize</a>
-      </div>
-    </div>
-  </footer>
-
-
- <!--  Scripts-->
- <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
- <script src="js/materialize.js"></script>
-
-
-  </body>
-</html>
