@@ -36,7 +36,7 @@ if (!$result)
     die("Database access failed: " . mysqli_error());
 
 echo $sql;
-echo "<p> </p>"
+echo "<p> </p>";
 echo mysqli_num_rows($result);
 
 echo "<b><center>Database Output</center></b><br><br>";
