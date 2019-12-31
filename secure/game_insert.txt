@@ -91,7 +91,7 @@ regolamento pdf scotland yard
 "BG037","magic maze","Lorenzon","","",0)
 "BG038","i coloni di Catan","Lorenzon","","",0)
 "BG039","nome in codice","Lorenzon","","",0)
-"BG040","sushi go","Ross","","",0)
+"BG040","sushi go","Ross Paola","","",0)
 "BG041","hero quest","Lorenzon","","",0)
 "BG042","the mind","Lorenzon","","",0)
 "BG043","le case della follia","Lorenzon","","",0)
@@ -102,7 +102,7 @@ regolamento pdf scotland yard
 "BG048","attack of the jelly monsters","Lorenzon","","",0)
 "BG049","taboo","Lorenzon","","",0)
 "BG050","scotland yard","Lorenzon","","",0)ù
-"BG051","Gloom","Ross","","",0)
+"BG051","Gloom","Ross Ricci","","",0)
 "BG052","Ticket to ride","Giulia","","",0)
 "BG053","L'ultimo banchetto","Giulia","","",0)
 "BG054","Monopoly","Giulia","","",0)
@@ -112,7 +112,38 @@ regolamento pdf scotland yard
 "BG058","The Gang","Giulia","","",0)
 "BG059","Pictionary","Giulia","","",0)
 
+
+INSERT INTO `anag_game`(`ID`, `NAME`, `OWNER`, `DESCR`, `RULES`, `RATING`) VALUES ("BG060","Exploding kittens","Ricci","","",0)
+,("BG061","Ticket to Ride new York","Ricci","","",0)
+,("BG062","Hanabi","Ricci","","",0)
+,("BG063","Bonhanza","Ricci","","",0)
+,("BG066","Samurai sword + rising sun","Ricci","","",0)
+,("BG067","Bang! + Espansioni","Ricci","","",0)
+,("BG068","Puerto Rico","Ricci","","",0)
+,("BG069","7 wonders","Ricci","","",0)
+,("BG070","Star wars x-wing","Ricci Lorenzon","","",0)
+,("BG071","Saboteur","Ricci","","",0)
+,("BG072","through the ages","Ricci","","",0)
+,("BG073","Terra Mystica","Ricci","","",0)
+,("BG074","Stay away","Ricci","","",0)
+,("BG075","Pandemia la cura ","Ricci","","",0)
+,("BG076","munchkin dei caraibi","Ricci","","",0)
+,("BG077","Citadels","Ricci","","",0)
+,("BG078","Avalon","Ricci","","",0)
+,("BG079","Santorini","Ricci Ale Mori","","",0)
+,("BG080","Carcassonne big box","Ricci","","",0)
+,("BG081","Star munchkin","Ale Mori","","",0)
+,("BG082","Il gioco in scatola di game of Thrones","Ale Mori","","",0)
+,("BG082","7 wonders duel","Ale Mori Lorenzon","","",0)
+
 UPDATE `anag_game` SET `OWNER`="Lucia Ross" WHERE WHERE `ID` = "BG006"
+
+UPDATE `anag_game` SET `OWNER`="Lorenzon Ale mori" WHERE WHERE `ID` = "BG036"
+
+
+UPDATE `anag_game` SET `OWNER`="Ross Paola" WHERE `ID` = "BG040";
+UPDATE `anag_game` SET `OWNER`="Ross Ricci" WHERE `ID` = "BG051"
+
 
 INSERT INTO `anag_game`(`ID`, `NAME`, `OWNER`, `DESCR`, `RULES`, `RATING`) VALUES ("BG001","Villainous","Lucia Lorenzon","","",0)
 ,("BG002","Azul","Lucia Lorenzon","","",0)
