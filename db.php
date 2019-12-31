@@ -43,7 +43,7 @@ echo "<b><center>Database Output</center></b><br><br>";
 //SELECT `ID`, `NAME`, `OWNER`, `DESCR`, `RULES`, `RATING` FROM `anag_game` WHERE 1
 while ($row = $result->fetch_assoc()) {  
 
-   echo "<u>".$row['ID']."</u><b>".$row['NAME']."</b>";
+   echo "<u>".$row['ID']."<b>".$row['NAME']."</b></u>";
  }
 
 ?>
