@@ -71,9 +71,9 @@ if (!$result)
 <?php
 while ($row = $result->fetch_assoc()) {  
 ///SELECT `ID`, `NAME`, `OWNER`, `DESCR`, `RULES`, `RATING` FROM `anag_game` WHERE 1
-echo "<tr>"
-echo "<td>".$row['NAME']."</td><td>".$row['DESCR']."</td><td>".$row['RULES']."</td><td>".$row['OWNER']."</td>"
-echo "</tr>"
+echo "<tr>";
+echo "<td>".$row['NAME']."</td><td>".$row['DESCR']."</td><td>".$row['RULES']."</td><td>".$row['OWNER']."</td>";
+echo "</tr>";
 }
 ?>
 </tbody>
