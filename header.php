@@ -17,7 +17,7 @@
       <ul class="right hide-on-med-and-down">
           <li><a href="http://www.deepmerlingweekly.com">Home</a></li>
           <li><a href="http://www.deepmerlingweekly.com/issues/issues.html">Issues</a></li>
-          <li><a href="http://www.deepmerlingweekly.com/subscribe.html" id="download-button" class="btn waves-effect waves-light yellow darken-2">Subscribe!</a></li>
+          <!--<li><a href="http://www.deepmerlingweekly.com/subscribe.html" id="download-button" class="btn waves-effect waves-light yellow darken-2">Subscribe!</a></li> -->
       </ul>
     </div>
   </nav>
