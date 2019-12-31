@@ -22,7 +22,3 @@
     </div>
   </nav>
   <div class="section no-pad-bot" id="index-banner">
-
-  <?php
-include "footer.php"
-  ?>

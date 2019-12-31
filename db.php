@@ -52,3 +52,7 @@ echo "</tr>";
                     </tbody>
                 </table>
 </div>
+
+<?php
+include "footer.php"
+?>
