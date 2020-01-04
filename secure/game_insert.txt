@@ -54,7 +54,7 @@ regolamento pdf scotland yard
 
 "BG001","Villainous","Lucia Lorenzon","","",0)
 "BG002","Azul","Lucia Lorenzon","","",0)
-"BG003","Trivial pursuit","Lucia Giulia","","",0)
+"BG003","Trivial pursuit","Lucia","","",0)
 "BG004","Otto minuti per un impero","Lucia,"","",0)
 "BG005","Rock paper wizard","Lucia Lorenzon","","",0)
 "BG006","A Voi la scelta","Lucia Lorenzon","","",0)
@@ -143,6 +143,13 @@ UPDATE `anag_game` SET `OWNER`="Lorenzon Ale mori" WHERE WHERE `ID` = "BG036"
 
 UPDATE `anag_game` SET `OWNER`="Ross Paola" WHERE `ID` = "BG040";
 UPDATE `anag_game` SET `OWNER`="Ross Ricci" WHERE `ID` = "BG051"
+
+UPDATE `anag_game` SET `OWNER`="Lucia Lorenzon" WHERE `ID` = "BG030"
+
+
+UPDATE `anag_game` SET `OWNER`="Lucia" WHERE `ID` = "BG003";
+INSERT INTO `anag_game`(`ID`, `NAME`, `OWNER`, `DESCR`, `RULES`, `RATING`) VALUES ("BG083","Trivial pursuit speciale disney","Giulia","","",0);
+
 
 
 INSERT INTO `anag_game`(`ID`, `NAME`, `OWNER`, `DESCR`, `RULES`, `RATING`) VALUES ("BG001","Villainous","Lucia Lorenzon","","",0)
