@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
+  <title>Pandopoly-wars</title>
+
+  <!-- CSS  -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <link rel="stylesheet" href="css/stuquery.hexmap.css">
+  
+  <!-- SCRIPT  -->
+  <script type="text/javascript" src="js/stuquery.js"></script>
+  <script type="text/javascript" src="js/stuquery.hexmap.js"></script>
+  <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+  <script src="js/materialize.js"></script>
+  <script src="js/init.js"></script>
+
+  
+</head>
+<body>
+    <nav class="blue lighten-1" role="navigation">
+        <div class="nav-wrapper container">
+          <ul class="right hide-on-med-and-down">
+              <li><a href="http://www.deepmerlingweekly.com">Home</a></li>
+              <li><a href="">PANDOPOLY-WAR - REGOLAMENTO</a></li>
+          </ul>
+        </div>
+      </nav>  
+  <div class="section no-pad-bot" id="index-banner">
+    <div class="container">
+      <br><br>
+      <div class="row center">
+        <div id="hexmap-1" class="header center yellow-text text-darken-2">
+          <code>
+          {
+            "layout":"odd-r",
+            "hexes": {
+              "Bellinzago Lombardo":{"n":"Bellinzago Lombardo","q":0,"r":0},
+    "Abbiategrasso":{"n":"Abbiategrasso","q":0,"r":1},
+    "Melegnano":{"n":"Melegnano","q":0,"r":2},
+    "Corbetta":{"n":"Corbetta","q":0,"r":3},
+    "Robecco sul Naviglio":{"n":"Robecco sul Naviglio","q":0,"r":4},
+    "Vizzolo Predabissi":{"n":"Vizzolo Predabissi","q":0,"r":5},
+    "Lacchiarella":{"n":"Lacchiarella","q":0,"r":6},
+    "Pero":{"n":"Pero","q":0,"r":7},
+    "Gessate":{"n":"Gessate","q":0,"r":8},
+    "Gaggiano":{"n":"Gaggiano","q":0,"r":9},
+    "Cambiago":{"n":"Cambiago","q":0,"r":10},
+    "Inzago":{"n":"Inzago","q":0,"r":11},
+    "Carugate":{"n":"Carugate","q":1,"r":0},
+    "San Giorgio su Legnano":{"n":"San Giorgio su Legnano","q":1,"r":1},
+    "Milano":{"n":"Milano","q":1,"r":2},
+    "Besate":{"n":"Besate","q":1,"r":3},
+    "Noviglio":{"n":"Noviglio","q":1,"r":4},
+    "Peschiera Borromeo":{"n":"Peschiera Borromeo","q":1,"r":5},
+    "Bernate Ticino":{"n":"Bernate Ticino","q":1,"r":6},
+    "Melzo":{"n":"Melzo","q":1,"r":7},
+    "Cologno Monzese":{"n":"Cologno Monzese","q":1,"r":8},
+    "Arese":{"n":"Arese","q":1,"r":9},
+    "Gudo Visconti":{"n":"Gudo Visconti","q":1,"r":10},
+    "Cesate":{"n":"Cesate","q":1,"r":11},
+    "Paullo":{"n":"Paullo","q":2,"r":0},
+    "Bubbiano":{"n":"Bubbiano","q":2,"r":1},
+    "Rosate":{"n":"Rosate","q":2,"r":2},
+    "Cerro al Lambro":{"n":"Cerro al Lambro","q":2,"r":3},
+    "Albairate":{"n":"Albairate","q":2,"r":4},
+    "Cormano":{"n":"Cormano","q":2,"r":5},
+    "Vittuone":{"n":"Vittuone","q":2,"r":6},
+    "Cernusco sul Naviglio":{"n":"Cernusco sul Naviglio","q":2,"r":7},
+    "Binasco":{"n":"Binasco","q":2,"r":8},
+    "Vaprio d'Adda":{"n":"Vaprio d'Adda","q":2,"r":9},
+    "Trezzano Rosa":{"n":"Trezzano Rosa","q":2,"r":10},
+    "Mesero":{"n":"Mesero","q":2,"r":11},
+    "Senago":{"n":"Senago","q":3,"r":0},
+    "Pioltello":{"n":"Pioltello","q":3,"r":1},
+    "Bussero":{"n":"Bussero","q":3,"r":2},
+    "Cinisello Balsamo":{"n":"Cinisello Balsamo","q":3,"r":3},
+    "Motta Visconti":{"n":"Motta Visconti","q":3,"r":4},
+    "Tribiano":{"n":"Tribiano","q":3,"r":5},
+    "Solaro":{"n":"Solaro","q":3,"r":6},
+    "Cornaredo":{"n":"Cornaredo","q":3,"r":7},
+    "Santo Stefano Ticino":{"n":"Santo Stefano Ticino","q":3,"r":8},
+    "Vermezzo":{"n":"Vermezzo","q":3,"r":9},
+    "Dresano":{"n":"Dresano","q":3,"r":10},
+    "San Donato Milanese":{"n":"San Donato Milanese","q":3,"r":11},
+    "Novate Milanese":{"n":"Novate Milanese","q":4,"r":0},
+    "Morimondo":{"n":"Morimondo","q":4,"r":1},
+    "Ozzero":{"n":"Ozzero","q":4,"r":2},
+    "Parabiago":{"n":"Parabiago","q":4,"r":3},
+    "Pantigliate":{"n":"Pantigliate","q":4,"r":4},
+    "Buscate":{"n":"MILANO","q":4,"r":5},
+    "Dairago":{"n":"Dairago","q":4,"r":6},
+    "Cassano d'Adda":{"n":"Cassano d'Adda","q":4,"r":7},
+    "Buccinasco":{"n":"Buccinasco","q":4,"r":8},
+    "Nerviano":{"n":"Nerviano","q":4,"r":9},
+    "Trezzano sul Naviglio":{"n":"Trezzano sul Naviglio","q":4,"r":10},
+    "Rho":{"n":"Rho","q":4,"r":11},
+    "San Zenone al Lambro":{"n":"San Zenone al Lambro","q":5,"r":0},
+    "Basiglio":{"n":"Basiglio","q":5,"r":1},
+    "Zibido San Giacomo":{"n":"Zibido San Giacomo","q":5,"r":2},
+    "Pessano con Bornago":{"n":"Pessano con Bornago","q":5,"r":3},
+    "Nosate":{"n":"MILANO","q":5,"r":4},
+    "Magenta":{"n":"MILANO","q":5,"r":5},
+    "Settala":{"n":"MILANO","q":5,"r":6},
+    "Garbagnate Milanese":{"n":"Garbagnate Milanese","q":5,"r":7},
+    "Pozzuolo Martesana":{"n":"Pozzuolo Martesana","q":5,"r":8},
+    "Villa Cortese":{"n":"Villa Cortese","q":5,"r":9},
+    "Cusano Milanino":{"n":"Cusano Milanino","q":5,"r":10},
+    "Bollate":{"n":"Bollate","q":5,"r":11},
+    "Marcallo con Casone":{"n":"Marcallo con Casone","q":6,"r":0},
+    "Arluno":{"n":"Arluno","q":6,"r":1},
+    "Liscate":{"n":"Liscate","q":6,"r":2},
+    "San Giuliano Milanese":{"n":"San Giuliano Milanese","q":6,"r":3},
+    "Vernate":{"n":"MILANO","q":6,"r":4},
+    "Mediglia":{"n":"MILANO","q":6,"r":5},
+    "Cuggiono":{"n":"MILANO","q":6,"r":6},
+    "Settimo Milanese":{"n":"Settimo Milanese","q":6,"r":7},
+    "Sesto San Giovanni":{"n":"Sesto San Giovanni","q":6,"r":8},
+    "Calvignasco":{"n":"Calvignasco","q":6,"r":9},
+    "Pozzo d'Adda":{"n":"Pozzo d'Adda","q":6,"r":10},
+    "Baranzate":{"n":"Baranzate","q":6,"r":11},
+    "Corsico":{"n":"Corsico","q":7,"r":0},
+    "San Vittore Olona":{"n":"San Vittore Olona","q":7,"r":1},
+    "Pieve Emanuele":{"n":"Pieve Emanuele","q":7,"r":2},
+    "Masate":{"n":"Masate","q":7,"r":3},
+    "Grezzago":{"n":"Grezzago","q":7,"r":4},
+    "Rodano":{"n":"Rodano","q":7,"r":5},
+    "Turbigo":{"n":"Turbigo","q":7,"r":6},
+    "Casarile":{"n":"Casarile","q":7,"r":7},
+    "Rozzano":{"n":"Rozzano","q":7,"r":8},
+    "Colturano":{"n":"Colturano","q":7,"r":9},
+    "Paderno Dugnano":{"n":"Paderno Dugnano","q":7,"r":10},
+    "Vignate":{"n":"Vignate","q":7,"r":11},
+    "Magnago":{"n":"Magnago","q":8,"r":0},
+    "Lainate":{"n":"Lainate","q":8,"r":1},
+    "Assago":{"n":"Assago","q":8,"r":2},
+    "Canegrate":{"n":"Canegrate","q":8,"r":3},
+    "Bareggio":{"n":"Bareggio","q":8,"r":4},
+    "Bresso":{"n":"Bresso","q":8,"r":5},
+    "Sedriano":{"n":"Sedriano","q":8,"r":6},
+    "Pogliano Milanese":{"n":"Pogliano Milanese","q":8,"r":7},
+    "Segrate":{"n":"Segrate","q":8,"r":8},
+    "Trezzo sull'Adda":{"n":"Trezzo sull'Adda","q":8,"r":9},
+    "Rescaldina":{"n":"Rescaldina","q":8,"r":10},
+    "Casorezzo":{"n":"Casorezzo","q":8,"r":11},
+    "Cassinetta di Lugagnano":{"n":"Cassinetta di Lugagnano","q":9,"r":0},
+    "Cerro Maggiore":{"n":"Cerro Maggiore","q":9,"r":1},
+    "Vanzago":{"n":"Vanzago","q":9,"r":2},
+    "San Colombano al Lambro":{"n":"San Colombano al Lambro","q":9,"r":3},
+    "Pregnana Milanese":{"n":"Pregnana Milanese","q":9,"r":4},
+    "Carpiano":{"n":"Carpiano","q":9,"r":5},
+    "Cassina de' Pecchi":{"n":"Cassina de' Pecchi","q":9,"r":6},
+    "Opera":{"n":"Opera","q":9,"r":7},
+    "Cusago":{"n":"Cusago","q":9,"r":8},
+    "Gorgonzola":{"n":"Gorgonzola","q":9,"r":9},
+    "Legnano":{"n":"Legnano","q":9,"r":10},
+    "Arconate":{"n":"Arconate","q":9,"r":11},
+    "Cisliano":{"n":"Cisliano","q":10,"r":0},
+    "Basiano":{"n":"Basiano","q":10,"r":1},
+    "Zelo Surrigone":{"n":"Zelo Surrigone","q":10,"r":2},
+    "Inveruno":{"n":"Inveruno","q":10,"r":3},
+    "Locate di Triulzi":{"n":"Locate di Triulzi","q":10,"r":4},
+    "Truccazzano":{"n":"Truccazzano","q":10,"r":5},
+    "Ossona":{"n":"Ossona","q":10,"r":6},
+    "Busto Garolfo":{"n":"Busto Garolfo","q":10,"r":7},
+    "Vimodrone":{"n":"Vimodrone","q":10,"r":8},
+    "Vanzaghello":{"n":"Vanzaghello","q":10,"r":9},
+    "Boffalora Sopra Ticino":{"n":"Boffalora Sopra Ticino","q":10,"r":10},
+    "Cesano Boscone":{"n":"Cesano Boscone","q":10,"r":11}
+            }
+          }
+          </code>
+          </div>
+      </div>
+    </div>
+  </div>
+
+  <footer class="page-footer yellow darken-2">
+    <div class="container">
+      <div class="row">
+      </div>
+    </div>
+    <div class="footer-copyright">
+      <div class="container">
+      Made by <a class="yellow-text text-lighten-3" href="http://materializecss.com">Materialize</a>
+      </div>
+    </div>
+  </footer>
+
+
+  <!--  Scripts-->
+  
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-119525840-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-119525840-1');
+</script>
+<script>
+  S(document).ready(function(){
+
+// Create an object attached to a DOM element with the ID "hexmap-1y"
+var hexmap = S.hexmap('hexmap-1',{
+  'formatLabel': function(id,hex){
+			return hex.n;
+    }
+  });
+
+// Position the hexes and scale them to the container
+hexmap.positionHexes().resize();
+hexmap.setColour(function(hex){
+		
+    //var item = items[Math.floor(Math.random() * items.length)];
+    //
+		var colours = ['brown','green','gray','pink','orange'];
+    color=colours[Math.floor(Math.random()*colours.length)]
+    if(hex.n == "MILANO"){
+      color='red'
+    }
+		// We will choose a colour which is the sum of the q and r coordinate
+		return {'background-color':color,'color':'black'};
+	});
+});
+</script>
+  </body>
+</html>
