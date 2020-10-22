@@ -1,0 +1,41 @@
+#Winners of the week
+InstaPy - social automation per Instagram|https://github.com/timgrossmann/InstaPy
+Scambio di dati via sonora|https://github.com/ggerganov/wave-share
+Cloud weather - ma non e' meteo|https://cloudweather.dev/
+Apache Pulsar - Streaming Engine|https://pulsar.apache.org/
+Apache Iceberg - Wrapper relazionale per Spark e Presto|https://iceberg.apache.org/
+Oh shit,git!|https://ohshitgit.com/
+Marquez - Metadata manager|https://marquezproject.github.io/marquez/
+NLP As a service|https://github.com/abhimishra91/insight
+#Data Engineering
+Apache libcloud - astrae le librerie specifiche dei cloud vendor|http://libcloud.apache.org/index.html
+Visual Docker-compose|https://github.com/open-source-labs/nautilus
+Un editori di diagrammi per infrastrutture Cloud|https://www.cloudskew.com/
+Google Analytics in Bigquery|https://sumilmehta.in/blog/query-bigquery-google-analytics/
+Flight tracking con Python|https://www.geodose.com/2020/08/create-flight-tracking-apps-using-python-open-data.html
+Google Identity Aware Proxy, spiegata|https://engineering.wingify.com/posts/programmatic-authentication-under-iap/
+Clickstream Analysis in Apache Druid|https://imply.io/post/clickstream-funnel-analysis-with-apache-druid
+#Machine Learning
+Ottimizzazione dei Title Tag con Tensorflow|https://wordlift.io/blog/en/title-tag-seo-using-ai/
+DVC - MLOps|https://dvc.org/
+Statistica visuale|https://seeing-theory.brown.edu/index.html
+Google Bert per Google search console|https://searchengineland.com/using-the-apriori-algorithm-and-bert-embeddings-to-visualize-change-in-search-console-rankings-328702
+Teoria del test per Machine Learning|https://www.jeremyjordan.me/testing-ml/?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20200928+data+ai+nl&mkt_tok=eyJpIjoiT1dRelpXVXpaVGhtT0RnMyIsInQiOiJ2c3Bka3pyUjNjck4yTWhcL282cVJDWEZxY2szc1hRTjh1MDlRd3JZaGQrNWhoRlBDeDA0WklEMXNNMGVxckpqRjRkRHNUYlBjUHRMNmMrRFdZSGNmYkJ3clpYZ0lWZnpxNmdIT3dGRDdkOXV5alhJMDNNbWV3RkFMNEQwRmtYMlkifQ%3D%3D
+#Tools
+Apache PredictionIO - Machine Learning server|https://predictionio.apache.org/
+Orchest - Data science supercharger|https://www.orchest.io/
+Google Mediapipe|https://mediapipe.dev/
+Apache Dlab - Data science playground|http://dlab.incubator.apache.org/
+Apache Submarine - piattaforma unificata per il Machine Learning|https://submarine.apache.org/
+Apache Streampipes - ETL per Iot|https://streampipes.apache.org/
+Apache GEODE - low latency, high concurrency data management|https://geode.apache.org/
+Cylon - Machine Learning ETL|https://cylondata.org/
+Apache cTAKES - NLP Medicale|https://ctakes.apache.org/
+Screaming Frog - URL scraper|https://www.screamingfrog.co.uk/
+Apache IotDB|https://iotdb.apache.org/
+Apache Echarts - JavaScript visualization|https://echarts.apache.org/en/index.html
+d - Game editor 2d|https://deepnight.net/tools/led-2d-level-editor/
+#Miscellanea
+Samsung ads|https://www.samsung.com/us/business/samsungads/
+#No-tech
+Spaghetti|https://www.youtube.com/watch?v=JLjXz3ngYr4&feature=youtu.be
