@@ -1,0 +1,33 @@
+#Winners of the week
+Awful-AI - Algoritmi per scopi malefici|https://github.com/daviddao/awful-ai
+KubeDoom|https://github.com/storax/kubedoom
+Tech landscapes per tutti|https://www.techlandscape.co/
+Finalmente le spade laser|https://www.youtube.com/watch?v=xC6J4T_hUKg
+#Data Engineering
+Firecracker - la base di AWS Fargate|https://github.com/firecracker-microvm/firecracker
+Python MagicImport|https://github.com/dheera/magicimport.py
+30 days of React|https://github.com/Asabeneh/30-Days-Of-React
+JOINS in BigQuery|https://medium.com/google-cloud/bigquery-explained-working-with-joins-nested-repeated-data-1941646ccb5b
+Luckysheet|https://github.com/mengshukeji/Luckysheet
+Algoritmi del consenso|https://thomasvilhena.com/2020/10/a-review-of-consensus-protocols
+Spark local debug|https://sparkbyexamples.com/spark/how-to-debug-spark-application-locally-or-remote/
+Differential Dataflow|https://timelydataflow.github.io/differential-dataflow/introduction.html
+#Machine Learning
+Nvidia NeMO|https://github.com/NVIDIA/NeMo
+CSV reading in Julia|https://juliacomputing.com/blog/2020/06/fast-csv/
+Imparare senza dati|https://www.technologyreview.com/2020/10/16/1010566/ai-machine-learning-with-tiny-data/
+Analytics delle conversazioni su Whatsapp|https://medium.com/@luyilousia/improving-my-dating-life-one-text-analysis-at-a-time-a802cb8c2876
+#Tools
+#Miscellanea
+Deco - React native IDE|https://www.decoide.org/
+Dove finiscono i resi di Amazon|https://www.cbc.ca/news/canada/marketplace-amazon-returns-1.5753714
+Sincronia degli Stock Exchange|https://www.lucaspauker.ml/articles/20
+Gattini di sviluppo|https://placekitten.com/
+Trovare influencer|https://www.upfluence.com/
+Web App "Reali"|https://github.com/gothinkster/realworld
+#No-tech
+La mappa del rumore di sottofondo del mondo (o, the hum)|https://thehum.info/
+100.000 stelle vicine|http://stars.chromeexperiments.com/
+Card of personality|https://www.cardsofpersonality.com/
+Storia dell'asterisco|https://cormullion.github.io/pages/2020-10-09-asterisk/
+Un corso di poker|https://hopkinspokercourse.com/
