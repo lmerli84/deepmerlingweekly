@@ -1,0 +1,20 @@
+#Winners of the week
+Airflow su Kubernetes - Opzioni disponibili|https://fullstaq.com/blog/three-ways-to-run-airflow-on-kubernetes/
+L'algoritmo di Paxos|https://explain.yshui.dev/distributed%20system/2020/09/20/paxos.html
+#Data Engineering
+Testing in BigQuery|https://developers.soundcloud.com/blog/testing-sql-for-bigquery
+Whale! - Data discovery per DWH|https://github.com/dataframehq/whale
+Twitter sentiment - Cloudera Tutorial|https://www.cloudera.com/tutorials/building-a-sentiment-analysis-application/2.html
+#Machine Learning
+Twitter sentiment in Kafka - esempio abbastanza completo|https://medium.com/@kshivam213/a-microservice-for-processing-the-live-twitter-data-using-apache-kafka-extracting-sentiment-and-279aefad5e6
+Steroidi per Tensorflow.js|https://blog.tensorflow.org/2020/09/supercharging-tensorflowjs-webassembly.html
+Punto di partenza per lavorare alle previsiono meteo, a cura dell' European Centre for Medium-Range Weather Forecasts|https://www.ecmwf.int/en/about/who-we-are
+#Tools
+AADInternals - Per "esplorare" Azure AD e Office365|https://o365blog.com/aadinternals/
+#Miscellanea
+Social scraper|https://github.com/JustAnotherArchivist/snscrape
+Indici di borsa in terminale (in Rust)|https://github.com/tarkah/tickrs
+#No-tech
+Powerwash simulator - Per l'impresario delle pulizie che è in voi|https://futurlab.itch.io/powerwash-simulator
+Simulatore di trasporti, opensource|https://github.com/OpenLoco/OpenLoco
+La Chernobyl messicana|https://culturacolectiva.com/history/cobalt-60-ciudad-juarez-mexico-nuclear-accident
