@@ -1,20 +1,29 @@
 #Winners of the week
 Airflow su Kubernetes - Opzioni disponibili|https://fullstaq.com/blog/three-ways-to-run-airflow-on-kubernetes/
-L'algoritmo di Paxos|https://explain.yshui.dev/distributed%20system/2020/09/20/paxos.html
+Data science per bambini (davvero)|https://theabcsofdatascience.com/
+Un chilo di vecchio internet|https://www.cameronsworld.net/
 #Data Engineering
+L'algoritmo di Paxos|https://explain.yshui.dev/distributed%20system/2020/09/20/paxos.html
+AWS Serverless datalake workshop|https://sdlf.workshop.aws/
+Kafka+tensorflow, applicazioni|https://www.kai-waehner.de/blog/2020/10/27/streaming-machine-learning-kafka-native-model-server-deployment-rpc-embedded-streams/
 Testing in BigQuery|https://developers.soundcloud.com/blog/testing-sql-for-bigquery
 Whale! - Data discovery per DWH|https://github.com/dataframehq/whale
 Twitter sentiment - Cloudera Tutorial|https://www.cloudera.com/tutorials/building-a-sentiment-analysis-application/2.html
 #Machine Learning
+Formattatore di dataframe pandas|https://github.com/man-group/dtale#jupyter-notebook
 Twitter sentiment in Kafka - esempio abbastanza completo|https://medium.com/@kshivam213/a-microservice-for-processing-the-live-twitter-data-using-apache-kafka-extracting-sentiment-and-279aefad5e6
 Steroidi per Tensorflow.js|https://blog.tensorflow.org/2020/09/supercharging-tensorflowjs-webassembly.html
 Punto di partenza per lavorare alle previsiono meteo, a cura dell' European Centre for Medium-Range Weather Forecasts|https://www.ecmwf.int/en/about/who-we-are
+Clean architecture in python|https://rhodesmill.org/brandon/slides/2014-07-pyohio/clean-architecture/
 #Tools
+Social network scraper|https://github.com/JustAnotherArchivist/snscrape
 AADInternals - Per "esplorare" Azure AD e Office365|https://o365blog.com/aadinternals/
 #Miscellanea
-Social scraper|https://github.com/JustAnotherArchivist/snscrape
-Indici di borsa in terminale (in Rust)|https://github.com/tarkah/tickrs
+La "programmazione" di un filamento per la stampa 3d|https://spectrum.ieee.org/tech-talk/consumer-electronics/gadgets/programmable-filament-gives-even-simple-3d-printers-multimaterial-capabilities
+Numeri primi illegali!https://en.wikipedia.org/wiki/Illegal_prime
+Indici di borsa dal terminale (in Rust)|https://github.com/tarkah/tickrs
 #No-tech
 Powerwash simulator - Per l'impresario delle pulizie che è in voi|https://futurlab.itch.io/powerwash-simulator
 Simulatore di trasporti, opensource|https://github.com/OpenLoco/OpenLoco
 La Chernobyl messicana|https://culturacolectiva.com/history/cobalt-60-ciudad-juarez-mexico-nuclear-accident
+Scatti da un sottomarino nucleare russo|https://ru-submarine.livejournal.com/17486.html
