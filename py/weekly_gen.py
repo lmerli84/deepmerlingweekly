@@ -21,10 +21,14 @@ with open(file_name+".txt", "r") as f:
  
     for line in data:
         if line[0] == "#":
-            print ("<p class=\"style1\" style=\"margin: 0px; padding: 0px; color: #000000; font-size: 28px; font-family: Helvetica, Arial, sans-serif;\">"+line[1:]+"<br></p>")
+            #print ("<p class=\"style1\" style=\"margin: 0px; padding: 0px; color: #000000; font-size: 28px; font-family: Helvetica, Arial, sans-serif;\">"+line[1:]+"<br></p>")
+            print(
+              "<h1>{}<h1>".format(line[1:])
+            )
         else:
             words = line.split('|')
-            print ("<p>"+words[0]+" <a href=\""+words[1]+"\" rel=\"nofollow\">"+words[1][:42]+"...</a></p><p><br></p>")
+            #print ("<p>"+words[0]+" <a href=\""+words[1]+"\" rel=\"nofollow\">"+words[1][:42]+"...</a></p><p><br></p>")
+            print ("<p>"+words[0]+" <a href=\""+words[1]+"\" rel=\"nofollow\">"+words[1][:42]+"...</a></p>")
 
 #print("""
 #<div class="row center"><a href="http://www.deepmerlingweekly.com/issues/"""+file_name+""".html" id="download-button" 

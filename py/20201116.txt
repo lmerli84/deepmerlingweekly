@@ -1,0 +1,43 @@
+#Winners of the week
+Come passare da 15 a 60 FPS in video stop-motion (da cliccare)|https://www.youtube.com/watch?v=sFN9dzw0qH8
+Awesome machine Learning in production|https://github.com/EthicalML/awesome-production-machine-learning
+Creative Applications of Deep Learning with Tensorflow (scavate un po nel notebook 4, quando si parla di Deep Dreaming)|https://github.com/mmheydari97/creative-tf
+Android invia dati anche se inattivo|https://www.theregister.com/2020/11/14/google_android_data_allowance/
+Mermaid - per il disegno di architetture software|https://github.com/mermaid-js/mermaid
+#Data Engineering
+BigFlow - interessante framework di data processing in GCP|https://allegro.tech/2020/11/bigflow-a-python-framework-for-data-processing-on-gcp.html?__s=wxmqfiaog5u9c3sru5f7&utm_source=drip&utm_medium=email&utm_campaign=GCP+Newsletter+%23215
+AWS Glue DataBrew|https://aws.amazon.com/it/glue/features/databrew/
+Juicesynk - per copiare tra AWS, GCP, HDFS e altri..|https://github.com/juicedata/juicesync
+GitLeaks - trova e sanifica secrets nei repo|https://github.com/zricethezav/gitleaks
+Talisman - con la stessa funzione del link precedente|https://github.com/thoughtworks/talisman/
+Kafka parallel consumer|https://github.com/confluentinc/parallel-consumer
+Mappa dei cloud data center|http://wiki-cloud.co/en/2020/09/public-cloud-data-centers-map/
+Kafka: byebye zookeeper|https://www.confluent.io/blog/how-to-prepare-for-kip-500-kafka-zookeeper-removal-guide/#utm_source=blog&utm_medium=social&utm_campaign=ch.how-to-prepare-for-kip-500-kafka-zookeeper-removal-guide_type.community_content.apache-kafka
+Individuazione dei picchi di visite web, in SQL|https://app.querystash.com/query/d72aac44f94c57cf513d29e625a34201
+Kafka+TensorFlow|https://www.tensorflow.org/io/tutorials/kafka
+Un modello di attribuzione real time in Spark|https://databricks.com/blog/2018/08/09/building-a-real-time-attribution-pipeline-with-databricks-delta.html
+#Machine Learning
+Scikit imputer e missing data|https://scikit-learn.org/stable/modules/impute.html
+Neuro Evolution of Augmenting Topologies (NEAT) paper|http://nn.cs.utexas.edu/downloads/papers/stanley.cec02.pdf
+Teoria dell'accelerometro|https://aosabook.org/en/500L/a-pedometer-in-the-real-world.html
+Interfaccia visuale per Tensorflow|https://www.perceptilabs.com/home
+#Tools
+PrefectCore - Alternativa a Airflow|https://www.prefect.io/core/
+#Miscellanea
+Una bella spiegazione a tema X.509|https://www.security-embedded.com/blog/2020/11/14/application-trust-is-hard-but-apple-does-it-well
+European financial regulatory data|https://towardsdatascience.com/european-financial-regulatory-data-7b85144f5191
+dog is a command-line DNS client|https://github.com/ogham/dog
+The Digital Services Act package|https://ec.europa.eu/digital-single-market/en/digital-services-act-package
+A practical introduction to quantum computing|https://indico.cern.ch/event/970903/
+Videogame per sviluppatori Javascript|https://screeps.com/
+La funzione di autocorrelazione|https://soundshader.github.io/hn/acf/index.html
+#No-tech
+Il mistero dell'escursionista|https://www.wired.com/story/nameless-hiker-mostly-harmless-internet-mystery/
+Gli scoiattoli volanti sono fluorenscenti, a quanto pare|https://www.nationalgeographic.com/animals/2019/01/flying-squirrels-fluorescent-secretly-glow-pink/
+Mappa dei cavi sottomarini|https://www.submarinecablemap.com/
+Sembra che il Broccoli Coffee sia un trend|https://www.health.com/nutrition/broccoli-coffee
+Il destino ultimo dell'universo|https://it.wikipedia.org/wiki/Destino_ultimo_dell%27universo
+Nuovi animali australiani|https://www.cnet.com/news/scientists-discover-two-new-mammals-in-australia/#ftag=CAD-09-10aai5b
+Illusioni ottiche|https://michaelbach.de/ot/
+Fluidi|https://paveldogreat.github.io/WebGL-Fluid-Simulation/
+Spettacolari macro|https://www.theatlantic.com/photo/2020/11/winners-close-up-photographer-year/617070/
