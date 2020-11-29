@@ -1,0 +1,45 @@
+#Winners of the week
+Google possiede una piattaforma di monetization per il settore gaming|https://admob.google.com/home/
+Training dello staff del MacDonald su Nintendo DS|https://www.youtube.com/watch?v=-e6xOBCAVvA&ab_channel=NickRobinson
+Una descrizione di Palantir|https://sgstockmarketinvestor.com/palantir-nyse-pltr-tech-ipo-2020/
+Airflow managed in AWS(era ora)|https://aws.amazon.com/it/blogs/aws/introducing-amazon-managed-workflows-for-apache-airflow-mwaa/
+Mirriad - Ads in video|https://www.mirriad.com/
+Breaking news analytcs as a service (anche free)|https://tidalwaves.io/
+IOT use cases by Intel|https://software.intel.com/content/www/us/en/develop/topics/iot/reference-implementations.html
+#Data Engineering
+Databricks SQL Analytics - sento puzza di Hue |https://databricks.com/product/sql-analytics
+Awesome apache airflow - una tonnellata di link su airflow|https://github.com/jghoman/awesome-apache-airflow
+Un concorrente di Qlik e Tableau?|https://www.thoughtspot.com/
+Accesso e governance dell'information schema di BigQuery|https://medium.com/google-cloud/bigtips-information-schema-views-in-bigquery-2f0781766bb4
+Time series analytics in BigQuery|https://medium.com/google-cloud/time-series-analytics-with-bigquery-f65867c1ce74
+Una serie di tecniche per combattare gli errori di out of memory in Spark|https://medium.com/disney-streaming/a-step-by-step-guide-for-debugging-memory-leaks-in-spark-applications-e0dd05118958
+Singer - ETL tool davvero davvero interessante|https://www.singer.io/
+airbyte -ETL tool davvero davvero interessante (dove l'ho' gia' letta?)| https://airbyte.io/
+#Machine Learning
+Cann-AI-bis|https://prohibitionpartners.com/
+Estensioni per Jupyter Notebook orientate al machine Learning|https://github.com/elyra-ai/elyra
+Concetti interessanti per NON usare il Machine Learning|https://nullprogram.com/blog/2020/11/24/
+Panoramica alta delle reti neurali e loro uso|https://medium.com/towards-artificial-intelligence/main-types-of-neural-networks-and-its-applications-tutorial-734480d7ec8e
+Un approfondimento pensante sulla struttura interna delle reti neurali|https://arxiv.org/pdf/2007.06559.pdf
+Sulla governance del machine learning|https://medium.com/data-science-at-microsoft/machine-learning-model-governance-at-scale-26c9a2dc15b5
+#Tools
+Interrogare in SQL i metadati delle strutture Cloud|https://cloudquery.io/
+Pop OS, una distro linux alternativa e buona per lavorare|https://pop.system76.com/
+Ping, ma grafico|https://github.com/orf/gping
+DNS server locale|https://technitium.com/dns/
+Software di data quality open source|https://www.openriskmanual.org/wiki/Open_Source_Data_Quality_Software
+#Miscellanea
+Social listening|https://www.pmalerts.com/
+Gametech ecosystem|https://newzoo.com/insights/infographics/gametech-ecosystem-map-technology-game-creation-supply-chain
+Calcolo e definizione di mappe tematiche in BigQuery|https://mathiasschlaeffer.medium.com/dasymetric-spatial-interpolation-in-bigquery-ebd4ca13950d
+Mini ufficio da casa (che va di moda)|https://www.oriliving.com/products/pocket-office
+Pi webcam|https://github.com/geerlingguy/pi-webcam
+#No-tech
+Software e tecnologie open "sostenibili"|https://opensustain.tech/
+Rambly - una chat con pippottini a 8bit|https://rambly.app/
+Accordatura Bordone 8' e sistemazione tremolo Organo Mascioni|https://www.youtube.com/watch?v=D087SCMeQ2Y
+Triste: simulatore di poverta' canadese|http://makethemonth.ca/
+Gioco dei pappagallini|https://theladyvictoria.itch.io/toripon
+Gioco in cui devi accarezzare un cane|https://grey2scale.itch.io/pet-the-pup
+Gioco in cui devi corteggiare un muflone|https://blarfnip.itch.io/head-over-hooves-my-heart-bleats-for-you
+Squatty potty...beh..aiuta il download|https://www.squattypotty.com/?utm_source=Consumismi&utm_campaign=7ab58d3d34-EMAIL_CAMPAIGN_2020_01_24_10_58_COPY_01&utm_medium=email&utm_term=0_8071076cdc-7ab58d3d34-317589062
