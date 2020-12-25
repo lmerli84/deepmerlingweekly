@@ -1,0 +1,31 @@
+#Winners of the week
+Kubernetes, Docker e Containerd: per capire cosa succede|https://kubernetes.io/blog/2020/12/02/dont-panic-kubernetes-and-docker/
+EKS-D. La distribuzione Kubernetes di Amazon configurabile in casa|https://distro.eks.amazonaws.com/
+Tracciamento delle SmartTV|https://arxiv.org/pdf/2001.08288.pdf
+#Data Engineering
+Amazon VOD streaming|https://aws.amazon.com/it/cloudfront/streaming/
+L'architettuda di Adobe Experience Manager (e Apache Iceberg)|https://medium.com/adobetech/iceberg-at-adobe-88cf1950e866
+Guida per l'avvio di Apache Hive senza HDFS(!urca!)|https://funinit.wordpress.com/2020/12/08/how-to-start-apache-hive-without-hdfs/
+Dockerfile best practice|https://github.com/hexops/dockerfile
+#Machine Learning
+Amazon EMR Studio|https://aws.amazon.com/it/blogs/big-data/amazon-emr-studio-preview-a-new-notebook-first-ide-experience-with-amazon-emr/
+Hub - lo vendono come "il Docker Hub dei dati"|https://github.com/activeloopai/Hub
+Scegli Rust, scienziato!|https://www.nature.com/articles/d41586-020-03382-2
+Amnesia - tool di anonimizzazione|https://amnesia.openaire.eu/
+Sentiment Analysis di Cyberpunk 2077|https://int8.io/are-you-ok-cyberpunk-transformers-diagnosis/
+#Tools
+Deepcamera - Face detection su RaspberryPi|https://github.com/SharpAI/DeepCamera
+syncthing - file in sync|https://syncthing.net/
+Boltstream - self hosted video streaming service|https://github.com/benwilber/boltstream
+IDE per Kafka|https://kafkaide.com/
+#Miscellanea
+Enterprise Grade LoRaWAN® Network Server|https://thethingsindustries.com/docs/
+LoRaWAN simulator|https://github.com/kartben/lorawan-node-simulator
+Stamparsi a casa un Rover marziano|http://www.esa.int/Enabling_Support/Space_Engineering_Technology/3D_print_your_own_Mars_rover_with_ExoMy
+Corso EDX su macchinine autonome (credo non sia un problema se sono guidate da papere)|https://www.edx.org/course/self-driving-cars-with-duckietown
+Hadabot|https://www.hadabot.com/
+#No-tech
+Gotta go flamingo|https://www.youtube.com/watch?v=C-St1REyjxM
+Camera and lenses|https://ciechanow.ski/cameras-and-lenses/
+Google stories|https://stories.google/
+Il bisonte europeo|https://it.wikipedia.org/wiki/Bison_bonasus
