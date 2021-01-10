@@ -1,0 +1,41 @@
+#Winners of the week
+Consigli per una vita migliore|https://www.lesswrong.com/posts/7hFeMWC6Y5eaSixbD/100-tips-for-a-better-life
+eBPF in modo intellegibile|https://filipnikolovski.com/posts/ebpf/
+Come funzionano i filmati video|https://howvideo.works/
+Lo stato delle abilità in ambito IT a livello Europeo.(tranquilli in Italia siamo solo terzultimi, meglio di Romania e Bulgaria)|https://ec.europa.eu/digital-single-market/en/human-capital-and-digital-skills
+#Data Engineering
+ZenML - Pipeline di ML riproducibili|https://github.com/maiot-io/zenml
+Spark AQE |https://blog.cloudera.com/how-does-apache-spark-3-0-increase-the-performance-of-your-sql-workloads/
+DBT + BigQuery = Data quality|https://engineering.mercari.com/en/blog/entry/20201207-toward-better-data-management-on-bigquery-with-dbt/
+Polars - Libreria di dataframe in Rust|https://github.com/ritchie46/polars
+Kubernetes on Edge: Akri by Microsoft|https://cloudblogs.microsoft.com/opensource/2020/10/20/announcing-akri-open-source-project-building-connected-edge-kubernetes/
+Alibaba recommendation infrastructure|https://alibaba-cloud.medium.com/evolution-of-the-real-time-data-warehouses-of-the-alibaba-search-and-recommendation-data-platform-fdb5292a01e2
+il Pipeline scheduler di Uber|https://eng.uber.com/no-code-workflow-orchestrator/
+#Machine Learning
+Bert-as-a-service|https://github.com/hanxiao/bert-as-service
+Papers with code - state of the art|https://paperswithcode.com/sota
+Proposte alternative alla backpropagation|https://venturebeat.com/2020/12/16/at-neurips-2020-researchers-proposed-faster-more-efficient-alternatives-to-backpropagation/
+Metaflow|https://metaflow.org/
+#Tools
+Generare codice SQL da blocchi (a' la scratch)|https://www.dbinf.informatik.uni-wuerzburg.de/google-blockly-4efa0da/sql/index.html
+Motion - Video monitoring tool|https://motion-project.github.io/
+Hasura - DB to GraphQL|https://hasura.io/
+Wafka - Kafka over API|https://josephp91.github.io/wafka/
+H20 Wave|https://github.com/h2oai/wave
+Bevy - Game Framework in Rust|https://bevyengine.org/learn/book/introduction/
+N8n - un altro scheduler di data pipelines|https://n8n.io/
+Un gestore audio avanzato per Windows|https://eartrumpet.app/
+#Miscellanea
+Una carrellata di librerie python non comuni|https://tryolabs.com/blog/2020/12/21/top-10-python-libraries-of-2020/
+Sulle raccomandazioni di Youtube(spoiler: mah...)|https://thenextweb.com/google/2019/06/14/youtube-recommendations-toxic-algorithm-google-ai/
+L'Ad targeting di Facebook e quello che ne pensano i suoi manager|https://theintercept.com/2020/12/24/facebook-ad-targeting-small-business/
+Creative coding|https://www.editorx.com/shaping-design/article/creative-coding
+Reverse engineering del vaccino|https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/
+Project Kuiper - i satelliti di amazon|https://www.aboutamazon.com/news/company-news/amazon-receives-fcc-approval-for-project-kuiper-satellite-constellation
+#No-tech
+Comportamenti e attività che si possono fare|https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/
+Onomastica araba|https://it.wikipedia.org/wiki/Onomastica_araba
+Il seguito dello svarione degli anelli|https://www.loroll.it/
+Un lunghissimo xilofono ligneo e boschivo|https://www.youtube.com/watch?v=g1_B0YhwMVE&feature=emb_logo
+Blob Opera|https://artsandculture.google.com/experiment/AAHWrq360NcGbw?cp=e30.
+Il videogioco di Gesu'|https://store.steampowered.com/app/1198970/I_Am_Jesus_Christ/?l=italian

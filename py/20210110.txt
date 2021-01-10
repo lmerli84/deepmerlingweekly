@@ -1,0 +1,34 @@
+#Winners of the week
+La codifica del vaccino, spiegata|https://berthub.eu/articles/posts/italian-reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/
+DALL.E - Immagini dal testo con GPT-3|https://openai.com/blog/dall-e/
+Una mini tv stampabile in 3D|https://tinycircuits.com/collections/all/products/tinytv-diy-kit
+#Data Engineering
+Wasmer - strato di esecuzione di container Webassembly|https://github.com/wasmerio/wasmer
+AWS Workshop home|https://workshops.aws/
+OctoML - machine learning deploy framework|https://octoml.ai/
+Un tool di copia dati|http://www.dbcrossbar.org/
+Una Dashboard basata su Kafka, Beam, Dataflow, BigQuery, Data Studio, e Streamlit!|https://qulia.medium.com/realtime-dashboard-app-with-kafka-beam-dataflow-bigquery-data-studio-and-streamlit-c9f63d44e417
+#Machine Learning
+Bigquery e BDT|https://showmethedata.medium.com/agile-machine-learning-with-dbt-and-bigquery-ml-c067431ef7a9
+Online Shopping Intention Analysis with Python|https://thecleverprogrammer.com/2020/12/04/online-shopping-intention-analysis-with-python/
+Real time machine learning - una digressione|https://huyenchip.com/2020/12/27/real-time-machine-learning.html
+Un package python per rendere esplicite le descrizioni in dashboard|https://github.com/oegedijk/explainerdashboard
+#Tools
+JupyterLab 3.0|https://blog.jupyter.org/jupyterlab-3-0-is-out-4f58385e25bb
+Alternativa low cost a Google Analytics|https://plausible.io/
+Open source uptime monitor|https://upptime.js.org/
+Il caro vecchio Hue|https://gethue.com/
+SankeyMATIC - Grafici sankey per tutti|http://sankeymatic.com/
+Netvisix - Analizzatore visuale di pacchetti di rete|https://github.com/bewue/Netvisix
+#Miscellanea
+Project Fugu - Nuove funzionalità via browser (spiegata spiccia)|https://web.dev/fugu-status/
+Sneakernet - quando il collegamento è fisico|https://en.wikipedia.org/wiki/Sneakernet
+Stampanti di DNA|https://codexdna.com/products/bioxp-system/
+#No-tech
+Breakthrough listen - orecchio spaziale|https://breakthroughinitiatives.org/initiative/1
+Lunghi sentieri montani nel mondo|https://thruhikes.net/
+Un linguaggio "musicale"|https://en.wikipedia.org/wiki/Solresol
+Linee guida del governo americano per la protezione planetaria|https://www.whitehouse.gov/wp-content/uploads/2020/12/National-Strategy-for-Planetary-Protection.pdf
+Gipponi russi|https://youtu.be/XbasYGFN8VU
+La re-implementazione del vetusto gioco CaesarIII|https://github.com/bvschaik/julius
+L'arte dei camioncini pakistani|https://mymodernmet.com/pakistan-truck-art/
