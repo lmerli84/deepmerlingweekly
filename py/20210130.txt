@@ -1,0 +1,32 @@
+#Winners of the week
+Firefox relay|https://relay.firefox.com/?ref=link
+Karapace - sostituto per lo Schema Registry e Kafka REST proxy|https://karapace.io/
+Una buona app per non vedenti|https://www.bemyeyes.com/
+La crescita di una salamandra - spettacolare|https://www.nationalgeographic.com/animals/2019/02/time-lapse-film-shows-salamander-development/
+#Data Engineerings
+Ryven - Python pipeline, visuali (alla Airflow)|https://github.com/leon-thomm/Ryven
+Ballista - Rust+Apache Arrow|https://github.com/ballista-compute/ballista
+Strato POSIX per S3 e Redis|https://github.com/juicedata/juicefs
+Rust Runtime for AWS Lambda|https://github.com/awslabs/aws-lambda-rust-runtime
+Google privacy sandbox|https://www.chromium.org/Home/chromium-privacy/privacy-sandbox
+#Machine Learning
+Strumenti di visualizzazione per pandas|https://pbpython.com/dataframe-gui-overview.html
+Shapass - package python dedicato all' interpretabilita' di modello |https://github.com/MAIF/shapash
+Socceraction - Analisi quantitativa dedicata alle posizioni in campo dei calciatori|https://github.com/ML-KULeuven/socceraction
+Mesh Tensorflow - distributed deep learning|https://github.com/tensorflow/mesh
+Generare query SQL con GPT3|https://blog.seekwell.io/gpt3
+#Tools
+Amplication - Tool no-code per NodeJS, graphql e altro|https://amplication.com/
+Revive adserver - un AdServer opensource|https://www.revive-adserver.com/
+Il software di controllo missione della NASA, open source per i vostri progetti casalinghi|https://nasa.github.io/openmct/
+#Miscellanea
+Reverse engineering di Covid-19|https://github.com/geohot/corona
+Google Tiltbrush - dipingere in VR|https://www.tiltbrush.com/
+Icone gratis|https://iconduck.com/
+#No-tech
+Uno store online di frutta buona, ma brutta|https://www.misfitsmarket.com/
+Un webcomic fantasy|https://www.peppercarrot.com/it/
+Giochi Free su github|https://github.com/leereilly/games
+Il disegno piu' antico del mondo. Un porcellino|https://www.haaretz.com/israel-news/.premium-archaeologists-find-oldest-picture-in-the-world-it-s-a-pig-1.9444092
+Disegnare i propri QR-code|https://my-qr.art/
+Un gioco di pompieri con manichette infinite|https://www.pcgamer.com/firefighting-simulator-has-infinitely-long-hoses-so-i-filled-a-neighborhood-with-them/s

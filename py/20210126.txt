@@ -1,9 +1,0 @@
-#Winners of the week
-#Data Engineerings
-#Machine Learning
-Anomaly detection in SQL|https://hakibenita.com/sql-anomaly-detection
-#Tools
-#Miscellanea
-#No-tech
-Un webcomic fantasy|https://www.peppercarrot.com/it/
-Giochi Free su github|https://github.com/leereilly/games
