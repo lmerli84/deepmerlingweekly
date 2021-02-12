@@ -1,0 +1,36 @@
+#Winners of the week
+BudgetML - Machine learning in caso di ristrettezza economica|https://github.com/ebhy/budgetml
+Da lettore CD a microscopio!|https://www.gaudi.ch/GaudiLabs/?page_id=652
+Pillole di scalabilita'|https://zerodha.tech/blog/scaling-with-common-sense/
+VS in browser, servito da Github|https://github.com/conwnet/github1s
+#Data Engineerings
+Steampipe - CLI SQL per tutto!|https://steampipe.io/
+Airflow TDD|https://blog.magrathealabs.com/how-to-develop-data-pipeline-in-airflow-through-tdd-test-driven-development-c3333439f358
+Lib Python da SAS->Pandas|https://pypi.org/project/pyreadstat/
+Git e secret, una guida|https://blog.gitguardian.com/rewriting-git-history-cheatsheet/
+#Machine Learning
+Pandas per tuo nonno (solo il titolo fa ridere)|https://www.youtube.com/playlist?list=PL9oKUrtC4VP7ry0um1QOUUfJBXKnkf-dA
+Liquid Time-Constant Network|https://arxiv.org/pdf/2006.04439.pdf
+Progettino GitHub per localizzare il proprio gatto in casa|https://github.com/filipsPL/cat-localizer
+tket - libreria python agnostica per il quantum computing|https://cqcl.github.io/pytket/build/html/manual_intro.html
+API di traduzione linguistica opensource|https://libretranslate.com/
+Un dataset di immagini oculari|https://syncedreview.com/2021/02/08/the-eyes-have-it-20-million-images-make-teyed-worlds-largest-human-eye-dataset/
+Kernel SQL per Jupyter|https://blog.jupyter.org/an-sql-solution-for-jupyter-ef4a00a0d925
+#Tools
+Remotion - Motion graphics in React|https://www.remotion.dev/
+#Miscellanea
+The Rust Foundation|https://foundation.rust-lang.org/posts/2021-02-08-hello-world/
+Un aggregatore di servizi di self-hosting|https://selfhosted.libhunt.com/
+Supercookie - tracking via favicon|https://github.com/jonasstrehle/supercookie
+Shopgram - trending su Shopify|https://shopgram.io/stores
+The Non-psychopath’s Guide to Managing an Open-source Project|https://queue.acm.org/detail.cfm?id=3447645
+Click - package python per la creazione di CLI|https://click.palletsprojects.com/en/7.x/
+#No-tech
+Come viene creato un vaccino, in parole quasi semplici|https://www.lesswrong.com/posts/niQ3heWwF6SydhS7R/making-vaccine
+Come scrivere in sumero|https://blog.britishmuseum.org/how-to-write-cuneiform/
+Un'anomalia magnetica in mezzo all'Africa|https://en.wikipedia.org/wiki/Bangui_magnetic_anomaly
+Pittori spaziali su Steam|https://store.steampowered.com/app/1469280/SuchArt_Creative_Space/
+E niente, programming for cats|https://programmingforcats.com/
+Yoda speak generator|http://www.yodaspeak.co.uk/index.php
+Il marketing insegnato (d)ai negozianti|https://ilmarketinginsegnatodainegozianti.info/
+suoni della Jungla|https://defonic.com/jungle-rain-generator.html
