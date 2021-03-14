@@ -1,0 +1,36 @@
+#Winners of the weekly
+Mappa interattiva dei satelliti e dei detriti spaziali|https://platform.leolabs.space/visualization
+Pagina di arruolamento per la partenza verso la luna|https://dearmoon.earth/
+The Deep Bootstrap Framework|https://ai.googleblog.com/2021/03/a-new-lens-on-understanding.html
+Rendering di immagini da terminale|https://github.com/jart/hiptext
+#Data Engineerings
+Spark + K8s|https://www.datamechanics.co/blog-post/apache-spark-3-1-release-spark-on-kubernetes-is-now-ga
+Rust in AWS|https://aws.amazon.com/it/blogs/opensource/how-our-aws-rust-team-will-contribute-to-rusts-future-successes/
+#Machine Learning
+GAN+ musica per immagini da "sogno"|https://mikaelalafriz.medium.com/introducing-lucid-sonic-dreams-sync-gan-art-to-music-with-a-few-lines-of-python-code-b04f88722de1
+Apprendimento AUTO-supervisionato|https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/
+DOLT - Git for Data|https://github.com/dolthub/dolt#dolt
+Twita - dataset di tweets italiani|https://valeriobasile.github.io/twita/about.html
+AI su Mobile|https://ai.googleblog.com/2021/03/accelerating-neural-networks-on-mobile.html
+alBERTo - Implementazione per la lingua italiana di BERT|http://ceur-ws.org/Vol-2481/paper57.pdf
+#Tools
+Fivetran - Data pipelines|https://fivetran.com/
+Ploomber - Data pipelines|https://github.com/ploomber/ploomber
+apkleaks - ricerca di secrets all'interno degli APK android|https://github.com/dwisiswant0/apkleaks
+Metabase - Opensource Dashboard|https://github.com/metabase/metabase
+Kamu - data management|https://github.com/kamu-data/kamu-cli
+Matillon ETL|https://www.matillion.com/
+#Miscellanea
+Trovare repo github nel mondo|https://stargazersmap.com/
+Sulle stime di progetto|https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think-a-statistical-model.html#
+#No-tech
+Il "sistema solare" svedese|http://www.swedensolarsystem.se/en/
+"Mappa" della popolazione|https://pudding.cool/2018/10/city_3d/
+Il Giardino di Ninfa|https://it.wikipedia.org/wiki/Giardino_di_Ninfa
+La migrazione delle lucciole giapponesi(foto)|https://www.thisiscolossal.com/2021/03/daniel-kordan-fireflies/
+La gestione di un aeroporto in Antartide|https://www.flightradar24.com/blog/troll-research-station-how-to-operate-an-airport-in-antarctica/
+Mappe storiche e navigabili di Londra|https://www.layersoflondon.org/
+Case stampate in 3d|https://www.stirworld.com/see-features-tecla-3d-printed-eco-habitat-by-wasp-and-mario-cucinella-architects-in-italy
+Una "Microcamera", ovvero microscopio+fotocamera|https://www.schweinert.com/microscope-lenses-on-pocket-6k/
+Un artista dell'imballaggio|https://www.goodnewsnetwork.org/bradley-hart-bubble-wrap-art/
+Il piu' piccolo grattacielo del mondo|https://en.wikipedia.org/wiki/World%27s_littlest_skyscraper

@@ -1,0 +1,29 @@
+#Winners of the weekly
+Big Data IDE by Pinterest|https://www.querybook.org/
+Motivazioni e vita in camper|https://ghuntley.com/a-new-chapter/
+Rianimare foto d'epoca|https://www.myheritage.it/deep-nostalgia
+Firefox Total Cookie protection|https://blog.mozilla.org/security/2021/02/23/total-cookie-protection/
+Investigare online con social-analyzer|https://github.com/qeeqbox/social-analyzer
+#Data Engineerings
+Kubernetes e' un casino|https://www.theregister.com/2021/02/25/google_kubernetes_autopilot/
+Pyspark testing|https://mungingdata.com/pyspark/testing-pytest-chispa/
+Best practice for API design|https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/
+#Machine Learning
+Freely Wired Neural Networks|https://github.com/noahtren/Freewire
+Information in beautiful|https://informationisbeautiful.net/
+#Tools
+API Gratuita per dati finanziari (Stock,Valute e Criptovalute)|https://finnhub.io/
+Risorse free per developers|https://free-for.dev/#/
+#Miscellanea
+Cose da CTO|https://github.com/kuchin/awesome-cto
+Tiny Ads|https://tinyads.io/
+Un Clubhouse per i poveri|https://jam.systems/
+Un tool che potrebbe fare come Clubhouse, per i poveri, ma complesso (audio streamer peer2peer)|https://sonobus.net/
+Un editor per avventure testuali (idea per storytelling?)|https://www.inklestudios.com/ink/
+Mappa delle celle telefoniche|https://alpercinar.com/open-cell-id/
+Software di volo embedded - Nasa|https://nasa.github.io/fprime/
+Sonde che comunicano con la Terra|https://spaceprob.es/
+#No-tech
+La fisica della pizza (paper)|https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf
+La storia del Fire, mitico motore della Panda|https://www.automoto.it/news/la-storia-del-fire-da-motore-a-leggenda-documentario.html
+Starfinder loot generator|https://sfrpgtools.com/loot-generator
