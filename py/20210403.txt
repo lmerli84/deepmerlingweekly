@@ -1,0 +1,23 @@
+#Winners of the weekly
+Stop Calling Everything AI|https://spectrum.ieee.org/the-institute/ieee-member-news/stop-calling-everything-ai-machinelearning-pioneer-says
+The infintite drum machine (by google)|https://experiments.withgoogle.com/ai/drum-machine/view/
+kubernetes a fumetti|https://cloud.google.com/kubernetes-engine/kubernetes-comic
+#Data Engineerings
+AWS vs AZURE vs GPC - nomi e strumenti|https://cloud.google.com/free/docs/aws-azure-gcp-service-comparison
+S3 Object Lambda|https://aws.amazon.com/it/blogs/aws/introducing-amazon-s3-object-lambda-use-your-code-to-process-data-as-it-is-being-retrieved-from-s3/
+Serverless CI/CD with AWS|https://github.com/DevOpsPlayground/Hands-on-with-Serverless-CI-CD-Pipelines-on-AWS
+#Machine Learning
+Deep Learning Do It Yourself!|https://dataflowr.github.io/website/
+#Tools
+Focalboard - kanban self-hosted|https://www.focalboard.com/
+#Miscellanea
+Quanto ne sapete di Cookie? Un gioco per evitarli|https://cookieconsentspeed.run/
+La penna per stampare caramelle in 3d|https://www.polaroid3d.com/en/candypen/
+Stampare in 3d nella gelatina|https://spritesmods.com/?art=jello3dprinter
+Strane e particolari Timezone|https://qz.com/357697/time-zone-deviants-part-i-the-strangest-time-zones-in-the-world/
+#No-tech
+Suoni da pub per lo smartworking|https://soundsofthepub.com/
+La bella motociclista giapponese che invece e' un signore|https://mothership.sg/2021/03/japanese-biker-actually-man/
+Come comprare un cammello|https://www.wikihow.com/Buy-a-Camel
+Frutta e verdura stagionale in Europa - mappa interattiva|https://www.eufic.org/en/explore-seasonal-fruit-and-vegetables-in-europe
+Piazzare la Ever Given ovunque (anche se ad oggi naviga)|https://evergiven-everywhere.glitch.me/
