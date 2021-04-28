@@ -1,0 +1,30 @@
+#Winners of the weekly
+LA mappa dei vaccini in Italia|https://vaccinocovid.wired.it/index.html
+MonsterMash|https://monstermash.zone/
+#Data Engineerings
+ConsoleME - Gestione centralizzata degli account AWS by Netflix|https://netflixtechblog.com/consoleme-a-central-control-plane-for-aws-permissions-and-access-fd09afdd60a8
+Download parallelo da S3|https://emasquil.github.io/posts/multithreading-boto3/
+Un DB sicuro e GDPR compliant|https://github.com/securitybunker/databunker
+CloudBeaver - Database IDE via browser|https://cloudbeaver.io/
+Opensearch (ElasticSearch by AWS)|https://aws.amazon.com/it/blogs/opensource/introducing-opensearch/
+docker-lambda|https://github.com/lambci/docker-lambda
+AWS Lambda Runtime Interface Emulator|https://github.com/aws/aws-lambda-runtime-interface-emulator/
+DataFusion: Rust+Arrow|https://github.com/apache/arrow-datafusion
+#Machine Learning
+Gradio - Widgets per notebook|https://github.com/gradio-app/gradio
+Statistica della procrastinazione|https://arxiv.org/abs/2103.16574
+ClearML - Ambiente di sviluppo e messa in produzione per ML|https://github.com/allegroai/clearml
+Piano europeo per l'intelligenza artificiale|https://digital-strategy.ec.europa.eu/en/library/coordinated-plan-artificial-intelligence-2021-review
+#Tools
+PCredz - Estra informazioni sensibili da file PCAP|https://github.com/lgandx/PCredz
+Pandas VS Memoria|https://pythonspeed.com/articles/pandas-sql-chunking/
+#Miscellanea
+Strani dati nella blockchain|https://cirosantilli.com/cool-data-embedded-in-the-bitcoin-blockchain
+Ethical anti design|https://njms.ca/posts/ethical-anti-design.html
+Lista dei progetti opensource utilizzati nelle missioni marziane|https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/personalizing-your-profile#list-of-qualifying-repositories-for-mars-2020-helicopter-contributor-badge
+#No-tech
+Techno music randomica|https://www.vitling.xyz/toys/acid-banger/
+The NoPhone|https://www.thenophone.com/
+Oggetti ambigui allo specchio|http://www.isc.meiji.ac.jp/~kokichis/ambiguousc/ambiguouscylindere.html
+Utili informazioni sulle oche canadesi|https://www.canada.ca/en/environment-climate-change/services/migratory-bird-conservation/managing-conflicts/frequently-asked-questions.html
+Qui si parla di quella volta che un tecnico ha lasciato la testa in un acceleratore di particelle|https://www.amusingplanet.com/2020/02/anatoli-bugorski-man-who-stuck-his-head.html

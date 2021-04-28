@@ -23,7 +23,7 @@ with open(file_name+".txt", "r") as f:
         if line[0] == "#":
             #print ("<p class=\"style1\" style=\"margin: 0px; padding: 0px; color: #000000; font-size: 28px; font-family: Helvetica, Arial, sans-serif;\">"+line[1:]+"<br></p>")
             print(
-              "<h1>{}<h1>".format(line[1:])
+              "<h1>{}</h1>".format(line[1:])
             )
         else:
             words = line.split('|')
