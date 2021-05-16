@@ -1,0 +1,34 @@
+#Winners of the weekly
+Lovetris - Tetris con i pezzi giusti|https://unrealwill.github.io/lovetris/
+Vodka di Chernobyl|https://www.bbc.com/news/science-environment-57011695
+'Ha accesso e rispento l'arereo? Tutte le luci lampeggiano?'|https://www.theregister.com/2020/04/02/boeing_787_power_cycle_51_days_stale_data/
+Quale formato dati puo' diventare un Pandas Dataframe|https://gretel.ai/blog/a-guide-to-load-almost-anything-into-a-dataframe
+'Allungatore' di link|https://aaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/
+#Data Engineering
+Json in AWS Redshift - il 'SUPER' tipo|https://joshdevlin.com/blog/redshift_json/
+Gordon - Lambda+Cloudformation|https://github.com/jorgebastida/gordon
+AWS Cloudfront Function|https://aws.amazon.com/it/blogs/aws/introducing-cloudfront-functions-run-your-code-at-the-edge-with-low-latency-at-any-scale/
+Rust for Windows|https://blogs.windows.com/windowsdeveloper/2021/05/06/announcing-rust-for-windows-v0-9/
+Generare documentazione da script terraform|https://terraform-docs.io/user-guide/introduction/
+AWS e il supporto fai-da-te|https://aws.amazon.com/it/about-aws/whats-new/2021/05/aws-premium-support-launches-support-automation-workflow-runbooks-for-self-service-diagnosis-remediation/
+#Machine Learning
+AI.gov|https://www.ai.gov/
+nbterm - Jupyter in terminale|https://blog.jupyter.org/nbterm-jupyter-notebooks-in-the-terminal-6a2b55d08b70
+Sport analytics|https://deepmind.com/blog/article/advancing-sports-analytics-through-ai
+#Tools
+AWS RUST Sdk|https://aws.amazon.com/it/blogs/developer/a-new-aws-sdk-for-rust-alpha-launch/
+Open source geocoder per indirizzi/POI|https://www.gisgraphy.com/index.php
+#Miscellanea
+Amazon Sidewalk - giusto per non lasciarci mai|https://www.amazon.com/Amazon-Sidewalk/b?node=21328123011
+Awesome smart-tv (lista di liste di link)|https://project-awesome.org/vitalets/awesome-smart-tv
+Come fa Facebook a comprimere i video|https://engineering.fb.com/2021/04/05/video-engineering/how-facebook-encodes-your-videos/
+Fibra ottica e castori|https://www.punto-informatico.it/fibra-ottica-nella-casa-dei-castori-di-tumbler-ridge/
+Simulare l'effetto pellicola su foto, con python|https://kevinmartinjose.com/2021/04/27/film-simulations-from-scratch-using-python/
+(Approfondimento - vedi sopra)|https://www.jmpeltier.com/fujifilm-film-simulation-differences/
+Se anche voi avete bisogno di generare reazioni biologiche a casa, questo e' lo strumento adatto|https://gaudi.ch/PocketPCR/
+#No-tech
+Les Machines de l'ile - A Nantes, un parco divertimenti meccanico|https://www.lesmachines-nantes.fr/en/
+Case stampate in 3d|https://architizer.com/blog/inspiration/stories/the-future-of-architecture-3d-printed-concrete/
+Capsule di sopravvivenza|http://survival-capsule.com/Home.html
+Line moire'|https://en.wikipedia.org/wiki/Line_moir%C3%A9
+Arte classica, gratis|https://artvee.com/
