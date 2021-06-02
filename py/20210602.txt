@@ -1,0 +1,22 @@
+#Winners of the weekly
+Yamaha Motoroid|https://global.yamaha-motor.com/design_technology/design/concept/motoroid/
+Questa app permette di pagare influencer per fare cose|https://apps.apple.com/us/app/newnew/id1327683895
+Create video promozionali senza attori veri|https://www.synthesia.io/
+Cacciatori di Mammoth|https://www.rferl.org/a/the-mammoth-pirates/27939865.html
+#Data Engineering
+AWS flashcards|https://cloudbite.attejuvonen.fi/
+Flat-data - ETL e data versioning in Github|https://octo.github.com/projects/flat-data
+Mozart Data - pipeline manager|https://www.mozartdata.com/
+#Machine Learning
+AWS Redshift ML|https://aws.amazon.com/it/redshift/features/redshift-ml/
+Voice2Json|https://voice2json.org/#supported-languages
+ING e il calcolo dei codici Ateco (industry code)|https://medium.com/wbaa/industry2vec-an-implementation-for-industry-code-vector-representation-68ec5f5de9a4
+in-browser jupyterlab|https://github.com/jtpio/jupyterlite
+#Tools
+Tool per la cancellazione massiva di post dai social|https://redact.dev/?hn
+#Miscellanea
+Blockchain sharding|https://vitalik.ca/general/2021/04/07/sharding.html
+Come costruire una zattera|https://benjamincongdon.me/blog/2021/05/16/Building-a-Raft/
+#No-tech
+Palle di fango giapponese|https://www.laurenceking.com/blog/2019/09/26/dorodango-blog/
+Stazioni metro abbandonate, a Parigi|https://www.urbextour.com/en/urbex-travel/7-ghost-stations-of-the-paris-metro-and-how-to-get-into-the-illegally-unusual-tunnels-rer/
