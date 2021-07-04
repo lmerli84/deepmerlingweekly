@@ -1,0 +1,23 @@
+#Winners of the weekly
+Genitori di bambine chiamate 'Alexa' contro Amazon|https://www.bbc.com/news/technology-57680173
+Kafka a fumetti,con le lontre, per bambini (stra-bellissimo)|https://www.gentlydownthe.stream/
+Audio a palla e tirare|https://calm.ovh/
+La non-interfaccia utente (da provare, se ci riuscite)|https://userinyerface.com/
+#Data Engineering
+Interrogare direttamente file parquet con DuckDB|https://duckdb.org/2021/06/25/querying-parquet.html
+Come funziona Kubectl|https://erkanerol.github.io/post/how-kubectl-exec-works/#.YMh9R3cvFUs.twitter
+#Machine Learning
+Kobra - ML a blocchi|https://kobra.dev/
+AuGly - data augmentation library - piu' training set per tutti!|https://github.com/facebookresearch/AugLy
+Kits to Analyze Time Series (o Kats) - Time series in python|https://facebookresearch.github.io/Kats/
+#Tools
+Tool linux per leggere i QR code|https://linux.die.net/man/1/zbarimg
+#Miscellanea
+Nivo - Dataviz library|https://nivo.rocks/
+Rappresentare hash sha-256 graficamente|https://francoisbest.com/posts/2021/hashvatars
+L'arte di combinare le armoniche|https://whatmusicreallyis.com/research/harmonicomb/
+Scorciatoie e magie di indirizzamento IP (u-a-u)|https://stuff-things.net/2014/09/25/magic-ip-address-shortcuts/
+#No-tech
+L'interno della cabina di un Airbus A350|https://www.youtube.com/watch?v=241-5DZyons
+Sushi fermentato (bah)|https://www.bbc.com/travel/article/20210616-funazushi-the-fermented-predecessor-of-modern-sushi?utm_source=bengtan&utm_medium=email
+Perche' non stamparsi a casa la propria macchina fotografica?|https://github.com/penk/ruha.camera

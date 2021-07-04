@@ -1,0 +1,23 @@
+#Winners of the weekly
+C'e' sempre qualcuno che indica il vostro puntatore del mouse|https://pointerpointer.com/
+L'immagine dell'editor del sito degli sviluppatori della BBC e' editabile|https://developer.bbc.com/login-required
+#Data Engineering
+Framework IOT con piano gratuito|https://blynk.io/
+Una libreria di testing per pyspark|https://github.com/MrPowers/chispa
+#Machine Learning
+Greykite - Potente libreria di calcolo predittivo (time series)|https://github.com/linkedin/greykite
+Simulatore di vita artificiale|https://alien-project.org/
+Hopsworks - Framework python di ML|https://github.com/logicalclocks/hopsworks
+Modin - acceleratore per Pandas|http://modin.org/
+#Miscellanea
+Calcolo per bambini|http://mathman.biz/materials/Calculus%20By%20and%20For%20Young%20People%20Worksheets.pdf
+Un buon articolo su Floc di Google (e se no sapete cos'e',leggete l'articolo)|https://www.wired.co.uk/article/google-cookies-floc
+Come sopra, ma visto dal Mozilla|https://blog.mozilla.org/en/mozilla/privacy-analysis-of-floc/
+Sticky notes collaborative in realta' aumentata|https://www.mani.ai/
+Stamparsi a casa il proprio mouse|https://github.com/ploopyco/mini-trackball
+#No-tech
+Design automobilistico|https://www.cardesignhistory.com/
+Tecniche di combattimento con la spada laser|https://www.italia.ludosport.net/la-prima-forma-shii-cho/
+Tutto quello che c'e' da sapere sulla caccia alle balene|https://mattlakeman.org/2021/06/01/everything-you-might-want-to-know-about-whaling/
+La mappa dei cicli metabolici|http://biochemical-pathways.com/#/map/1
+Vivere sotto terra per scongiurare il caldo|https://www.businessinsider.com/inside-coober-pedy-australias-underground-town-2016-1?r=US&IR=T
